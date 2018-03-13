@@ -8,7 +8,7 @@ import Picker from './Picker';
 
 type Props = {
   activeColor: Colors,
-  availableThemes: { [Colors]: string },
+  availableThemes: Array<Colors>,
   changeTheme: Colors => void,
   theme: { [string]: any }
 };
@@ -17,7 +17,7 @@ type Colors =
   | 'blue'
   | 'dusk'
   | 'indigo'
-  | 'lime'
+  | 'magenta'
   | 'purple'
   | 'sky'
   | 'slate'

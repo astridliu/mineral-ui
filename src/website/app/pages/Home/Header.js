@@ -1,7 +1,6 @@
 /* @flow */
 import React, { Component } from 'react';
 import Media from 'react-media';
-import colors from '../../../../library/colors';
 import { createStyledComponent, pxToEm } from '../../../../library/styles';
 import { createThemedComponent } from '../../../../library/themes';
 import Button from '../../../../library/Button';
@@ -111,7 +110,7 @@ const styles = {
     top: '0.45em', // Optical adjustment for baseline alignment with Logotype
 
     '&:focus': {
-      color: colors.orange_50,
+      color: '#ed774c',
       boxShadow: 'none'
     }
   }),

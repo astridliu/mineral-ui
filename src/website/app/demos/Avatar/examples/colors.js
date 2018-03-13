@@ -22,9 +22,7 @@ but be sure to use a color combination with an
       <Avatar background="sky"    >Sky    </Avatar>
       <Avatar background="teal"   >Teal   </Avatar>
       <Avatar background="green"  >Green  </Avatar>
-      <Avatar background="lime"   >Lime   </Avatar>
-      <Avatar background="yellow" >Yellow </Avatar>
-      <Avatar background="orange" >Orange </Avatar>
+      <Avatar background="bronze" >Bronze </Avatar>
       <Avatar background="gray"   >Gray   </Avatar>
       <Avatar background="slate"  >Slate  </Avatar>
       <Avatar background="dusk"   >Dusk   </Avatar>

@@ -13,16 +13,11 @@ const Root = createStyledComponent('span', ({ theme, variant }) => {
       ? theme.color_theme_60
       : theme[`backgroundColor_${variant}`];
 
-  const color =
-    variant === 'regular'
-      ? theme.color_text_onprimary
-      : theme[`color_text_on${variant}`];
-
   return {
     backgroundColor,
     borderRadius: theme.borderRadius_1,
     bottom: '0.15em', // optical adjustment for middle vertical alignment
-    color,
+    color: theme.color_text_onprimary,
     fontSize: theme.fontSize_mouse,
     padding: `${theme.space_stack_xs} ${theme.space_inset_sm}`,
     position: 'relative', // optical adjustment for middle vertical alignment
