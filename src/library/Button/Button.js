@@ -106,8 +106,7 @@ const styles = {
         Button_backgroundColor_primary_hover: theme[`backgroundColor_${variant}_hover`],
         Button_boxShadow_focus: `0 0 0 1px ${theme[`borderColor_${variant}_focus`]}`,
         Button_color_text: theme[`color_text_${variant}`],
-        Button_color_text_minimal: theme[`color_text_${variant}`],
-        Button_color_text_primary: theme[`color_text_on${variant}`]
+        Button_color_text_minimal: theme[`color_text_${variant}`]
       };
     }
 

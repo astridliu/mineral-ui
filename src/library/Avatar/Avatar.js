@@ -1,6 +1,6 @@
 /* @flow */
 import React, { Children, cloneElement } from 'react';
-import { getColor, getReadableTextColor } from '../colors';
+import { getColor } from '../colors';
 import { createStyledComponent, pxToEm } from '../styles';
 
 type Props = {
@@ -9,19 +9,17 @@ type Props = {
   /** Background color */
   background?:
     | 'blue'
+    | 'bronze'
     | 'dusk'
     | 'gray'
     | 'green'
     | 'indigo'
-    | 'lime'
     | 'magenta'
-    | 'orange'
     | 'purple'
     | 'red'
     | 'sky'
     | 'slate'
     | 'teal'
-    | 'yellow'
     | string,
   /**
    * `img` (with an `alt` attribute), [Icon](/components/icon) (with a `title`), or a
@@ -72,9 +70,8 @@ const Root = createStyledComponent(
 
     const color =
       propColor ||
-      (background
-        ? getReadableTextColor(background, 60)
-        : theme.color_text_onprimary);
+      // Gray doesn't follow the same pattern as the other color ramps
+      (background === 'gray' ? theme.color_black : theme.color_text_onprimary);
     const size = theme[`Avatar_size_${propSize}`];
 
     return {
