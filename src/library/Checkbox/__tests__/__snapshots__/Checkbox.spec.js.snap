@@ -42,7 +42,7 @@ exports[`Checkbox demo examples controlled 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -64,22 +64,22 @@ exports[`Checkbox demo examples controlled 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -90,8 +90,8 @@ exports[`Checkbox demo examples controlled 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -704,7 +704,7 @@ exports[`Checkbox demo examples controlled 2`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -726,22 +726,22 @@ exports[`Checkbox demo examples controlled 2`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -752,8 +752,8 @@ exports[`Checkbox demo examples controlled 2`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -1575,7 +1575,7 @@ exports[`Checkbox demo examples data-vs-children 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -1597,22 +1597,22 @@ exports[`Checkbox demo examples data-vs-children 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -1623,8 +1623,8 @@ exports[`Checkbox demo examples data-vs-children 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -3016,22 +3016,22 @@ exports[`Checkbox demo examples disabled 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -3042,8 +3042,8 @@ exports[`Checkbox demo examples disabled 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -3508,7 +3508,7 @@ exports[`Checkbox demo examples form-field 1`] = `
 
 .glamor-6:hover span:first-of-type,
 [data-glamor-6]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-2,
@@ -3530,22 +3530,22 @@ exports[`Checkbox demo examples form-field 1`] = `
 [data-glamor-2]:hover:not(:disabled) + span,
 .glamor-2[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-2][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-2:focus + span,
 [data-glamor-2]:focus + span,
 .glamor-2[data-simulate-focus] + span,
 [data-glamor-2][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-2:checked + span,
 [data-glamor-2]:checked + span,
 .glamor-2[type="checkbox"]:indeterminate + span,
 [data-glamor-2][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-2:checked:hover + span,
@@ -3556,8 +3556,8 @@ exports[`Checkbox demo examples form-field 1`] = `
 [data-glamor-2]:checked[data-simulate-hover] + span,
 .glamor-2[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-2][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-2:checked:disabled + span,
@@ -3698,13 +3698,13 @@ exports[`Checkbox demo examples form-field 1`] = `
 
 .glamor-0,
 [data-glamor-0] {
-  color: #db2929;
+  color: #de1b1b;
   font-size: 0.6875em;
 }
 
 .glamor-28,
 [data-glamor-28] {
-  color: #06783f;
+  color: #038537;
   font-size: 0.6875em;
   margin-top: 0.7272727272727273em;
 }
@@ -4951,7 +4951,7 @@ exports[`Checkbox demo examples inline 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -4973,22 +4973,22 @@ exports[`Checkbox demo examples inline 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -4999,8 +4999,8 @@ exports[`Checkbox demo examples inline 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -5813,7 +5813,7 @@ exports[`Checkbox demo examples input-ref 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -5835,22 +5835,22 @@ exports[`Checkbox demo examples input-ref 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -5861,8 +5861,8 @@ exports[`Checkbox demo examples input-ref 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -5962,7 +5962,7 @@ exports[`Checkbox demo examples input-ref 1`] = `
 [data-glamor-7][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -5994,7 +5994,7 @@ exports[`Checkbox demo examples input-ref 1`] = `
 .glamor-7 [role="img"],
 [data-glamor-7] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -6314,7 +6314,7 @@ exports[`Checkbox demo examples invalid 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -6336,22 +6336,22 @@ exports[`Checkbox demo examples invalid 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -6362,8 +6362,8 @@ exports[`Checkbox demo examples invalid 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -6806,7 +6806,7 @@ exports[`Checkbox demo examples label-position-and-justification 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -6828,22 +6828,22 @@ exports[`Checkbox demo examples label-position-and-justification 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -6854,8 +6854,8 @@ exports[`Checkbox demo examples label-position-and-justification 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -6962,7 +6962,7 @@ exports[`Checkbox demo examples label-position-and-justification 1`] = `
 
 .glamor-10:hover span:first-of-type,
 [data-glamor-10]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-8,
@@ -7033,7 +7033,7 @@ exports[`Checkbox demo examples label-position-and-justification 1`] = `
 
 .glamor-16:hover span:first-of-type,
 [data-glamor-16]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-15,
@@ -7080,7 +7080,7 @@ exports[`Checkbox demo examples label-position-and-justification 1`] = `
 
 .glamor-22:hover span:first-of-type,
 [data-glamor-22]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-21,
@@ -7796,7 +7796,7 @@ exports[`Checkbox demo examples label-wrapping 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -7818,22 +7818,22 @@ exports[`Checkbox demo examples label-wrapping 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -7844,8 +7844,8 @@ exports[`Checkbox demo examples label-wrapping 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -8123,7 +8123,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -8145,22 +8145,22 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -8171,8 +8171,8 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -8312,7 +8312,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 [data-glamor-38][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -8344,7 +8344,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-38 [role="img"],
 [data-glamor-38] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -8514,7 +8514,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 [data-glamor-7]:hover > div:last-child,
 .glamor-7[data-simulate-hover] > div:last-child,
 [data-glamor-7][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-7:focus > div:last-child,
@@ -8522,7 +8522,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-7[data-simulate-focus] > div:last-child,
 [data-glamor-7][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-7:active > div:last-child,
@@ -8530,7 +8530,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-7[data-simulate-active] > div:last-child,
 [data-glamor-7][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-7 [role="img"],
@@ -8601,7 +8601,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-5[data-simulate-focus] ~ div:last-child,
 [data-glamor-5][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-6,
@@ -8659,7 +8659,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 [data-glamor-12][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -8691,7 +8691,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-12 [role="img"],
 [data-glamor-12] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -8776,7 +8776,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-18[data-simulate-focus] ~ div:last-child,
 [data-glamor-18][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-25,
@@ -8819,7 +8819,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 [data-glamor-25][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -8851,7 +8851,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-25 [role="img"],
 [data-glamor-25] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -8936,7 +8936,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-31[data-simulate-focus] ~ div:last-child,
 [data-glamor-31][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-44,
@@ -8993,7 +8993,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-44[data-simulate-focus] ~ div:last-child,
 [data-glamor-44][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-51,
@@ -9036,7 +9036,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 [data-glamor-51][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -9068,7 +9068,7 @@ exports[`Checkbox demo examples next-to-other-inputs 1`] = `
 .glamor-51 [role="img"],
 [data-glamor-51] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -10391,7 +10391,7 @@ exports[`Checkbox demo examples required 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -10413,22 +10413,22 @@ exports[`Checkbox demo examples required 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -10439,8 +10439,8 @@ exports[`Checkbox demo examples required 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -10883,7 +10883,7 @@ exports[`Checkbox demo examples rtl 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -10905,22 +10905,22 @@ exports[`Checkbox demo examples rtl 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -10931,8 +10931,8 @@ exports[`Checkbox demo examples rtl 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -11039,7 +11039,7 @@ exports[`Checkbox demo examples rtl 1`] = `
 
 .glamor-9:hover span:first-of-type,
 [data-glamor-9]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-2,
@@ -11110,7 +11110,7 @@ exports[`Checkbox demo examples rtl 1`] = `
 
 .glamor-15:hover span:first-of-type,
 [data-glamor-15]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-19,
@@ -11157,7 +11157,7 @@ exports[`Checkbox demo examples rtl 1`] = `
 
 .glamor-20:hover span:first-of-type,
 [data-glamor-20]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-14,
@@ -11838,7 +11838,7 @@ exports[`Checkbox demo examples sizes 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -11860,22 +11860,22 @@ exports[`Checkbox demo examples sizes 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -11886,8 +11886,8 @@ exports[`Checkbox demo examples sizes 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -12659,7 +12659,7 @@ exports[`Checkbox demo examples states 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -12681,22 +12681,22 @@ exports[`Checkbox demo examples states 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -12707,8 +12707,8 @@ exports[`Checkbox demo examples states 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -16063,7 +16063,7 @@ exports[`Checkbox demo examples tri-state 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -16085,22 +16085,22 @@ exports[`Checkbox demo examples tri-state 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -16111,8 +16111,8 @@ exports[`Checkbox demo examples tri-state 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -16699,7 +16699,7 @@ exports[`Checkbox demo examples uncontrolled 1`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -16721,22 +16721,22 @@ exports[`Checkbox demo examples uncontrolled 1`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -16747,8 +16747,8 @@ exports[`Checkbox demo examples uncontrolled 1`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,
@@ -17183,7 +17183,7 @@ exports[`Checkbox demo examples uncontrolled 2`] = `
 
 .glamor-4:hover span:first-of-type,
 [data-glamor-4]:hover span:first-of-type {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0,
@@ -17205,22 +17205,22 @@ exports[`Checkbox demo examples uncontrolled 2`] = `
 [data-glamor-0]:hover:not(:disabled) + span,
 .glamor-0[data-simulate-hover]:not(:disabled) + span,
 [data-glamor-0][data-simulate-hover]:not(:disabled) + span {
-  border-color: #1f5dc2;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:focus + span,
 [data-glamor-0]:focus + span,
 .glamor-0[data-simulate-focus] + span,
 [data-glamor-0][data-simulate-focus] + span {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-0:checked + span,
 [data-glamor-0]:checked + span,
 .glamor-0[type="checkbox"]:indeterminate + span,
 [data-glamor-0][type="checkbox"]:indeterminate + span {
-  background-color: #2e6fd9;
-  border-color: #2e6fd9;
+  background-color: #3272d9;
+  border-color: #3272d9;
 }
 
 .glamor-0:checked:hover + span,
@@ -17231,8 +17231,8 @@ exports[`Checkbox demo examples uncontrolled 2`] = `
 [data-glamor-0]:checked[data-simulate-hover] + span,
 .glamor-0[type="checkbox"]:indeterminate[data-simulate-hover] + span,
 [data-glamor-0][type="checkbox"]:indeterminate[data-simulate-hover] + span {
-  background-color: #1f5dc2;
-  border-color: #1f5dc2;
+  background-color: #1d5bbf;
+  border-color: #1d5bbf;
 }
 
 .glamor-0:checked:disabled + span,

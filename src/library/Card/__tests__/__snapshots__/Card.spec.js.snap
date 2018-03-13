@@ -46,7 +46,7 @@ exports[`Card demo examples actions-menu 1`] = `
 [data-glamor-15]:focus,
 .glamor-15[data-simulate-focus],
 [data-glamor-15][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-12,
@@ -185,7 +185,7 @@ exports[`Card demo examples actions-menu 1`] = `
 .glamor-3,
 [data-glamor-3] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -222,8 +222,8 @@ exports[`Card demo examples actions-menu 1`] = `
 .glamor-3[data-simulate-focus],
 [data-glamor-3][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -232,7 +232,7 @@ exports[`Card demo examples actions-menu 1`] = `
 .glamor-3[data-simulate-hover],
 [data-glamor-3][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -241,7 +241,7 @@ exports[`Card demo examples actions-menu 1`] = `
 .glamor-3[data-simulate-active],
 [data-glamor-3][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-3::-moz-focus-inner,
@@ -825,7 +825,7 @@ exports[`Card demo examples avatar 1`] = `
 [data-glamor-8]:focus,
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-5,
@@ -1298,7 +1298,7 @@ exports[`Card demo examples basic 1`] = `
 [data-glamor-7]:focus,
 .glamor-7[data-simulate-focus],
 [data-glamor-7][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-3,
@@ -1575,7 +1575,7 @@ exports[`Card demo examples basic 2`] = `
 [data-glamor-12]:focus,
 .glamor-12[data-simulate-focus],
 [data-glamor-12][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-1,
@@ -1655,7 +1655,7 @@ exports[`Card demo examples basic 2`] = `
 .glamor-17,
 [data-glamor-17] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -1691,8 +1691,8 @@ exports[`Card demo examples basic 2`] = `
 .glamor-17[data-simulate-focus],
 [data-glamor-17][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -1701,7 +1701,7 @@ exports[`Card demo examples basic 2`] = `
 .glamor-17[data-simulate-hover],
 [data-glamor-17][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -1710,7 +1710,7 @@ exports[`Card demo examples basic 2`] = `
 .glamor-17[data-simulate-active],
 [data-glamor-17][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-17::-moz-focus-inner,
@@ -1764,7 +1764,7 @@ exports[`Card demo examples basic 2`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -1792,9 +1792,9 @@ exports[`Card demo examples basic 2`] = `
 [data-glamor-22]:focus,
 .glamor-22[data-simulate-focus],
 [data-glamor-22][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #fff;
   text-decoration: none;
 }
@@ -1803,7 +1803,7 @@ exports[`Card demo examples basic 2`] = `
 [data-glamor-22]:hover,
 .glamor-22[data-simulate-hover],
 [data-glamor-22][data-simulate-hover] {
-  background-color: #4a89e8;
+  background-color: #5691f0;
   color: #fff;
   text-decoration: none;
 }
@@ -1812,7 +1812,7 @@ exports[`Card demo examples basic 2`] = `
 [data-glamor-22]:active,
 .glamor-22[data-simulate-active],
 [data-glamor-22][data-simulate-active] {
-  background-color: #1f5dc2;
+  background-color: #1d5bbf;
   color: #fff;
 }
 
@@ -1885,7 +1885,7 @@ exports[`Card demo examples basic 2`] = `
 [data-glamor-4][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -1917,7 +1917,7 @@ exports[`Card demo examples basic 2`] = `
 .glamor-4 [role="img"],
 [data-glamor-4] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -1947,7 +1947,7 @@ exports[`Card demo examples basic 2`] = `
 .glamor-30,
 [data-glamor-30] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -1983,8 +1983,8 @@ exports[`Card demo examples basic 2`] = `
 .glamor-30[data-simulate-focus],
 [data-glamor-30][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -1993,7 +1993,7 @@ exports[`Card demo examples basic 2`] = `
 .glamor-30[data-simulate-hover],
 [data-glamor-30][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -2002,7 +2002,7 @@ exports[`Card demo examples basic 2`] = `
 .glamor-30[data-simulate-active],
 [data-glamor-30][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-30::-moz-focus-inner,
@@ -2661,7 +2661,7 @@ exports[`Card demo examples basic 3`] = `
 [data-glamor-12]:focus,
 .glamor-12[data-simulate-focus],
 [data-glamor-12][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-3,
@@ -2961,7 +2961,7 @@ exports[`Card demo examples basic 4`] = `
 [data-glamor-8]:focus,
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-3,
@@ -3048,7 +3048,7 @@ exports[`Card demo examples basic 4`] = `
   padding-left: 1em;
   padding-right: 1em;
   align-items: center;
-  color: #db2929;
+  color: #de1b1b;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -3075,7 +3075,7 @@ exports[`Card demo examples basic 4`] = `
   padding-left: 1em;
   padding-right: 1em;
   align-items: center;
-  color: #06783f;
+  color: #038537;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -3102,7 +3102,7 @@ exports[`Card demo examples basic 4`] = `
   padding-left: 1em;
   padding-right: 1em;
   align-items: center;
-  color: #cf4615;
+  color: #ad5f00;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -3541,7 +3541,7 @@ exports[`Card demo examples children 1`] = `
 [data-glamor-8]:focus,
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-3,
@@ -3648,7 +3648,7 @@ exports[`Card demo examples children 1`] = `
 [data-glamor-6][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -3680,7 +3680,7 @@ exports[`Card demo examples children 1`] = `
 .glamor-6 [role="img"],
 [data-glamor-6] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -3938,7 +3938,7 @@ exports[`Card demo examples children 2`] = `
 [data-glamor-10]:focus,
 .glamor-10[data-simulate-focus],
 [data-glamor-10][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-3,
@@ -4051,7 +4051,7 @@ exports[`Card demo examples children 2`] = `
 [data-glamor-6][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -4083,7 +4083,7 @@ exports[`Card demo examples children 2`] = `
 .glamor-6 [role="img"],
 [data-glamor-6] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -4432,7 +4432,7 @@ exports[`Card demo examples clickable 1`] = `
 [data-glamor-6]:focus,
 .glamor-6[data-simulate-focus],
 [data-glamor-6][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 @media (min-width: 40em) {
@@ -4603,7 +4603,7 @@ exports[`Card demo examples consistent-spacing 1`] = `
 [data-glamor-8]:focus,
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-3,
@@ -4669,7 +4669,7 @@ exports[`Card demo examples consistent-spacing 1`] = `
 [data-glamor-6]::before,
 .glamor-6[data-simulate-before],
 [data-glamor-6][data-simulate-before] {
-  border-color: #e6eefc;
+  border-color: #f0f5fc;
   border-style: solid;
   border-width: 1em 1em 1.5em;
   bottom: -1.5em;
@@ -4700,7 +4700,7 @@ exports[`Card demo examples consistent-spacing 1`] = `
 [data-glamor-5]::before,
 .glamor-5[data-simulate-before],
 [data-glamor-5][data-simulate-before] {
-  border-color: #e6eefc;
+  border-color: #f0f5fc;
   border-style: solid;
   border-width: 1em 1em 1.5em;
   bottom: -1.5em;
@@ -4867,7 +4867,7 @@ exports[`Card demo examples order 1`] = `
 [data-glamor-19]:focus,
 .glamor-19[data-simulate-focus],
 [data-glamor-19][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-3,
@@ -5038,7 +5038,7 @@ exports[`Card demo examples order 1`] = `
 .glamor-9,
 [data-glamor-9] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -5074,8 +5074,8 @@ exports[`Card demo examples order 1`] = `
 .glamor-9[data-simulate-focus],
 [data-glamor-9][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -5084,7 +5084,7 @@ exports[`Card demo examples order 1`] = `
 .glamor-9[data-simulate-hover],
 [data-glamor-9][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -5093,7 +5093,7 @@ exports[`Card demo examples order 1`] = `
 .glamor-9[data-simulate-active],
 [data-glamor-9][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-9::-moz-focus-inner,
@@ -5147,7 +5147,7 @@ exports[`Card demo examples order 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -5175,9 +5175,9 @@ exports[`Card demo examples order 1`] = `
 [data-glamor-13]:focus,
 .glamor-13[data-simulate-focus],
 [data-glamor-13][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #fff;
   text-decoration: none;
 }
@@ -5186,7 +5186,7 @@ exports[`Card demo examples order 1`] = `
 [data-glamor-13]:hover,
 .glamor-13[data-simulate-hover],
 [data-glamor-13][data-simulate-hover] {
-  background-color: #4a89e8;
+  background-color: #5691f0;
   color: #fff;
   text-decoration: none;
 }
@@ -5195,7 +5195,7 @@ exports[`Card demo examples order 1`] = `
 [data-glamor-13]:active,
 .glamor-13[data-simulate-active],
 [data-glamor-13][data-simulate-active] {
-  background-color: #1f5dc2;
+  background-color: #1d5bbf;
   color: #fff;
 }
 
@@ -5971,7 +5971,7 @@ exports[`Card demo examples rtl 1`] = `
 [data-glamor-12]:focus,
 .glamor-12[data-simulate-focus],
 [data-glamor-12][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-1,
@@ -6108,7 +6108,7 @@ exports[`Card demo examples rtl 1`] = `
 [data-glamor-4][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -6140,7 +6140,7 @@ exports[`Card demo examples rtl 1`] = `
 .glamor-4 [role="img"],
 [data-glamor-4] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -6427,7 +6427,7 @@ exports[`Card demo examples rtl 2`] = `
 [data-glamor-4]:focus,
 .glamor-4[data-simulate-focus],
 [data-glamor-4][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-1,
@@ -6466,7 +6466,7 @@ exports[`Card demo examples rtl 2`] = `
   padding-left: 1em;
   padding-right: 1em;
   align-items: center;
-  color: #db2929;
+  color: #de1b1b;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -6653,7 +6653,7 @@ exports[`Card demo examples rtl 3`] = `
 [data-glamor-9]:focus,
 .glamor-9[data-simulate-focus],
 [data-glamor-9][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-6,
@@ -7127,7 +7127,7 @@ exports[`Card demo examples secondary-text 1`] = `
 [data-glamor-7]:focus,
 .glamor-7[data-simulate-focus],
 [data-glamor-7][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-4,
@@ -7461,7 +7461,7 @@ exports[`Card demo examples titles 1`] = `
 [data-glamor-7]:focus,
 .glamor-7[data-simulate-focus],
 [data-glamor-7][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-4,
@@ -7717,7 +7717,7 @@ exports[`Card demo examples variants 1`] = `
 [data-glamor-7]:focus,
 .glamor-7[data-simulate-focus],
 [data-glamor-7][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-4,
@@ -7801,7 +7801,7 @@ exports[`Card demo examples variants 1`] = `
 
 .glamor-2 > [role="img"],
 [data-glamor-2] > [role="img"] {
-  fill: #db2929;
+  fill: #de1b1b;
   margin-right: 0.5em;
   position: relative;
   top: 0.25em;
@@ -7821,7 +7821,7 @@ exports[`Card demo examples variants 1`] = `
 
 .glamor-10 > [role="img"],
 [data-glamor-10] > [role="img"] {
-  fill: #06783f;
+  fill: #038537;
   margin-right: 0.5em;
   position: relative;
   top: 0.25em;
@@ -7841,7 +7841,7 @@ exports[`Card demo examples variants 1`] = `
 
 .glamor-18 > [role="img"],
 [data-glamor-18] > [role="img"] {
-  fill: #cf4615;
+  fill: #ad5f00;
   margin-right: 0.5em;
   position: relative;
   top: 0.25em;
@@ -8248,7 +8248,7 @@ exports[`Card demo examples with-image 1`] = `
 [data-glamor-7]:focus,
 .glamor-7[data-simulate-focus],
 [data-glamor-7][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-4,
@@ -8524,7 +8524,7 @@ exports[`Card demo examples with-links 1`] = `
 [data-glamor-7]:focus,
 .glamor-7[data-simulate-focus],
 [data-glamor-7][data-simulate-focus] {
-  box-shadow: 0 0 0 2px #0f397d, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 0 0 2px #15233b, 0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2);
 }
 
 .glamor-1,
@@ -8586,7 +8586,7 @@ exports[`Card demo examples with-links 1`] = `
 
 .glamor-2,
 [data-glamor-2] {
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -8594,7 +8594,7 @@ exports[`Card demo examples with-links 1`] = `
 [data-glamor-2]:hover,
 .glamor-2[data-simulate-hover],
 [data-glamor-2][data-simulate-hover] {
-  color: #4a89e8;
+  color: #5691f0;
   text-decoration: underline;
 }
 
@@ -8602,8 +8602,8 @@ exports[`Card demo examples with-links 1`] = `
 [data-glamor-2]:focus,
 .glamor-2[data-simulate-focus],
 [data-glamor-2][data-simulate-focus] {
-  color: #2e6fd9;
-  outline: 1px solid #2e6fd9;
+  color: #3272d9;
+  outline: 1px solid #3272d9;
   outline-offset: 2px;
 }
 
@@ -8611,7 +8611,7 @@ exports[`Card demo examples with-links 1`] = `
 [data-glamor-2]:active,
 .glamor-2[data-simulate-active],
 [data-glamor-2][data-simulate-active] {
-  color: #1f5dc2;
+  color: #1d5bbf;
 }
 
 @media (min-width: 40em) {

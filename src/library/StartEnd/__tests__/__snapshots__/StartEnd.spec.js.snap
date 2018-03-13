@@ -44,15 +44,15 @@ exports[`StartEnd demo examples align-items 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -63,11 +63,11 @@ exports[`StartEnd demo examples align-items 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -76,7 +76,7 @@ exports[`StartEnd demo examples align-items 1`] = `
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -118,7 +118,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-15]::before,
 .glamor-15[data-simulate-before],
 [data-glamor-15][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -155,7 +155,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-13]::before,
 .glamor-13[data-simulate-before],
 [data-glamor-13][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -209,7 +209,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-12]::before,
 .glamor-12[data-simulate-before],
 [data-glamor-12][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -246,7 +246,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-33]::before,
 .glamor-33[data-simulate-before],
 [data-glamor-33][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -300,7 +300,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-32]::before,
 .glamor-32[data-simulate-before],
 [data-glamor-32][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -337,7 +337,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-53]::before,
 .glamor-53[data-simulate-before],
 [data-glamor-53][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -391,7 +391,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-52]::before,
 .glamor-52[data-simulate-before],
 [data-glamor-52][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -428,7 +428,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-73]::before,
 .glamor-73[data-simulate-before],
 [data-glamor-73][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -482,7 +482,7 @@ exports[`StartEnd demo examples align-items 1`] = `
 [data-glamor-72]::before,
 .glamor-72[data-simulate-before],
 [data-glamor-72][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -544,46 +544,46 @@ exports[`StartEnd demo examples align-items 1`] = `
                             justifyContent="between"
                             theme={
                               Object {
-                                "backgroundColor_danger": "#db2929",
-                                "backgroundColor_danger_active": "#c71818",
-                                "backgroundColor_danger_activeMuted": "#f79999",
-                                "backgroundColor_danger_focus": "#db2929",
-                                "backgroundColor_danger_hover": "#eb4d4d",
-                                "backgroundColor_danger_muted": "#fabebe",
+                                "backgroundColor_danger": "#de1b1b",
+                                "backgroundColor_danger_active": "#b80d0d",
+                                "backgroundColor_danger_activeMuted": "#fab6b6",
+                                "backgroundColor_danger_focus": "#de1b1b",
+                                "backgroundColor_danger_hover": "#f55353",
+                                "backgroundColor_danger_muted": "#fad4d4",
                                 "backgroundColor_disabled": "#ebeff5",
                                 "backgroundColor_input": "#fff",
                                 "backgroundColor_link_focus": "#dde3ed",
-                                "backgroundColor_success": "#0a8f4c",
-                                "backgroundColor_success_active": "#06783f",
-                                "backgroundColor_success_activeMuted": "#95f5c3",
-                                "backgroundColor_success_focus": "#0a8f4c",
-                                "backgroundColor_success_hover": "#10a35a",
-                                "backgroundColor_success_muted": "#c0fadc",
-                                "backgroundColor_warning": "#e05b2b",
-                                "backgroundColor_warning_active": "#cf4615",
-                                "backgroundColor_warning_activeMuted": "#fab69d",
-                                "backgroundColor_warning_focus": "#e05b2b",
-                                "backgroundColor_warning_hover": "#ed774c",
-                                "backgroundColor_warning_muted": "#fcd0c0",
+                                "backgroundColor_success": "#038537",
+                                "backgroundColor_success_active": "#056b2e",
+                                "backgroundColor_success_activeMuted": "#46e385",
+                                "backgroundColor_success_focus": "#038537",
+                                "backgroundColor_success_hover": "#0aa648",
+                                "backgroundColor_success_muted": "#8ef5b7",
+                                "backgroundColor_warning": "#ad5f00",
+                                "backgroundColor_warning_active": "#8a4d03",
+                                "backgroundColor_warning_activeMuted": "#f5bc76",
+                                "backgroundColor_warning_focus": "#ad5f00",
+                                "backgroundColor_warning_hover": "#cf7911",
+                                "backgroundColor_warning_muted": "#fad8af",
                                 "borderColor": "#c8d1e0",
-                                "borderColor_active": "#2e6fd9",
-                                "borderColor_danger": "#db2929",
-                                "borderColor_danger_active": "#c71818",
-                                "borderColor_danger_focus": "#c71818",
-                                "borderColor_danger_hover": "#c71818",
-                                "borderColor_danger_muted": "#f27474",
-                                "borderColor_focus": "#2e6fd9",
-                                "borderColor_hover": "#2e6fd9",
-                                "borderColor_success": "#10a35a",
-                                "borderColor_success_active": "#0a8f4c",
-                                "borderColor_success_focus": "#0a8f4c",
-                                "borderColor_success_hover": "#0a8f4c",
-                                "borderColor_success_muted": "#67eba7",
-                                "borderColor_warning": "#e05b2b",
-                                "borderColor_warning_active": "#cf4615",
-                                "borderColor_warning_focus": "#cf4615",
-                                "borderColor_warning_hover": "#cf4615",
-                                "borderColor_warning_muted": "#f59776",
+                                "borderColor_active": "#3272d9",
+                                "borderColor_danger": "#de1b1b",
+                                "borderColor_danger_active": "#b80d0d",
+                                "borderColor_danger_focus": "#b80d0d",
+                                "borderColor_danger_hover": "#b80d0d",
+                                "borderColor_danger_muted": "#fa8e8e",
+                                "borderColor_focus": "#3272d9",
+                                "borderColor_hover": "#3272d9",
+                                "borderColor_success": "#038537",
+                                "borderColor_success_active": "#056b2e",
+                                "borderColor_success_focus": "#056b2e",
+                                "borderColor_success_hover": "#056b2e",
+                                "borderColor_success_muted": "#1ec963",
+                                "borderColor_warning": "#ad5f00",
+                                "borderColor_warning_active": "#8a4d03",
+                                "borderColor_warning_focus": "#8a4d03",
+                                "borderColor_warning_hover": "#8a4d03",
+                                "borderColor_warning_muted": "#e89c3f",
                                 "borderRadius_1": "0.1875em",
                                 "breakpoint_medium": 768,
                                 "breakpoint_narrow": 512,
@@ -602,37 +602,34 @@ exports[`StartEnd demo examples align-items 1`] = `
                                 "color_gray_90": "#434a54",
                                 "color_placeholder": "#8e99ab",
                                 "color_text": "#333840",
-                                "color_text_danger": "#db2929",
-                                "color_text_danger_active": "#c71818",
-                                "color_text_danger_focus": "#db2929",
-                                "color_text_danger_hover": "#eb4d4d",
+                                "color_text_danger": "#de1b1b",
+                                "color_text_danger_active": "#b80d0d",
+                                "color_text_danger_focus": "#de1b1b",
+                                "color_text_danger_hover": "#f55353",
                                 "color_text_disabled": "#afbacc",
-                                "color_text_ondanger": "#fff",
                                 "color_text_onprimary": "#fff",
-                                "color_text_onsuccess": "#fff",
-                                "color_text_onwarning": "#fff",
-                                "color_text_primary": "#2e6fd9",
-                                "color_text_primary_active": "#1f5dc2",
-                                "color_text_primary_focus": "#2e6fd9",
-                                "color_text_primary_hover": "#4a89e8",
-                                "color_text_success": "#06783f",
-                                "color_text_success_active": "#046132",
-                                "color_text_success_focus": "#06783f",
-                                "color_text_success_hover": "#0a8f4c",
-                                "color_text_warning": "#cf4615",
-                                "color_text_warning_active": "#bd3909",
-                                "color_text_warning_focus": "#cf4615",
-                                "color_text_warning_hover": "#e05b2b",
-                                "color_theme_10": "#e6eefc",
-                                "color_theme_100": "#0f397d",
-                                "color_theme_20": "#c2dbfc",
-                                "color_theme_30": "#9dc2fa",
-                                "color_theme_40": "#72a5f2",
-                                "color_theme_50": "#4a89e8",
-                                "color_theme_60": "#2e6fd9",
-                                "color_theme_70": "#1f5dc2",
-                                "color_theme_80": "#164ea8",
-                                "color_theme_90": "#114091",
+                                "color_text_primary": "#3272d9",
+                                "color_text_primary_active": "#1d5bbf",
+                                "color_text_primary_focus": "#3272d9",
+                                "color_text_primary_hover": "#5691f0",
+                                "color_text_success": "#038537",
+                                "color_text_success_active": "#056b2e",
+                                "color_text_success_focus": "#038537",
+                                "color_text_success_hover": "#0aa648",
+                                "color_text_warning": "#ad5f00",
+                                "color_text_warning_active": "#8a4d03",
+                                "color_text_warning_focus": "#ad5f00",
+                                "color_text_warning_hover": "#cf7911",
+                                "color_theme_10": "#f0f5fc",
+                                "color_theme_100": "#15233b",
+                                "color_theme_20": "#cfe0fc",
+                                "color_theme_30": "#accbfc",
+                                "color_theme_40": "#84b1fa",
+                                "color_theme_50": "#5691f0",
+                                "color_theme_60": "#3272d9",
+                                "color_theme_70": "#1d5bbf",
+                                "color_theme_80": "#114599",
+                                "color_theme_90": "#103570",
                                 "color_white": "#fff",
                                 "direction": "ltr",
                                 "fontFamily": "Open Sans",
@@ -872,46 +869,46 @@ exports[`StartEnd demo examples align-items 1`] = `
                             justifyContent="between"
                             theme={
                               Object {
-                                "backgroundColor_danger": "#db2929",
-                                "backgroundColor_danger_active": "#c71818",
-                                "backgroundColor_danger_activeMuted": "#f79999",
-                                "backgroundColor_danger_focus": "#db2929",
-                                "backgroundColor_danger_hover": "#eb4d4d",
-                                "backgroundColor_danger_muted": "#fabebe",
+                                "backgroundColor_danger": "#de1b1b",
+                                "backgroundColor_danger_active": "#b80d0d",
+                                "backgroundColor_danger_activeMuted": "#fab6b6",
+                                "backgroundColor_danger_focus": "#de1b1b",
+                                "backgroundColor_danger_hover": "#f55353",
+                                "backgroundColor_danger_muted": "#fad4d4",
                                 "backgroundColor_disabled": "#ebeff5",
                                 "backgroundColor_input": "#fff",
                                 "backgroundColor_link_focus": "#dde3ed",
-                                "backgroundColor_success": "#0a8f4c",
-                                "backgroundColor_success_active": "#06783f",
-                                "backgroundColor_success_activeMuted": "#95f5c3",
-                                "backgroundColor_success_focus": "#0a8f4c",
-                                "backgroundColor_success_hover": "#10a35a",
-                                "backgroundColor_success_muted": "#c0fadc",
-                                "backgroundColor_warning": "#e05b2b",
-                                "backgroundColor_warning_active": "#cf4615",
-                                "backgroundColor_warning_activeMuted": "#fab69d",
-                                "backgroundColor_warning_focus": "#e05b2b",
-                                "backgroundColor_warning_hover": "#ed774c",
-                                "backgroundColor_warning_muted": "#fcd0c0",
+                                "backgroundColor_success": "#038537",
+                                "backgroundColor_success_active": "#056b2e",
+                                "backgroundColor_success_activeMuted": "#46e385",
+                                "backgroundColor_success_focus": "#038537",
+                                "backgroundColor_success_hover": "#0aa648",
+                                "backgroundColor_success_muted": "#8ef5b7",
+                                "backgroundColor_warning": "#ad5f00",
+                                "backgroundColor_warning_active": "#8a4d03",
+                                "backgroundColor_warning_activeMuted": "#f5bc76",
+                                "backgroundColor_warning_focus": "#ad5f00",
+                                "backgroundColor_warning_hover": "#cf7911",
+                                "backgroundColor_warning_muted": "#fad8af",
                                 "borderColor": "#c8d1e0",
-                                "borderColor_active": "#2e6fd9",
-                                "borderColor_danger": "#db2929",
-                                "borderColor_danger_active": "#c71818",
-                                "borderColor_danger_focus": "#c71818",
-                                "borderColor_danger_hover": "#c71818",
-                                "borderColor_danger_muted": "#f27474",
-                                "borderColor_focus": "#2e6fd9",
-                                "borderColor_hover": "#2e6fd9",
-                                "borderColor_success": "#10a35a",
-                                "borderColor_success_active": "#0a8f4c",
-                                "borderColor_success_focus": "#0a8f4c",
-                                "borderColor_success_hover": "#0a8f4c",
-                                "borderColor_success_muted": "#67eba7",
-                                "borderColor_warning": "#e05b2b",
-                                "borderColor_warning_active": "#cf4615",
-                                "borderColor_warning_focus": "#cf4615",
-                                "borderColor_warning_hover": "#cf4615",
-                                "borderColor_warning_muted": "#f59776",
+                                "borderColor_active": "#3272d9",
+                                "borderColor_danger": "#de1b1b",
+                                "borderColor_danger_active": "#b80d0d",
+                                "borderColor_danger_focus": "#b80d0d",
+                                "borderColor_danger_hover": "#b80d0d",
+                                "borderColor_danger_muted": "#fa8e8e",
+                                "borderColor_focus": "#3272d9",
+                                "borderColor_hover": "#3272d9",
+                                "borderColor_success": "#038537",
+                                "borderColor_success_active": "#056b2e",
+                                "borderColor_success_focus": "#056b2e",
+                                "borderColor_success_hover": "#056b2e",
+                                "borderColor_success_muted": "#1ec963",
+                                "borderColor_warning": "#ad5f00",
+                                "borderColor_warning_active": "#8a4d03",
+                                "borderColor_warning_focus": "#8a4d03",
+                                "borderColor_warning_hover": "#8a4d03",
+                                "borderColor_warning_muted": "#e89c3f",
                                 "borderRadius_1": "0.1875em",
                                 "breakpoint_medium": 768,
                                 "breakpoint_narrow": 512,
@@ -930,37 +927,34 @@ exports[`StartEnd demo examples align-items 1`] = `
                                 "color_gray_90": "#434a54",
                                 "color_placeholder": "#8e99ab",
                                 "color_text": "#333840",
-                                "color_text_danger": "#db2929",
-                                "color_text_danger_active": "#c71818",
-                                "color_text_danger_focus": "#db2929",
-                                "color_text_danger_hover": "#eb4d4d",
+                                "color_text_danger": "#de1b1b",
+                                "color_text_danger_active": "#b80d0d",
+                                "color_text_danger_focus": "#de1b1b",
+                                "color_text_danger_hover": "#f55353",
                                 "color_text_disabled": "#afbacc",
-                                "color_text_ondanger": "#fff",
                                 "color_text_onprimary": "#fff",
-                                "color_text_onsuccess": "#fff",
-                                "color_text_onwarning": "#fff",
-                                "color_text_primary": "#2e6fd9",
-                                "color_text_primary_active": "#1f5dc2",
-                                "color_text_primary_focus": "#2e6fd9",
-                                "color_text_primary_hover": "#4a89e8",
-                                "color_text_success": "#06783f",
-                                "color_text_success_active": "#046132",
-                                "color_text_success_focus": "#06783f",
-                                "color_text_success_hover": "#0a8f4c",
-                                "color_text_warning": "#cf4615",
-                                "color_text_warning_active": "#bd3909",
-                                "color_text_warning_focus": "#cf4615",
-                                "color_text_warning_hover": "#e05b2b",
-                                "color_theme_10": "#e6eefc",
-                                "color_theme_100": "#0f397d",
-                                "color_theme_20": "#c2dbfc",
-                                "color_theme_30": "#9dc2fa",
-                                "color_theme_40": "#72a5f2",
-                                "color_theme_50": "#4a89e8",
-                                "color_theme_60": "#2e6fd9",
-                                "color_theme_70": "#1f5dc2",
-                                "color_theme_80": "#164ea8",
-                                "color_theme_90": "#114091",
+                                "color_text_primary": "#3272d9",
+                                "color_text_primary_active": "#1d5bbf",
+                                "color_text_primary_focus": "#3272d9",
+                                "color_text_primary_hover": "#5691f0",
+                                "color_text_success": "#038537",
+                                "color_text_success_active": "#056b2e",
+                                "color_text_success_focus": "#038537",
+                                "color_text_success_hover": "#0aa648",
+                                "color_text_warning": "#ad5f00",
+                                "color_text_warning_active": "#8a4d03",
+                                "color_text_warning_focus": "#ad5f00",
+                                "color_text_warning_hover": "#cf7911",
+                                "color_theme_10": "#f0f5fc",
+                                "color_theme_100": "#15233b",
+                                "color_theme_20": "#cfe0fc",
+                                "color_theme_30": "#accbfc",
+                                "color_theme_40": "#84b1fa",
+                                "color_theme_50": "#5691f0",
+                                "color_theme_60": "#3272d9",
+                                "color_theme_70": "#1d5bbf",
+                                "color_theme_80": "#114599",
+                                "color_theme_90": "#103570",
                                 "color_white": "#fff",
                                 "direction": "ltr",
                                 "fontFamily": "Open Sans",
@@ -1200,46 +1194,46 @@ exports[`StartEnd demo examples align-items 1`] = `
                             justifyContent="between"
                             theme={
                               Object {
-                                "backgroundColor_danger": "#db2929",
-                                "backgroundColor_danger_active": "#c71818",
-                                "backgroundColor_danger_activeMuted": "#f79999",
-                                "backgroundColor_danger_focus": "#db2929",
-                                "backgroundColor_danger_hover": "#eb4d4d",
-                                "backgroundColor_danger_muted": "#fabebe",
+                                "backgroundColor_danger": "#de1b1b",
+                                "backgroundColor_danger_active": "#b80d0d",
+                                "backgroundColor_danger_activeMuted": "#fab6b6",
+                                "backgroundColor_danger_focus": "#de1b1b",
+                                "backgroundColor_danger_hover": "#f55353",
+                                "backgroundColor_danger_muted": "#fad4d4",
                                 "backgroundColor_disabled": "#ebeff5",
                                 "backgroundColor_input": "#fff",
                                 "backgroundColor_link_focus": "#dde3ed",
-                                "backgroundColor_success": "#0a8f4c",
-                                "backgroundColor_success_active": "#06783f",
-                                "backgroundColor_success_activeMuted": "#95f5c3",
-                                "backgroundColor_success_focus": "#0a8f4c",
-                                "backgroundColor_success_hover": "#10a35a",
-                                "backgroundColor_success_muted": "#c0fadc",
-                                "backgroundColor_warning": "#e05b2b",
-                                "backgroundColor_warning_active": "#cf4615",
-                                "backgroundColor_warning_activeMuted": "#fab69d",
-                                "backgroundColor_warning_focus": "#e05b2b",
-                                "backgroundColor_warning_hover": "#ed774c",
-                                "backgroundColor_warning_muted": "#fcd0c0",
+                                "backgroundColor_success": "#038537",
+                                "backgroundColor_success_active": "#056b2e",
+                                "backgroundColor_success_activeMuted": "#46e385",
+                                "backgroundColor_success_focus": "#038537",
+                                "backgroundColor_success_hover": "#0aa648",
+                                "backgroundColor_success_muted": "#8ef5b7",
+                                "backgroundColor_warning": "#ad5f00",
+                                "backgroundColor_warning_active": "#8a4d03",
+                                "backgroundColor_warning_activeMuted": "#f5bc76",
+                                "backgroundColor_warning_focus": "#ad5f00",
+                                "backgroundColor_warning_hover": "#cf7911",
+                                "backgroundColor_warning_muted": "#fad8af",
                                 "borderColor": "#c8d1e0",
-                                "borderColor_active": "#2e6fd9",
-                                "borderColor_danger": "#db2929",
-                                "borderColor_danger_active": "#c71818",
-                                "borderColor_danger_focus": "#c71818",
-                                "borderColor_danger_hover": "#c71818",
-                                "borderColor_danger_muted": "#f27474",
-                                "borderColor_focus": "#2e6fd9",
-                                "borderColor_hover": "#2e6fd9",
-                                "borderColor_success": "#10a35a",
-                                "borderColor_success_active": "#0a8f4c",
-                                "borderColor_success_focus": "#0a8f4c",
-                                "borderColor_success_hover": "#0a8f4c",
-                                "borderColor_success_muted": "#67eba7",
-                                "borderColor_warning": "#e05b2b",
-                                "borderColor_warning_active": "#cf4615",
-                                "borderColor_warning_focus": "#cf4615",
-                                "borderColor_warning_hover": "#cf4615",
-                                "borderColor_warning_muted": "#f59776",
+                                "borderColor_active": "#3272d9",
+                                "borderColor_danger": "#de1b1b",
+                                "borderColor_danger_active": "#b80d0d",
+                                "borderColor_danger_focus": "#b80d0d",
+                                "borderColor_danger_hover": "#b80d0d",
+                                "borderColor_danger_muted": "#fa8e8e",
+                                "borderColor_focus": "#3272d9",
+                                "borderColor_hover": "#3272d9",
+                                "borderColor_success": "#038537",
+                                "borderColor_success_active": "#056b2e",
+                                "borderColor_success_focus": "#056b2e",
+                                "borderColor_success_hover": "#056b2e",
+                                "borderColor_success_muted": "#1ec963",
+                                "borderColor_warning": "#ad5f00",
+                                "borderColor_warning_active": "#8a4d03",
+                                "borderColor_warning_focus": "#8a4d03",
+                                "borderColor_warning_hover": "#8a4d03",
+                                "borderColor_warning_muted": "#e89c3f",
                                 "borderRadius_1": "0.1875em",
                                 "breakpoint_medium": 768,
                                 "breakpoint_narrow": 512,
@@ -1258,37 +1252,34 @@ exports[`StartEnd demo examples align-items 1`] = `
                                 "color_gray_90": "#434a54",
                                 "color_placeholder": "#8e99ab",
                                 "color_text": "#333840",
-                                "color_text_danger": "#db2929",
-                                "color_text_danger_active": "#c71818",
-                                "color_text_danger_focus": "#db2929",
-                                "color_text_danger_hover": "#eb4d4d",
+                                "color_text_danger": "#de1b1b",
+                                "color_text_danger_active": "#b80d0d",
+                                "color_text_danger_focus": "#de1b1b",
+                                "color_text_danger_hover": "#f55353",
                                 "color_text_disabled": "#afbacc",
-                                "color_text_ondanger": "#fff",
                                 "color_text_onprimary": "#fff",
-                                "color_text_onsuccess": "#fff",
-                                "color_text_onwarning": "#fff",
-                                "color_text_primary": "#2e6fd9",
-                                "color_text_primary_active": "#1f5dc2",
-                                "color_text_primary_focus": "#2e6fd9",
-                                "color_text_primary_hover": "#4a89e8",
-                                "color_text_success": "#06783f",
-                                "color_text_success_active": "#046132",
-                                "color_text_success_focus": "#06783f",
-                                "color_text_success_hover": "#0a8f4c",
-                                "color_text_warning": "#cf4615",
-                                "color_text_warning_active": "#bd3909",
-                                "color_text_warning_focus": "#cf4615",
-                                "color_text_warning_hover": "#e05b2b",
-                                "color_theme_10": "#e6eefc",
-                                "color_theme_100": "#0f397d",
-                                "color_theme_20": "#c2dbfc",
-                                "color_theme_30": "#9dc2fa",
-                                "color_theme_40": "#72a5f2",
-                                "color_theme_50": "#4a89e8",
-                                "color_theme_60": "#2e6fd9",
-                                "color_theme_70": "#1f5dc2",
-                                "color_theme_80": "#164ea8",
-                                "color_theme_90": "#114091",
+                                "color_text_primary": "#3272d9",
+                                "color_text_primary_active": "#1d5bbf",
+                                "color_text_primary_focus": "#3272d9",
+                                "color_text_primary_hover": "#5691f0",
+                                "color_text_success": "#038537",
+                                "color_text_success_active": "#056b2e",
+                                "color_text_success_focus": "#038537",
+                                "color_text_success_hover": "#0aa648",
+                                "color_text_warning": "#ad5f00",
+                                "color_text_warning_active": "#8a4d03",
+                                "color_text_warning_focus": "#ad5f00",
+                                "color_text_warning_hover": "#cf7911",
+                                "color_theme_10": "#f0f5fc",
+                                "color_theme_100": "#15233b",
+                                "color_theme_20": "#cfe0fc",
+                                "color_theme_30": "#accbfc",
+                                "color_theme_40": "#84b1fa",
+                                "color_theme_50": "#5691f0",
+                                "color_theme_60": "#3272d9",
+                                "color_theme_70": "#1d5bbf",
+                                "color_theme_80": "#114599",
+                                "color_theme_90": "#103570",
                                 "color_white": "#fff",
                                 "direction": "ltr",
                                 "fontFamily": "Open Sans",
@@ -1528,46 +1519,46 @@ exports[`StartEnd demo examples align-items 1`] = `
                             justifyContent="between"
                             theme={
                               Object {
-                                "backgroundColor_danger": "#db2929",
-                                "backgroundColor_danger_active": "#c71818",
-                                "backgroundColor_danger_activeMuted": "#f79999",
-                                "backgroundColor_danger_focus": "#db2929",
-                                "backgroundColor_danger_hover": "#eb4d4d",
-                                "backgroundColor_danger_muted": "#fabebe",
+                                "backgroundColor_danger": "#de1b1b",
+                                "backgroundColor_danger_active": "#b80d0d",
+                                "backgroundColor_danger_activeMuted": "#fab6b6",
+                                "backgroundColor_danger_focus": "#de1b1b",
+                                "backgroundColor_danger_hover": "#f55353",
+                                "backgroundColor_danger_muted": "#fad4d4",
                                 "backgroundColor_disabled": "#ebeff5",
                                 "backgroundColor_input": "#fff",
                                 "backgroundColor_link_focus": "#dde3ed",
-                                "backgroundColor_success": "#0a8f4c",
-                                "backgroundColor_success_active": "#06783f",
-                                "backgroundColor_success_activeMuted": "#95f5c3",
-                                "backgroundColor_success_focus": "#0a8f4c",
-                                "backgroundColor_success_hover": "#10a35a",
-                                "backgroundColor_success_muted": "#c0fadc",
-                                "backgroundColor_warning": "#e05b2b",
-                                "backgroundColor_warning_active": "#cf4615",
-                                "backgroundColor_warning_activeMuted": "#fab69d",
-                                "backgroundColor_warning_focus": "#e05b2b",
-                                "backgroundColor_warning_hover": "#ed774c",
-                                "backgroundColor_warning_muted": "#fcd0c0",
+                                "backgroundColor_success": "#038537",
+                                "backgroundColor_success_active": "#056b2e",
+                                "backgroundColor_success_activeMuted": "#46e385",
+                                "backgroundColor_success_focus": "#038537",
+                                "backgroundColor_success_hover": "#0aa648",
+                                "backgroundColor_success_muted": "#8ef5b7",
+                                "backgroundColor_warning": "#ad5f00",
+                                "backgroundColor_warning_active": "#8a4d03",
+                                "backgroundColor_warning_activeMuted": "#f5bc76",
+                                "backgroundColor_warning_focus": "#ad5f00",
+                                "backgroundColor_warning_hover": "#cf7911",
+                                "backgroundColor_warning_muted": "#fad8af",
                                 "borderColor": "#c8d1e0",
-                                "borderColor_active": "#2e6fd9",
-                                "borderColor_danger": "#db2929",
-                                "borderColor_danger_active": "#c71818",
-                                "borderColor_danger_focus": "#c71818",
-                                "borderColor_danger_hover": "#c71818",
-                                "borderColor_danger_muted": "#f27474",
-                                "borderColor_focus": "#2e6fd9",
-                                "borderColor_hover": "#2e6fd9",
-                                "borderColor_success": "#10a35a",
-                                "borderColor_success_active": "#0a8f4c",
-                                "borderColor_success_focus": "#0a8f4c",
-                                "borderColor_success_hover": "#0a8f4c",
-                                "borderColor_success_muted": "#67eba7",
-                                "borderColor_warning": "#e05b2b",
-                                "borderColor_warning_active": "#cf4615",
-                                "borderColor_warning_focus": "#cf4615",
-                                "borderColor_warning_hover": "#cf4615",
-                                "borderColor_warning_muted": "#f59776",
+                                "borderColor_active": "#3272d9",
+                                "borderColor_danger": "#de1b1b",
+                                "borderColor_danger_active": "#b80d0d",
+                                "borderColor_danger_focus": "#b80d0d",
+                                "borderColor_danger_hover": "#b80d0d",
+                                "borderColor_danger_muted": "#fa8e8e",
+                                "borderColor_focus": "#3272d9",
+                                "borderColor_hover": "#3272d9",
+                                "borderColor_success": "#038537",
+                                "borderColor_success_active": "#056b2e",
+                                "borderColor_success_focus": "#056b2e",
+                                "borderColor_success_hover": "#056b2e",
+                                "borderColor_success_muted": "#1ec963",
+                                "borderColor_warning": "#ad5f00",
+                                "borderColor_warning_active": "#8a4d03",
+                                "borderColor_warning_focus": "#8a4d03",
+                                "borderColor_warning_hover": "#8a4d03",
+                                "borderColor_warning_muted": "#e89c3f",
                                 "borderRadius_1": "0.1875em",
                                 "breakpoint_medium": 768,
                                 "breakpoint_narrow": 512,
@@ -1586,37 +1577,34 @@ exports[`StartEnd demo examples align-items 1`] = `
                                 "color_gray_90": "#434a54",
                                 "color_placeholder": "#8e99ab",
                                 "color_text": "#333840",
-                                "color_text_danger": "#db2929",
-                                "color_text_danger_active": "#c71818",
-                                "color_text_danger_focus": "#db2929",
-                                "color_text_danger_hover": "#eb4d4d",
+                                "color_text_danger": "#de1b1b",
+                                "color_text_danger_active": "#b80d0d",
+                                "color_text_danger_focus": "#de1b1b",
+                                "color_text_danger_hover": "#f55353",
                                 "color_text_disabled": "#afbacc",
-                                "color_text_ondanger": "#fff",
                                 "color_text_onprimary": "#fff",
-                                "color_text_onsuccess": "#fff",
-                                "color_text_onwarning": "#fff",
-                                "color_text_primary": "#2e6fd9",
-                                "color_text_primary_active": "#1f5dc2",
-                                "color_text_primary_focus": "#2e6fd9",
-                                "color_text_primary_hover": "#4a89e8",
-                                "color_text_success": "#06783f",
-                                "color_text_success_active": "#046132",
-                                "color_text_success_focus": "#06783f",
-                                "color_text_success_hover": "#0a8f4c",
-                                "color_text_warning": "#cf4615",
-                                "color_text_warning_active": "#bd3909",
-                                "color_text_warning_focus": "#cf4615",
-                                "color_text_warning_hover": "#e05b2b",
-                                "color_theme_10": "#e6eefc",
-                                "color_theme_100": "#0f397d",
-                                "color_theme_20": "#c2dbfc",
-                                "color_theme_30": "#9dc2fa",
-                                "color_theme_40": "#72a5f2",
-                                "color_theme_50": "#4a89e8",
-                                "color_theme_60": "#2e6fd9",
-                                "color_theme_70": "#1f5dc2",
-                                "color_theme_80": "#164ea8",
-                                "color_theme_90": "#114091",
+                                "color_text_primary": "#3272d9",
+                                "color_text_primary_active": "#1d5bbf",
+                                "color_text_primary_focus": "#3272d9",
+                                "color_text_primary_hover": "#5691f0",
+                                "color_text_success": "#038537",
+                                "color_text_success_active": "#056b2e",
+                                "color_text_success_focus": "#038537",
+                                "color_text_success_hover": "#0aa648",
+                                "color_text_warning": "#ad5f00",
+                                "color_text_warning_active": "#8a4d03",
+                                "color_text_warning_focus": "#ad5f00",
+                                "color_text_warning_hover": "#cf7911",
+                                "color_theme_10": "#f0f5fc",
+                                "color_theme_100": "#15233b",
+                                "color_theme_20": "#cfe0fc",
+                                "color_theme_30": "#accbfc",
+                                "color_theme_40": "#84b1fa",
+                                "color_theme_50": "#5691f0",
+                                "color_theme_60": "#3272d9",
+                                "color_theme_70": "#1d5bbf",
+                                "color_theme_80": "#114599",
+                                "color_theme_90": "#103570",
                                 "color_white": "#fff",
                                 "direction": "ltr",
                                 "fontFamily": "Open Sans",
@@ -1847,7 +1835,7 @@ exports[`StartEnd demo examples basic 1`] = `
 [data-glamor-15]::before,
 .glamor-15[data-simulate-before],
 [data-glamor-15][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -1883,7 +1871,7 @@ exports[`StartEnd demo examples basic 1`] = `
 [data-glamor-13]::before,
 .glamor-13[data-simulate-before],
 [data-glamor-13][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -1936,7 +1924,7 @@ exports[`StartEnd demo examples basic 1`] = `
 [data-glamor-12]::before,
 .glamor-12[data-simulate-before],
 [data-glamor-12][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -1989,15 +1977,15 @@ exports[`StartEnd demo examples basic 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -2008,11 +1996,11 @@ exports[`StartEnd demo examples basic 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -2021,7 +2009,7 @@ exports[`StartEnd demo examples basic 1`] = `
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -2081,46 +2069,46 @@ exports[`StartEnd demo examples basic 1`] = `
                       justifyContent="between"
                       theme={
                         Object {
-                          "backgroundColor_danger": "#db2929",
-                          "backgroundColor_danger_active": "#c71818",
-                          "backgroundColor_danger_activeMuted": "#f79999",
-                          "backgroundColor_danger_focus": "#db2929",
-                          "backgroundColor_danger_hover": "#eb4d4d",
-                          "backgroundColor_danger_muted": "#fabebe",
+                          "backgroundColor_danger": "#de1b1b",
+                          "backgroundColor_danger_active": "#b80d0d",
+                          "backgroundColor_danger_activeMuted": "#fab6b6",
+                          "backgroundColor_danger_focus": "#de1b1b",
+                          "backgroundColor_danger_hover": "#f55353",
+                          "backgroundColor_danger_muted": "#fad4d4",
                           "backgroundColor_disabled": "#ebeff5",
                           "backgroundColor_input": "#fff",
                           "backgroundColor_link_focus": "#dde3ed",
-                          "backgroundColor_success": "#0a8f4c",
-                          "backgroundColor_success_active": "#06783f",
-                          "backgroundColor_success_activeMuted": "#95f5c3",
-                          "backgroundColor_success_focus": "#0a8f4c",
-                          "backgroundColor_success_hover": "#10a35a",
-                          "backgroundColor_success_muted": "#c0fadc",
-                          "backgroundColor_warning": "#e05b2b",
-                          "backgroundColor_warning_active": "#cf4615",
-                          "backgroundColor_warning_activeMuted": "#fab69d",
-                          "backgroundColor_warning_focus": "#e05b2b",
-                          "backgroundColor_warning_hover": "#ed774c",
-                          "backgroundColor_warning_muted": "#fcd0c0",
+                          "backgroundColor_success": "#038537",
+                          "backgroundColor_success_active": "#056b2e",
+                          "backgroundColor_success_activeMuted": "#46e385",
+                          "backgroundColor_success_focus": "#038537",
+                          "backgroundColor_success_hover": "#0aa648",
+                          "backgroundColor_success_muted": "#8ef5b7",
+                          "backgroundColor_warning": "#ad5f00",
+                          "backgroundColor_warning_active": "#8a4d03",
+                          "backgroundColor_warning_activeMuted": "#f5bc76",
+                          "backgroundColor_warning_focus": "#ad5f00",
+                          "backgroundColor_warning_hover": "#cf7911",
+                          "backgroundColor_warning_muted": "#fad8af",
                           "borderColor": "#c8d1e0",
-                          "borderColor_active": "#2e6fd9",
-                          "borderColor_danger": "#db2929",
-                          "borderColor_danger_active": "#c71818",
-                          "borderColor_danger_focus": "#c71818",
-                          "borderColor_danger_hover": "#c71818",
-                          "borderColor_danger_muted": "#f27474",
-                          "borderColor_focus": "#2e6fd9",
-                          "borderColor_hover": "#2e6fd9",
-                          "borderColor_success": "#10a35a",
-                          "borderColor_success_active": "#0a8f4c",
-                          "borderColor_success_focus": "#0a8f4c",
-                          "borderColor_success_hover": "#0a8f4c",
-                          "borderColor_success_muted": "#67eba7",
-                          "borderColor_warning": "#e05b2b",
-                          "borderColor_warning_active": "#cf4615",
-                          "borderColor_warning_focus": "#cf4615",
-                          "borderColor_warning_hover": "#cf4615",
-                          "borderColor_warning_muted": "#f59776",
+                          "borderColor_active": "#3272d9",
+                          "borderColor_danger": "#de1b1b",
+                          "borderColor_danger_active": "#b80d0d",
+                          "borderColor_danger_focus": "#b80d0d",
+                          "borderColor_danger_hover": "#b80d0d",
+                          "borderColor_danger_muted": "#fa8e8e",
+                          "borderColor_focus": "#3272d9",
+                          "borderColor_hover": "#3272d9",
+                          "borderColor_success": "#038537",
+                          "borderColor_success_active": "#056b2e",
+                          "borderColor_success_focus": "#056b2e",
+                          "borderColor_success_hover": "#056b2e",
+                          "borderColor_success_muted": "#1ec963",
+                          "borderColor_warning": "#ad5f00",
+                          "borderColor_warning_active": "#8a4d03",
+                          "borderColor_warning_focus": "#8a4d03",
+                          "borderColor_warning_hover": "#8a4d03",
+                          "borderColor_warning_muted": "#e89c3f",
                           "borderRadius_1": "0.1875em",
                           "breakpoint_medium": 768,
                           "breakpoint_narrow": 512,
@@ -2139,37 +2127,34 @@ exports[`StartEnd demo examples basic 1`] = `
                           "color_gray_90": "#434a54",
                           "color_placeholder": "#8e99ab",
                           "color_text": "#333840",
-                          "color_text_danger": "#db2929",
-                          "color_text_danger_active": "#c71818",
-                          "color_text_danger_focus": "#db2929",
-                          "color_text_danger_hover": "#eb4d4d",
+                          "color_text_danger": "#de1b1b",
+                          "color_text_danger_active": "#b80d0d",
+                          "color_text_danger_focus": "#de1b1b",
+                          "color_text_danger_hover": "#f55353",
                           "color_text_disabled": "#afbacc",
-                          "color_text_ondanger": "#fff",
                           "color_text_onprimary": "#fff",
-                          "color_text_onsuccess": "#fff",
-                          "color_text_onwarning": "#fff",
-                          "color_text_primary": "#2e6fd9",
-                          "color_text_primary_active": "#1f5dc2",
-                          "color_text_primary_focus": "#2e6fd9",
-                          "color_text_primary_hover": "#4a89e8",
-                          "color_text_success": "#06783f",
-                          "color_text_success_active": "#046132",
-                          "color_text_success_focus": "#06783f",
-                          "color_text_success_hover": "#0a8f4c",
-                          "color_text_warning": "#cf4615",
-                          "color_text_warning_active": "#bd3909",
-                          "color_text_warning_focus": "#cf4615",
-                          "color_text_warning_hover": "#e05b2b",
-                          "color_theme_10": "#e6eefc",
-                          "color_theme_100": "#0f397d",
-                          "color_theme_20": "#c2dbfc",
-                          "color_theme_30": "#9dc2fa",
-                          "color_theme_40": "#72a5f2",
-                          "color_theme_50": "#4a89e8",
-                          "color_theme_60": "#2e6fd9",
-                          "color_theme_70": "#1f5dc2",
-                          "color_theme_80": "#164ea8",
-                          "color_theme_90": "#114091",
+                          "color_text_primary": "#3272d9",
+                          "color_text_primary_active": "#1d5bbf",
+                          "color_text_primary_focus": "#3272d9",
+                          "color_text_primary_hover": "#5691f0",
+                          "color_text_success": "#038537",
+                          "color_text_success_active": "#056b2e",
+                          "color_text_success_focus": "#038537",
+                          "color_text_success_hover": "#0aa648",
+                          "color_text_warning": "#ad5f00",
+                          "color_text_warning_active": "#8a4d03",
+                          "color_text_warning_focus": "#ad5f00",
+                          "color_text_warning_hover": "#cf7911",
+                          "color_theme_10": "#f0f5fc",
+                          "color_theme_100": "#15233b",
+                          "color_theme_20": "#cfe0fc",
+                          "color_theme_30": "#accbfc",
+                          "color_theme_40": "#84b1fa",
+                          "color_theme_50": "#5691f0",
+                          "color_theme_60": "#3272d9",
+                          "color_theme_70": "#1d5bbf",
+                          "color_theme_80": "#114599",
+                          "color_theme_90": "#103570",
                           "color_white": "#fff",
                           "direction": "ltr",
                           "fontFamily": "Open Sans",
@@ -2397,7 +2382,7 @@ exports[`StartEnd demo examples direction 1`] = `
 [data-glamor-15]::before,
 .glamor-15[data-simulate-before],
 [data-glamor-15][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -2450,15 +2435,15 @@ exports[`StartEnd demo examples direction 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -2469,11 +2454,11 @@ exports[`StartEnd demo examples direction 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -2482,7 +2467,7 @@ exports[`StartEnd demo examples direction 1`] = `
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -2526,7 +2511,7 @@ exports[`StartEnd demo examples direction 1`] = `
 [data-glamor-13]::before,
 .glamor-13[data-simulate-before],
 [data-glamor-13][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -2579,7 +2564,7 @@ exports[`StartEnd demo examples direction 1`] = `
 [data-glamor-12]::before,
 .glamor-12[data-simulate-before],
 [data-glamor-12][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -2634,46 +2619,46 @@ exports[`StartEnd demo examples direction 1`] = `
                       justifyContent="between"
                       theme={
                         Object {
-                          "backgroundColor_danger": "#db2929",
-                          "backgroundColor_danger_active": "#c71818",
-                          "backgroundColor_danger_activeMuted": "#f79999",
-                          "backgroundColor_danger_focus": "#db2929",
-                          "backgroundColor_danger_hover": "#eb4d4d",
-                          "backgroundColor_danger_muted": "#fabebe",
+                          "backgroundColor_danger": "#de1b1b",
+                          "backgroundColor_danger_active": "#b80d0d",
+                          "backgroundColor_danger_activeMuted": "#fab6b6",
+                          "backgroundColor_danger_focus": "#de1b1b",
+                          "backgroundColor_danger_hover": "#f55353",
+                          "backgroundColor_danger_muted": "#fad4d4",
                           "backgroundColor_disabled": "#ebeff5",
                           "backgroundColor_input": "#fff",
                           "backgroundColor_link_focus": "#dde3ed",
-                          "backgroundColor_success": "#0a8f4c",
-                          "backgroundColor_success_active": "#06783f",
-                          "backgroundColor_success_activeMuted": "#95f5c3",
-                          "backgroundColor_success_focus": "#0a8f4c",
-                          "backgroundColor_success_hover": "#10a35a",
-                          "backgroundColor_success_muted": "#c0fadc",
-                          "backgroundColor_warning": "#e05b2b",
-                          "backgroundColor_warning_active": "#cf4615",
-                          "backgroundColor_warning_activeMuted": "#fab69d",
-                          "backgroundColor_warning_focus": "#e05b2b",
-                          "backgroundColor_warning_hover": "#ed774c",
-                          "backgroundColor_warning_muted": "#fcd0c0",
+                          "backgroundColor_success": "#038537",
+                          "backgroundColor_success_active": "#056b2e",
+                          "backgroundColor_success_activeMuted": "#46e385",
+                          "backgroundColor_success_focus": "#038537",
+                          "backgroundColor_success_hover": "#0aa648",
+                          "backgroundColor_success_muted": "#8ef5b7",
+                          "backgroundColor_warning": "#ad5f00",
+                          "backgroundColor_warning_active": "#8a4d03",
+                          "backgroundColor_warning_activeMuted": "#f5bc76",
+                          "backgroundColor_warning_focus": "#ad5f00",
+                          "backgroundColor_warning_hover": "#cf7911",
+                          "backgroundColor_warning_muted": "#fad8af",
                           "borderColor": "#c8d1e0",
-                          "borderColor_active": "#2e6fd9",
-                          "borderColor_danger": "#db2929",
-                          "borderColor_danger_active": "#c71818",
-                          "borderColor_danger_focus": "#c71818",
-                          "borderColor_danger_hover": "#c71818",
-                          "borderColor_danger_muted": "#f27474",
-                          "borderColor_focus": "#2e6fd9",
-                          "borderColor_hover": "#2e6fd9",
-                          "borderColor_success": "#10a35a",
-                          "borderColor_success_active": "#0a8f4c",
-                          "borderColor_success_focus": "#0a8f4c",
-                          "borderColor_success_hover": "#0a8f4c",
-                          "borderColor_success_muted": "#67eba7",
-                          "borderColor_warning": "#e05b2b",
-                          "borderColor_warning_active": "#cf4615",
-                          "borderColor_warning_focus": "#cf4615",
-                          "borderColor_warning_hover": "#cf4615",
-                          "borderColor_warning_muted": "#f59776",
+                          "borderColor_active": "#3272d9",
+                          "borderColor_danger": "#de1b1b",
+                          "borderColor_danger_active": "#b80d0d",
+                          "borderColor_danger_focus": "#b80d0d",
+                          "borderColor_danger_hover": "#b80d0d",
+                          "borderColor_danger_muted": "#fa8e8e",
+                          "borderColor_focus": "#3272d9",
+                          "borderColor_hover": "#3272d9",
+                          "borderColor_success": "#038537",
+                          "borderColor_success_active": "#056b2e",
+                          "borderColor_success_focus": "#056b2e",
+                          "borderColor_success_hover": "#056b2e",
+                          "borderColor_success_muted": "#1ec963",
+                          "borderColor_warning": "#ad5f00",
+                          "borderColor_warning_active": "#8a4d03",
+                          "borderColor_warning_focus": "#8a4d03",
+                          "borderColor_warning_hover": "#8a4d03",
+                          "borderColor_warning_muted": "#e89c3f",
                           "borderRadius_1": "0.1875em",
                           "breakpoint_medium": 768,
                           "breakpoint_narrow": 512,
@@ -2692,37 +2677,34 @@ exports[`StartEnd demo examples direction 1`] = `
                           "color_gray_90": "#434a54",
                           "color_placeholder": "#8e99ab",
                           "color_text": "#333840",
-                          "color_text_danger": "#db2929",
-                          "color_text_danger_active": "#c71818",
-                          "color_text_danger_focus": "#db2929",
-                          "color_text_danger_hover": "#eb4d4d",
+                          "color_text_danger": "#de1b1b",
+                          "color_text_danger_active": "#b80d0d",
+                          "color_text_danger_focus": "#de1b1b",
+                          "color_text_danger_hover": "#f55353",
                           "color_text_disabled": "#afbacc",
-                          "color_text_ondanger": "#fff",
                           "color_text_onprimary": "#fff",
-                          "color_text_onsuccess": "#fff",
-                          "color_text_onwarning": "#fff",
-                          "color_text_primary": "#2e6fd9",
-                          "color_text_primary_active": "#1f5dc2",
-                          "color_text_primary_focus": "#2e6fd9",
-                          "color_text_primary_hover": "#4a89e8",
-                          "color_text_success": "#06783f",
-                          "color_text_success_active": "#046132",
-                          "color_text_success_focus": "#06783f",
-                          "color_text_success_hover": "#0a8f4c",
-                          "color_text_warning": "#cf4615",
-                          "color_text_warning_active": "#bd3909",
-                          "color_text_warning_focus": "#cf4615",
-                          "color_text_warning_hover": "#e05b2b",
-                          "color_theme_10": "#e6eefc",
-                          "color_theme_100": "#0f397d",
-                          "color_theme_20": "#c2dbfc",
-                          "color_theme_30": "#9dc2fa",
-                          "color_theme_40": "#72a5f2",
-                          "color_theme_50": "#4a89e8",
-                          "color_theme_60": "#2e6fd9",
-                          "color_theme_70": "#1f5dc2",
-                          "color_theme_80": "#164ea8",
-                          "color_theme_90": "#114091",
+                          "color_text_primary": "#3272d9",
+                          "color_text_primary_active": "#1d5bbf",
+                          "color_text_primary_focus": "#3272d9",
+                          "color_text_primary_hover": "#5691f0",
+                          "color_text_success": "#038537",
+                          "color_text_success_active": "#056b2e",
+                          "color_text_success_focus": "#038537",
+                          "color_text_success_hover": "#0aa648",
+                          "color_text_warning": "#ad5f00",
+                          "color_text_warning_active": "#8a4d03",
+                          "color_text_warning_focus": "#ad5f00",
+                          "color_text_warning_hover": "#cf7911",
+                          "color_theme_10": "#f0f5fc",
+                          "color_theme_100": "#15233b",
+                          "color_theme_20": "#cfe0fc",
+                          "color_theme_30": "#accbfc",
+                          "color_theme_40": "#84b1fa",
+                          "color_theme_50": "#5691f0",
+                          "color_theme_60": "#3272d9",
+                          "color_theme_70": "#1d5bbf",
+                          "color_theme_80": "#114599",
+                          "color_theme_90": "#103570",
                           "color_white": "#fff",
                           "direction": "ltr",
                           "fontFamily": "Open Sans",
@@ -2950,7 +2932,7 @@ exports[`StartEnd demo examples priority 1`] = `
 [data-glamor-15]::before,
 .glamor-15[data-simulate-before],
 [data-glamor-15][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -2986,7 +2968,7 @@ exports[`StartEnd demo examples priority 1`] = `
 [data-glamor-13]::before,
 .glamor-13[data-simulate-before],
 [data-glamor-13][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -3039,7 +3021,7 @@ exports[`StartEnd demo examples priority 1`] = `
 [data-glamor-12]::before,
 .glamor-12[data-simulate-before],
 [data-glamor-12][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -3092,15 +3074,15 @@ exports[`StartEnd demo examples priority 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -3111,11 +3093,11 @@ exports[`StartEnd demo examples priority 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -3124,7 +3106,7 @@ exports[`StartEnd demo examples priority 1`] = `
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -3246,46 +3228,46 @@ exports[`StartEnd demo examples priority 1`] = `
                           justifyContent="between"
                           theme={
                             Object {
-                              "backgroundColor_danger": "#db2929",
-                              "backgroundColor_danger_active": "#c71818",
-                              "backgroundColor_danger_activeMuted": "#f79999",
-                              "backgroundColor_danger_focus": "#db2929",
-                              "backgroundColor_danger_hover": "#eb4d4d",
-                              "backgroundColor_danger_muted": "#fabebe",
+                              "backgroundColor_danger": "#de1b1b",
+                              "backgroundColor_danger_active": "#b80d0d",
+                              "backgroundColor_danger_activeMuted": "#fab6b6",
+                              "backgroundColor_danger_focus": "#de1b1b",
+                              "backgroundColor_danger_hover": "#f55353",
+                              "backgroundColor_danger_muted": "#fad4d4",
                               "backgroundColor_disabled": "#ebeff5",
                               "backgroundColor_input": "#fff",
                               "backgroundColor_link_focus": "#dde3ed",
-                              "backgroundColor_success": "#0a8f4c",
-                              "backgroundColor_success_active": "#06783f",
-                              "backgroundColor_success_activeMuted": "#95f5c3",
-                              "backgroundColor_success_focus": "#0a8f4c",
-                              "backgroundColor_success_hover": "#10a35a",
-                              "backgroundColor_success_muted": "#c0fadc",
-                              "backgroundColor_warning": "#e05b2b",
-                              "backgroundColor_warning_active": "#cf4615",
-                              "backgroundColor_warning_activeMuted": "#fab69d",
-                              "backgroundColor_warning_focus": "#e05b2b",
-                              "backgroundColor_warning_hover": "#ed774c",
-                              "backgroundColor_warning_muted": "#fcd0c0",
+                              "backgroundColor_success": "#038537",
+                              "backgroundColor_success_active": "#056b2e",
+                              "backgroundColor_success_activeMuted": "#46e385",
+                              "backgroundColor_success_focus": "#038537",
+                              "backgroundColor_success_hover": "#0aa648",
+                              "backgroundColor_success_muted": "#8ef5b7",
+                              "backgroundColor_warning": "#ad5f00",
+                              "backgroundColor_warning_active": "#8a4d03",
+                              "backgroundColor_warning_activeMuted": "#f5bc76",
+                              "backgroundColor_warning_focus": "#ad5f00",
+                              "backgroundColor_warning_hover": "#cf7911",
+                              "backgroundColor_warning_muted": "#fad8af",
                               "borderColor": "#c8d1e0",
-                              "borderColor_active": "#2e6fd9",
-                              "borderColor_danger": "#db2929",
-                              "borderColor_danger_active": "#c71818",
-                              "borderColor_danger_focus": "#c71818",
-                              "borderColor_danger_hover": "#c71818",
-                              "borderColor_danger_muted": "#f27474",
-                              "borderColor_focus": "#2e6fd9",
-                              "borderColor_hover": "#2e6fd9",
-                              "borderColor_success": "#10a35a",
-                              "borderColor_success_active": "#0a8f4c",
-                              "borderColor_success_focus": "#0a8f4c",
-                              "borderColor_success_hover": "#0a8f4c",
-                              "borderColor_success_muted": "#67eba7",
-                              "borderColor_warning": "#e05b2b",
-                              "borderColor_warning_active": "#cf4615",
-                              "borderColor_warning_focus": "#cf4615",
-                              "borderColor_warning_hover": "#cf4615",
-                              "borderColor_warning_muted": "#f59776",
+                              "borderColor_active": "#3272d9",
+                              "borderColor_danger": "#de1b1b",
+                              "borderColor_danger_active": "#b80d0d",
+                              "borderColor_danger_focus": "#b80d0d",
+                              "borderColor_danger_hover": "#b80d0d",
+                              "borderColor_danger_muted": "#fa8e8e",
+                              "borderColor_focus": "#3272d9",
+                              "borderColor_hover": "#3272d9",
+                              "borderColor_success": "#038537",
+                              "borderColor_success_active": "#056b2e",
+                              "borderColor_success_focus": "#056b2e",
+                              "borderColor_success_hover": "#056b2e",
+                              "borderColor_success_muted": "#1ec963",
+                              "borderColor_warning": "#ad5f00",
+                              "borderColor_warning_active": "#8a4d03",
+                              "borderColor_warning_focus": "#8a4d03",
+                              "borderColor_warning_hover": "#8a4d03",
+                              "borderColor_warning_muted": "#e89c3f",
                               "borderRadius_1": "0.1875em",
                               "breakpoint_medium": 768,
                               "breakpoint_narrow": 512,
@@ -3304,37 +3286,34 @@ exports[`StartEnd demo examples priority 1`] = `
                               "color_gray_90": "#434a54",
                               "color_placeholder": "#8e99ab",
                               "color_text": "#333840",
-                              "color_text_danger": "#db2929",
-                              "color_text_danger_active": "#c71818",
-                              "color_text_danger_focus": "#db2929",
-                              "color_text_danger_hover": "#eb4d4d",
+                              "color_text_danger": "#de1b1b",
+                              "color_text_danger_active": "#b80d0d",
+                              "color_text_danger_focus": "#de1b1b",
+                              "color_text_danger_hover": "#f55353",
                               "color_text_disabled": "#afbacc",
-                              "color_text_ondanger": "#fff",
                               "color_text_onprimary": "#fff",
-                              "color_text_onsuccess": "#fff",
-                              "color_text_onwarning": "#fff",
-                              "color_text_primary": "#2e6fd9",
-                              "color_text_primary_active": "#1f5dc2",
-                              "color_text_primary_focus": "#2e6fd9",
-                              "color_text_primary_hover": "#4a89e8",
-                              "color_text_success": "#06783f",
-                              "color_text_success_active": "#046132",
-                              "color_text_success_focus": "#06783f",
-                              "color_text_success_hover": "#0a8f4c",
-                              "color_text_warning": "#cf4615",
-                              "color_text_warning_active": "#bd3909",
-                              "color_text_warning_focus": "#cf4615",
-                              "color_text_warning_hover": "#e05b2b",
-                              "color_theme_10": "#e6eefc",
-                              "color_theme_100": "#0f397d",
-                              "color_theme_20": "#c2dbfc",
-                              "color_theme_30": "#9dc2fa",
-                              "color_theme_40": "#72a5f2",
-                              "color_theme_50": "#4a89e8",
-                              "color_theme_60": "#2e6fd9",
-                              "color_theme_70": "#1f5dc2",
-                              "color_theme_80": "#164ea8",
-                              "color_theme_90": "#114091",
+                              "color_text_primary": "#3272d9",
+                              "color_text_primary_active": "#1d5bbf",
+                              "color_text_primary_focus": "#3272d9",
+                              "color_text_primary_hover": "#5691f0",
+                              "color_text_success": "#038537",
+                              "color_text_success_active": "#056b2e",
+                              "color_text_success_focus": "#038537",
+                              "color_text_success_hover": "#0aa648",
+                              "color_text_warning": "#ad5f00",
+                              "color_text_warning_active": "#8a4d03",
+                              "color_text_warning_focus": "#ad5f00",
+                              "color_text_warning_hover": "#cf7911",
+                              "color_theme_10": "#f0f5fc",
+                              "color_theme_100": "#15233b",
+                              "color_theme_20": "#cfe0fc",
+                              "color_theme_30": "#accbfc",
+                              "color_theme_40": "#84b1fa",
+                              "color_theme_50": "#5691f0",
+                              "color_theme_60": "#3272d9",
+                              "color_theme_70": "#1d5bbf",
+                              "color_theme_80": "#114599",
+                              "color_theme_90": "#103570",
                               "color_white": "#fff",
                               "direction": "ltr",
                               "fontFamily": "Open Sans",
@@ -3573,46 +3552,46 @@ exports[`StartEnd demo examples priority 1`] = `
                           justifyContent="between"
                           theme={
                             Object {
-                              "backgroundColor_danger": "#db2929",
-                              "backgroundColor_danger_active": "#c71818",
-                              "backgroundColor_danger_activeMuted": "#f79999",
-                              "backgroundColor_danger_focus": "#db2929",
-                              "backgroundColor_danger_hover": "#eb4d4d",
-                              "backgroundColor_danger_muted": "#fabebe",
+                              "backgroundColor_danger": "#de1b1b",
+                              "backgroundColor_danger_active": "#b80d0d",
+                              "backgroundColor_danger_activeMuted": "#fab6b6",
+                              "backgroundColor_danger_focus": "#de1b1b",
+                              "backgroundColor_danger_hover": "#f55353",
+                              "backgroundColor_danger_muted": "#fad4d4",
                               "backgroundColor_disabled": "#ebeff5",
                               "backgroundColor_input": "#fff",
                               "backgroundColor_link_focus": "#dde3ed",
-                              "backgroundColor_success": "#0a8f4c",
-                              "backgroundColor_success_active": "#06783f",
-                              "backgroundColor_success_activeMuted": "#95f5c3",
-                              "backgroundColor_success_focus": "#0a8f4c",
-                              "backgroundColor_success_hover": "#10a35a",
-                              "backgroundColor_success_muted": "#c0fadc",
-                              "backgroundColor_warning": "#e05b2b",
-                              "backgroundColor_warning_active": "#cf4615",
-                              "backgroundColor_warning_activeMuted": "#fab69d",
-                              "backgroundColor_warning_focus": "#e05b2b",
-                              "backgroundColor_warning_hover": "#ed774c",
-                              "backgroundColor_warning_muted": "#fcd0c0",
+                              "backgroundColor_success": "#038537",
+                              "backgroundColor_success_active": "#056b2e",
+                              "backgroundColor_success_activeMuted": "#46e385",
+                              "backgroundColor_success_focus": "#038537",
+                              "backgroundColor_success_hover": "#0aa648",
+                              "backgroundColor_success_muted": "#8ef5b7",
+                              "backgroundColor_warning": "#ad5f00",
+                              "backgroundColor_warning_active": "#8a4d03",
+                              "backgroundColor_warning_activeMuted": "#f5bc76",
+                              "backgroundColor_warning_focus": "#ad5f00",
+                              "backgroundColor_warning_hover": "#cf7911",
+                              "backgroundColor_warning_muted": "#fad8af",
                               "borderColor": "#c8d1e0",
-                              "borderColor_active": "#2e6fd9",
-                              "borderColor_danger": "#db2929",
-                              "borderColor_danger_active": "#c71818",
-                              "borderColor_danger_focus": "#c71818",
-                              "borderColor_danger_hover": "#c71818",
-                              "borderColor_danger_muted": "#f27474",
-                              "borderColor_focus": "#2e6fd9",
-                              "borderColor_hover": "#2e6fd9",
-                              "borderColor_success": "#10a35a",
-                              "borderColor_success_active": "#0a8f4c",
-                              "borderColor_success_focus": "#0a8f4c",
-                              "borderColor_success_hover": "#0a8f4c",
-                              "borderColor_success_muted": "#67eba7",
-                              "borderColor_warning": "#e05b2b",
-                              "borderColor_warning_active": "#cf4615",
-                              "borderColor_warning_focus": "#cf4615",
-                              "borderColor_warning_hover": "#cf4615",
-                              "borderColor_warning_muted": "#f59776",
+                              "borderColor_active": "#3272d9",
+                              "borderColor_danger": "#de1b1b",
+                              "borderColor_danger_active": "#b80d0d",
+                              "borderColor_danger_focus": "#b80d0d",
+                              "borderColor_danger_hover": "#b80d0d",
+                              "borderColor_danger_muted": "#fa8e8e",
+                              "borderColor_focus": "#3272d9",
+                              "borderColor_hover": "#3272d9",
+                              "borderColor_success": "#038537",
+                              "borderColor_success_active": "#056b2e",
+                              "borderColor_success_focus": "#056b2e",
+                              "borderColor_success_hover": "#056b2e",
+                              "borderColor_success_muted": "#1ec963",
+                              "borderColor_warning": "#ad5f00",
+                              "borderColor_warning_active": "#8a4d03",
+                              "borderColor_warning_focus": "#8a4d03",
+                              "borderColor_warning_hover": "#8a4d03",
+                              "borderColor_warning_muted": "#e89c3f",
                               "borderRadius_1": "0.1875em",
                               "breakpoint_medium": 768,
                               "breakpoint_narrow": 512,
@@ -3631,37 +3610,34 @@ exports[`StartEnd demo examples priority 1`] = `
                               "color_gray_90": "#434a54",
                               "color_placeholder": "#8e99ab",
                               "color_text": "#333840",
-                              "color_text_danger": "#db2929",
-                              "color_text_danger_active": "#c71818",
-                              "color_text_danger_focus": "#db2929",
-                              "color_text_danger_hover": "#eb4d4d",
+                              "color_text_danger": "#de1b1b",
+                              "color_text_danger_active": "#b80d0d",
+                              "color_text_danger_focus": "#de1b1b",
+                              "color_text_danger_hover": "#f55353",
                               "color_text_disabled": "#afbacc",
-                              "color_text_ondanger": "#fff",
                               "color_text_onprimary": "#fff",
-                              "color_text_onsuccess": "#fff",
-                              "color_text_onwarning": "#fff",
-                              "color_text_primary": "#2e6fd9",
-                              "color_text_primary_active": "#1f5dc2",
-                              "color_text_primary_focus": "#2e6fd9",
-                              "color_text_primary_hover": "#4a89e8",
-                              "color_text_success": "#06783f",
-                              "color_text_success_active": "#046132",
-                              "color_text_success_focus": "#06783f",
-                              "color_text_success_hover": "#0a8f4c",
-                              "color_text_warning": "#cf4615",
-                              "color_text_warning_active": "#bd3909",
-                              "color_text_warning_focus": "#cf4615",
-                              "color_text_warning_hover": "#e05b2b",
-                              "color_theme_10": "#e6eefc",
-                              "color_theme_100": "#0f397d",
-                              "color_theme_20": "#c2dbfc",
-                              "color_theme_30": "#9dc2fa",
-                              "color_theme_40": "#72a5f2",
-                              "color_theme_50": "#4a89e8",
-                              "color_theme_60": "#2e6fd9",
-                              "color_theme_70": "#1f5dc2",
-                              "color_theme_80": "#164ea8",
-                              "color_theme_90": "#114091",
+                              "color_text_primary": "#3272d9",
+                              "color_text_primary_active": "#1d5bbf",
+                              "color_text_primary_focus": "#3272d9",
+                              "color_text_primary_hover": "#5691f0",
+                              "color_text_success": "#038537",
+                              "color_text_success_active": "#056b2e",
+                              "color_text_success_focus": "#038537",
+                              "color_text_success_hover": "#0aa648",
+                              "color_text_warning": "#ad5f00",
+                              "color_text_warning_active": "#8a4d03",
+                              "color_text_warning_focus": "#ad5f00",
+                              "color_text_warning_hover": "#cf7911",
+                              "color_theme_10": "#f0f5fc",
+                              "color_theme_100": "#15233b",
+                              "color_theme_20": "#cfe0fc",
+                              "color_theme_30": "#accbfc",
+                              "color_theme_40": "#84b1fa",
+                              "color_theme_50": "#5691f0",
+                              "color_theme_60": "#3272d9",
+                              "color_theme_70": "#1d5bbf",
+                              "color_theme_80": "#114599",
+                              "color_theme_90": "#103570",
                               "color_white": "#fff",
                               "direction": "ltr",
                               "fontFamily": "Open Sans",
@@ -3900,46 +3876,46 @@ exports[`StartEnd demo examples priority 1`] = `
                           justifyContent="between"
                           theme={
                             Object {
-                              "backgroundColor_danger": "#db2929",
-                              "backgroundColor_danger_active": "#c71818",
-                              "backgroundColor_danger_activeMuted": "#f79999",
-                              "backgroundColor_danger_focus": "#db2929",
-                              "backgroundColor_danger_hover": "#eb4d4d",
-                              "backgroundColor_danger_muted": "#fabebe",
+                              "backgroundColor_danger": "#de1b1b",
+                              "backgroundColor_danger_active": "#b80d0d",
+                              "backgroundColor_danger_activeMuted": "#fab6b6",
+                              "backgroundColor_danger_focus": "#de1b1b",
+                              "backgroundColor_danger_hover": "#f55353",
+                              "backgroundColor_danger_muted": "#fad4d4",
                               "backgroundColor_disabled": "#ebeff5",
                               "backgroundColor_input": "#fff",
                               "backgroundColor_link_focus": "#dde3ed",
-                              "backgroundColor_success": "#0a8f4c",
-                              "backgroundColor_success_active": "#06783f",
-                              "backgroundColor_success_activeMuted": "#95f5c3",
-                              "backgroundColor_success_focus": "#0a8f4c",
-                              "backgroundColor_success_hover": "#10a35a",
-                              "backgroundColor_success_muted": "#c0fadc",
-                              "backgroundColor_warning": "#e05b2b",
-                              "backgroundColor_warning_active": "#cf4615",
-                              "backgroundColor_warning_activeMuted": "#fab69d",
-                              "backgroundColor_warning_focus": "#e05b2b",
-                              "backgroundColor_warning_hover": "#ed774c",
-                              "backgroundColor_warning_muted": "#fcd0c0",
+                              "backgroundColor_success": "#038537",
+                              "backgroundColor_success_active": "#056b2e",
+                              "backgroundColor_success_activeMuted": "#46e385",
+                              "backgroundColor_success_focus": "#038537",
+                              "backgroundColor_success_hover": "#0aa648",
+                              "backgroundColor_success_muted": "#8ef5b7",
+                              "backgroundColor_warning": "#ad5f00",
+                              "backgroundColor_warning_active": "#8a4d03",
+                              "backgroundColor_warning_activeMuted": "#f5bc76",
+                              "backgroundColor_warning_focus": "#ad5f00",
+                              "backgroundColor_warning_hover": "#cf7911",
+                              "backgroundColor_warning_muted": "#fad8af",
                               "borderColor": "#c8d1e0",
-                              "borderColor_active": "#2e6fd9",
-                              "borderColor_danger": "#db2929",
-                              "borderColor_danger_active": "#c71818",
-                              "borderColor_danger_focus": "#c71818",
-                              "borderColor_danger_hover": "#c71818",
-                              "borderColor_danger_muted": "#f27474",
-                              "borderColor_focus": "#2e6fd9",
-                              "borderColor_hover": "#2e6fd9",
-                              "borderColor_success": "#10a35a",
-                              "borderColor_success_active": "#0a8f4c",
-                              "borderColor_success_focus": "#0a8f4c",
-                              "borderColor_success_hover": "#0a8f4c",
-                              "borderColor_success_muted": "#67eba7",
-                              "borderColor_warning": "#e05b2b",
-                              "borderColor_warning_active": "#cf4615",
-                              "borderColor_warning_focus": "#cf4615",
-                              "borderColor_warning_hover": "#cf4615",
-                              "borderColor_warning_muted": "#f59776",
+                              "borderColor_active": "#3272d9",
+                              "borderColor_danger": "#de1b1b",
+                              "borderColor_danger_active": "#b80d0d",
+                              "borderColor_danger_focus": "#b80d0d",
+                              "borderColor_danger_hover": "#b80d0d",
+                              "borderColor_danger_muted": "#fa8e8e",
+                              "borderColor_focus": "#3272d9",
+                              "borderColor_hover": "#3272d9",
+                              "borderColor_success": "#038537",
+                              "borderColor_success_active": "#056b2e",
+                              "borderColor_success_focus": "#056b2e",
+                              "borderColor_success_hover": "#056b2e",
+                              "borderColor_success_muted": "#1ec963",
+                              "borderColor_warning": "#ad5f00",
+                              "borderColor_warning_active": "#8a4d03",
+                              "borderColor_warning_focus": "#8a4d03",
+                              "borderColor_warning_hover": "#8a4d03",
+                              "borderColor_warning_muted": "#e89c3f",
                               "borderRadius_1": "0.1875em",
                               "breakpoint_medium": 768,
                               "breakpoint_narrow": 512,
@@ -3958,37 +3934,34 @@ exports[`StartEnd demo examples priority 1`] = `
                               "color_gray_90": "#434a54",
                               "color_placeholder": "#8e99ab",
                               "color_text": "#333840",
-                              "color_text_danger": "#db2929",
-                              "color_text_danger_active": "#c71818",
-                              "color_text_danger_focus": "#db2929",
-                              "color_text_danger_hover": "#eb4d4d",
+                              "color_text_danger": "#de1b1b",
+                              "color_text_danger_active": "#b80d0d",
+                              "color_text_danger_focus": "#de1b1b",
+                              "color_text_danger_hover": "#f55353",
                               "color_text_disabled": "#afbacc",
-                              "color_text_ondanger": "#fff",
                               "color_text_onprimary": "#fff",
-                              "color_text_onsuccess": "#fff",
-                              "color_text_onwarning": "#fff",
-                              "color_text_primary": "#2e6fd9",
-                              "color_text_primary_active": "#1f5dc2",
-                              "color_text_primary_focus": "#2e6fd9",
-                              "color_text_primary_hover": "#4a89e8",
-                              "color_text_success": "#06783f",
-                              "color_text_success_active": "#046132",
-                              "color_text_success_focus": "#06783f",
-                              "color_text_success_hover": "#0a8f4c",
-                              "color_text_warning": "#cf4615",
-                              "color_text_warning_active": "#bd3909",
-                              "color_text_warning_focus": "#cf4615",
-                              "color_text_warning_hover": "#e05b2b",
-                              "color_theme_10": "#e6eefc",
-                              "color_theme_100": "#0f397d",
-                              "color_theme_20": "#c2dbfc",
-                              "color_theme_30": "#9dc2fa",
-                              "color_theme_40": "#72a5f2",
-                              "color_theme_50": "#4a89e8",
-                              "color_theme_60": "#2e6fd9",
-                              "color_theme_70": "#1f5dc2",
-                              "color_theme_80": "#164ea8",
-                              "color_theme_90": "#114091",
+                              "color_text_primary": "#3272d9",
+                              "color_text_primary_active": "#1d5bbf",
+                              "color_text_primary_focus": "#3272d9",
+                              "color_text_primary_hover": "#5691f0",
+                              "color_text_success": "#038537",
+                              "color_text_success_active": "#056b2e",
+                              "color_text_success_focus": "#038537",
+                              "color_text_success_hover": "#0aa648",
+                              "color_text_warning": "#ad5f00",
+                              "color_text_warning_active": "#8a4d03",
+                              "color_text_warning_focus": "#ad5f00",
+                              "color_text_warning_hover": "#cf7911",
+                              "color_theme_10": "#f0f5fc",
+                              "color_theme_100": "#15233b",
+                              "color_theme_20": "#cfe0fc",
+                              "color_theme_30": "#accbfc",
+                              "color_theme_40": "#84b1fa",
+                              "color_theme_50": "#5691f0",
+                              "color_theme_60": "#3272d9",
+                              "color_theme_70": "#1d5bbf",
+                              "color_theme_80": "#114599",
+                              "color_theme_90": "#103570",
                               "color_white": "#fff",
                               "direction": "ltr",
                               "fontFamily": "Open Sans",
@@ -4218,7 +4191,7 @@ exports[`StartEnd demo examples responsive 1`] = `
 [data-glamor-15]::before,
 .glamor-15[data-simulate-before],
 [data-glamor-15][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -4271,15 +4244,15 @@ exports[`StartEnd demo examples responsive 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -4290,11 +4263,11 @@ exports[`StartEnd demo examples responsive 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -4303,7 +4276,7 @@ exports[`StartEnd demo examples responsive 1`] = `
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -4347,7 +4320,7 @@ exports[`StartEnd demo examples responsive 1`] = `
 [data-glamor-13]::before,
 .glamor-13[data-simulate-before],
 [data-glamor-13][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -4400,7 +4373,7 @@ exports[`StartEnd demo examples responsive 1`] = `
 [data-glamor-12]::before,
 .glamor-12[data-simulate-before],
 [data-glamor-12][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -4525,46 +4498,46 @@ exports[`StartEnd demo examples responsive 1`] = `
                       justifyContent="between"
                       theme={
                         Object {
-                          "backgroundColor_danger": "#db2929",
-                          "backgroundColor_danger_active": "#c71818",
-                          "backgroundColor_danger_activeMuted": "#f79999",
-                          "backgroundColor_danger_focus": "#db2929",
-                          "backgroundColor_danger_hover": "#eb4d4d",
-                          "backgroundColor_danger_muted": "#fabebe",
+                          "backgroundColor_danger": "#de1b1b",
+                          "backgroundColor_danger_active": "#b80d0d",
+                          "backgroundColor_danger_activeMuted": "#fab6b6",
+                          "backgroundColor_danger_focus": "#de1b1b",
+                          "backgroundColor_danger_hover": "#f55353",
+                          "backgroundColor_danger_muted": "#fad4d4",
                           "backgroundColor_disabled": "#ebeff5",
                           "backgroundColor_input": "#fff",
                           "backgroundColor_link_focus": "#dde3ed",
-                          "backgroundColor_success": "#0a8f4c",
-                          "backgroundColor_success_active": "#06783f",
-                          "backgroundColor_success_activeMuted": "#95f5c3",
-                          "backgroundColor_success_focus": "#0a8f4c",
-                          "backgroundColor_success_hover": "#10a35a",
-                          "backgroundColor_success_muted": "#c0fadc",
-                          "backgroundColor_warning": "#e05b2b",
-                          "backgroundColor_warning_active": "#cf4615",
-                          "backgroundColor_warning_activeMuted": "#fab69d",
-                          "backgroundColor_warning_focus": "#e05b2b",
-                          "backgroundColor_warning_hover": "#ed774c",
-                          "backgroundColor_warning_muted": "#fcd0c0",
+                          "backgroundColor_success": "#038537",
+                          "backgroundColor_success_active": "#056b2e",
+                          "backgroundColor_success_activeMuted": "#46e385",
+                          "backgroundColor_success_focus": "#038537",
+                          "backgroundColor_success_hover": "#0aa648",
+                          "backgroundColor_success_muted": "#8ef5b7",
+                          "backgroundColor_warning": "#ad5f00",
+                          "backgroundColor_warning_active": "#8a4d03",
+                          "backgroundColor_warning_activeMuted": "#f5bc76",
+                          "backgroundColor_warning_focus": "#ad5f00",
+                          "backgroundColor_warning_hover": "#cf7911",
+                          "backgroundColor_warning_muted": "#fad8af",
                           "borderColor": "#c8d1e0",
-                          "borderColor_active": "#2e6fd9",
-                          "borderColor_danger": "#db2929",
-                          "borderColor_danger_active": "#c71818",
-                          "borderColor_danger_focus": "#c71818",
-                          "borderColor_danger_hover": "#c71818",
-                          "borderColor_danger_muted": "#f27474",
-                          "borderColor_focus": "#2e6fd9",
-                          "borderColor_hover": "#2e6fd9",
-                          "borderColor_success": "#10a35a",
-                          "borderColor_success_active": "#0a8f4c",
-                          "borderColor_success_focus": "#0a8f4c",
-                          "borderColor_success_hover": "#0a8f4c",
-                          "borderColor_success_muted": "#67eba7",
-                          "borderColor_warning": "#e05b2b",
-                          "borderColor_warning_active": "#cf4615",
-                          "borderColor_warning_focus": "#cf4615",
-                          "borderColor_warning_hover": "#cf4615",
-                          "borderColor_warning_muted": "#f59776",
+                          "borderColor_active": "#3272d9",
+                          "borderColor_danger": "#de1b1b",
+                          "borderColor_danger_active": "#b80d0d",
+                          "borderColor_danger_focus": "#b80d0d",
+                          "borderColor_danger_hover": "#b80d0d",
+                          "borderColor_danger_muted": "#fa8e8e",
+                          "borderColor_focus": "#3272d9",
+                          "borderColor_hover": "#3272d9",
+                          "borderColor_success": "#038537",
+                          "borderColor_success_active": "#056b2e",
+                          "borderColor_success_focus": "#056b2e",
+                          "borderColor_success_hover": "#056b2e",
+                          "borderColor_success_muted": "#1ec963",
+                          "borderColor_warning": "#ad5f00",
+                          "borderColor_warning_active": "#8a4d03",
+                          "borderColor_warning_focus": "#8a4d03",
+                          "borderColor_warning_hover": "#8a4d03",
+                          "borderColor_warning_muted": "#e89c3f",
                           "borderRadius_1": "0.1875em",
                           "breakpoint_medium": 768,
                           "breakpoint_narrow": 512,
@@ -4583,37 +4556,34 @@ exports[`StartEnd demo examples responsive 1`] = `
                           "color_gray_90": "#434a54",
                           "color_placeholder": "#8e99ab",
                           "color_text": "#333840",
-                          "color_text_danger": "#db2929",
-                          "color_text_danger_active": "#c71818",
-                          "color_text_danger_focus": "#db2929",
-                          "color_text_danger_hover": "#eb4d4d",
+                          "color_text_danger": "#de1b1b",
+                          "color_text_danger_active": "#b80d0d",
+                          "color_text_danger_focus": "#de1b1b",
+                          "color_text_danger_hover": "#f55353",
                           "color_text_disabled": "#afbacc",
-                          "color_text_ondanger": "#fff",
                           "color_text_onprimary": "#fff",
-                          "color_text_onsuccess": "#fff",
-                          "color_text_onwarning": "#fff",
-                          "color_text_primary": "#2e6fd9",
-                          "color_text_primary_active": "#1f5dc2",
-                          "color_text_primary_focus": "#2e6fd9",
-                          "color_text_primary_hover": "#4a89e8",
-                          "color_text_success": "#06783f",
-                          "color_text_success_active": "#046132",
-                          "color_text_success_focus": "#06783f",
-                          "color_text_success_hover": "#0a8f4c",
-                          "color_text_warning": "#cf4615",
-                          "color_text_warning_active": "#bd3909",
-                          "color_text_warning_focus": "#cf4615",
-                          "color_text_warning_hover": "#e05b2b",
-                          "color_theme_10": "#e6eefc",
-                          "color_theme_100": "#0f397d",
-                          "color_theme_20": "#c2dbfc",
-                          "color_theme_30": "#9dc2fa",
-                          "color_theme_40": "#72a5f2",
-                          "color_theme_50": "#4a89e8",
-                          "color_theme_60": "#2e6fd9",
-                          "color_theme_70": "#1f5dc2",
-                          "color_theme_80": "#164ea8",
-                          "color_theme_90": "#114091",
+                          "color_text_primary": "#3272d9",
+                          "color_text_primary_active": "#1d5bbf",
+                          "color_text_primary_focus": "#3272d9",
+                          "color_text_primary_hover": "#5691f0",
+                          "color_text_success": "#038537",
+                          "color_text_success_active": "#056b2e",
+                          "color_text_success_focus": "#038537",
+                          "color_text_success_hover": "#0aa648",
+                          "color_text_warning": "#ad5f00",
+                          "color_text_warning_active": "#8a4d03",
+                          "color_text_warning_focus": "#ad5f00",
+                          "color_text_warning_hover": "#cf7911",
+                          "color_theme_10": "#f0f5fc",
+                          "color_theme_100": "#15233b",
+                          "color_theme_20": "#cfe0fc",
+                          "color_theme_30": "#accbfc",
+                          "color_theme_40": "#84b1fa",
+                          "color_theme_50": "#5691f0",
+                          "color_theme_60": "#3272d9",
+                          "color_theme_70": "#1d5bbf",
+                          "color_theme_80": "#114599",
+                          "color_theme_90": "#103570",
                           "color_white": "#fff",
                           "direction": "ltr",
                           "fontFamily": "Open Sans",
@@ -4900,7 +4870,7 @@ exports[`StartEnd demo examples rtl 1`] = `
 [data-glamor-15]::before,
 .glamor-15[data-simulate-before],
 [data-glamor-15][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -4936,7 +4906,7 @@ exports[`StartEnd demo examples rtl 1`] = `
 [data-glamor-13]::before,
 .glamor-13[data-simulate-before],
 [data-glamor-13][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -4989,7 +4959,7 @@ exports[`StartEnd demo examples rtl 1`] = `
 [data-glamor-12]::before,
 .glamor-12[data-simulate-before],
 [data-glamor-12][data-simulate-before] {
-  border: 1px dotted #9dc2fa;
+  border: 1px dotted #accbfc;
   bottom: -4px;
   content: "";
   left: calc(0.5em - 4px);
@@ -5042,15 +5012,15 @@ exports[`StartEnd demo examples rtl 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -5061,11 +5031,11 @@ exports[`StartEnd demo examples rtl 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -5074,7 +5044,7 @@ exports[`StartEnd demo examples rtl 1`] = `
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -5140,46 +5110,46 @@ exports[`StartEnd demo examples rtl 1`] = `
                             justifyContent="between"
                             theme={
                               Object {
-                                "backgroundColor_danger": "#db2929",
-                                "backgroundColor_danger_active": "#c71818",
-                                "backgroundColor_danger_activeMuted": "#f79999",
-                                "backgroundColor_danger_focus": "#db2929",
-                                "backgroundColor_danger_hover": "#eb4d4d",
-                                "backgroundColor_danger_muted": "#fabebe",
+                                "backgroundColor_danger": "#de1b1b",
+                                "backgroundColor_danger_active": "#b80d0d",
+                                "backgroundColor_danger_activeMuted": "#fab6b6",
+                                "backgroundColor_danger_focus": "#de1b1b",
+                                "backgroundColor_danger_hover": "#f55353",
+                                "backgroundColor_danger_muted": "#fad4d4",
                                 "backgroundColor_disabled": "#ebeff5",
                                 "backgroundColor_input": "#fff",
                                 "backgroundColor_link_focus": "#dde3ed",
-                                "backgroundColor_success": "#0a8f4c",
-                                "backgroundColor_success_active": "#06783f",
-                                "backgroundColor_success_activeMuted": "#95f5c3",
-                                "backgroundColor_success_focus": "#0a8f4c",
-                                "backgroundColor_success_hover": "#10a35a",
-                                "backgroundColor_success_muted": "#c0fadc",
-                                "backgroundColor_warning": "#e05b2b",
-                                "backgroundColor_warning_active": "#cf4615",
-                                "backgroundColor_warning_activeMuted": "#fab69d",
-                                "backgroundColor_warning_focus": "#e05b2b",
-                                "backgroundColor_warning_hover": "#ed774c",
-                                "backgroundColor_warning_muted": "#fcd0c0",
+                                "backgroundColor_success": "#038537",
+                                "backgroundColor_success_active": "#056b2e",
+                                "backgroundColor_success_activeMuted": "#46e385",
+                                "backgroundColor_success_focus": "#038537",
+                                "backgroundColor_success_hover": "#0aa648",
+                                "backgroundColor_success_muted": "#8ef5b7",
+                                "backgroundColor_warning": "#ad5f00",
+                                "backgroundColor_warning_active": "#8a4d03",
+                                "backgroundColor_warning_activeMuted": "#f5bc76",
+                                "backgroundColor_warning_focus": "#ad5f00",
+                                "backgroundColor_warning_hover": "#cf7911",
+                                "backgroundColor_warning_muted": "#fad8af",
                                 "borderColor": "#c8d1e0",
-                                "borderColor_active": "#2e6fd9",
-                                "borderColor_danger": "#db2929",
-                                "borderColor_danger_active": "#c71818",
-                                "borderColor_danger_focus": "#c71818",
-                                "borderColor_danger_hover": "#c71818",
-                                "borderColor_danger_muted": "#f27474",
-                                "borderColor_focus": "#2e6fd9",
-                                "borderColor_hover": "#2e6fd9",
-                                "borderColor_success": "#10a35a",
-                                "borderColor_success_active": "#0a8f4c",
-                                "borderColor_success_focus": "#0a8f4c",
-                                "borderColor_success_hover": "#0a8f4c",
-                                "borderColor_success_muted": "#67eba7",
-                                "borderColor_warning": "#e05b2b",
-                                "borderColor_warning_active": "#cf4615",
-                                "borderColor_warning_focus": "#cf4615",
-                                "borderColor_warning_hover": "#cf4615",
-                                "borderColor_warning_muted": "#f59776",
+                                "borderColor_active": "#3272d9",
+                                "borderColor_danger": "#de1b1b",
+                                "borderColor_danger_active": "#b80d0d",
+                                "borderColor_danger_focus": "#b80d0d",
+                                "borderColor_danger_hover": "#b80d0d",
+                                "borderColor_danger_muted": "#fa8e8e",
+                                "borderColor_focus": "#3272d9",
+                                "borderColor_hover": "#3272d9",
+                                "borderColor_success": "#038537",
+                                "borderColor_success_active": "#056b2e",
+                                "borderColor_success_focus": "#056b2e",
+                                "borderColor_success_hover": "#056b2e",
+                                "borderColor_success_muted": "#1ec963",
+                                "borderColor_warning": "#ad5f00",
+                                "borderColor_warning_active": "#8a4d03",
+                                "borderColor_warning_focus": "#8a4d03",
+                                "borderColor_warning_hover": "#8a4d03",
+                                "borderColor_warning_muted": "#e89c3f",
                                 "borderRadius_1": "0.1875em",
                                 "breakpoint_medium": 768,
                                 "breakpoint_narrow": 512,
@@ -5198,37 +5168,34 @@ exports[`StartEnd demo examples rtl 1`] = `
                                 "color_gray_90": "#434a54",
                                 "color_placeholder": "#8e99ab",
                                 "color_text": "#333840",
-                                "color_text_danger": "#db2929",
-                                "color_text_danger_active": "#c71818",
-                                "color_text_danger_focus": "#db2929",
-                                "color_text_danger_hover": "#eb4d4d",
+                                "color_text_danger": "#de1b1b",
+                                "color_text_danger_active": "#b80d0d",
+                                "color_text_danger_focus": "#de1b1b",
+                                "color_text_danger_hover": "#f55353",
                                 "color_text_disabled": "#afbacc",
-                                "color_text_ondanger": "#fff",
                                 "color_text_onprimary": "#fff",
-                                "color_text_onsuccess": "#fff",
-                                "color_text_onwarning": "#fff",
-                                "color_text_primary": "#2e6fd9",
-                                "color_text_primary_active": "#1f5dc2",
-                                "color_text_primary_focus": "#2e6fd9",
-                                "color_text_primary_hover": "#4a89e8",
-                                "color_text_success": "#06783f",
-                                "color_text_success_active": "#046132",
-                                "color_text_success_focus": "#06783f",
-                                "color_text_success_hover": "#0a8f4c",
-                                "color_text_warning": "#cf4615",
-                                "color_text_warning_active": "#bd3909",
-                                "color_text_warning_focus": "#cf4615",
-                                "color_text_warning_hover": "#e05b2b",
-                                "color_theme_10": "#e6eefc",
-                                "color_theme_100": "#0f397d",
-                                "color_theme_20": "#c2dbfc",
-                                "color_theme_30": "#9dc2fa",
-                                "color_theme_40": "#72a5f2",
-                                "color_theme_50": "#4a89e8",
-                                "color_theme_60": "#2e6fd9",
-                                "color_theme_70": "#1f5dc2",
-                                "color_theme_80": "#164ea8",
-                                "color_theme_90": "#114091",
+                                "color_text_primary": "#3272d9",
+                                "color_text_primary_active": "#1d5bbf",
+                                "color_text_primary_focus": "#3272d9",
+                                "color_text_primary_hover": "#5691f0",
+                                "color_text_success": "#038537",
+                                "color_text_success_active": "#056b2e",
+                                "color_text_success_focus": "#038537",
+                                "color_text_success_hover": "#0aa648",
+                                "color_text_warning": "#ad5f00",
+                                "color_text_warning_active": "#8a4d03",
+                                "color_text_warning_focus": "#ad5f00",
+                                "color_text_warning_hover": "#cf7911",
+                                "color_theme_10": "#f0f5fc",
+                                "color_theme_100": "#15233b",
+                                "color_theme_20": "#cfe0fc",
+                                "color_theme_30": "#accbfc",
+                                "color_theme_40": "#84b1fa",
+                                "color_theme_50": "#5691f0",
+                                "color_theme_60": "#3272d9",
+                                "color_theme_70": "#1d5bbf",
+                                "color_theme_80": "#114599",
+                                "color_theme_90": "#103570",
                                 "color_white": "#fff",
                                 "direction": "rtl",
                                 "fontFamily": "Open Sans",

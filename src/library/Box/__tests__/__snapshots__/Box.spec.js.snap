@@ -18,15 +18,15 @@ exports[`Box demo examples basic 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -37,11 +37,11 @@ exports[`Box demo examples basic 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -50,7 +50,7 @@ exports[`Box demo examples basic 1`] = `
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -71,15 +71,15 @@ exports[`Box demo examples basic 1`] = `
 .glamor-4,
 [data-glamor-4] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   position: relative;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -91,7 +91,7 @@ exports[`Box demo examples basic 1`] = `
 [data-glamor-4]::before,
 .glamor-4[data-simulate-before],
 [data-glamor-4][data-simulate-before] {
-  border-color: rgba(194,219,252,0.5);
+  border-color: rgba(207,224,252,0.5);
   border-style: solid;
   border-width: 1.5em;
   bottom: 0;
@@ -105,11 +105,11 @@ exports[`Box demo examples basic 1`] = `
 .glamor-3,
 [data-glamor-3] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -122,7 +122,7 @@ exports[`Box demo examples basic 1`] = `
   padding-right: 1.5em;
   padding-top: 1.5em;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   position: relative;
   -webkit-box-align: center;
@@ -144,7 +144,7 @@ exports[`Box demo examples basic 1`] = `
 [data-glamor-3]::before,
 .glamor-3[data-simulate-before],
 [data-glamor-3][data-simulate-before] {
-  border-color: rgba(194,219,252,0.5);
+  border-color: rgba(207,224,252,0.5);
   border-style: solid;
   border-width: 1.5em;
   bottom: 0;
@@ -158,11 +158,11 @@ exports[`Box demo examples basic 1`] = `
 .glamor-6,
 [data-glamor-6] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -172,7 +172,7 @@ exports[`Box demo examples basic 1`] = `
   display: flex;
   margin-right: 50%;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -193,11 +193,11 @@ exports[`Box demo examples basic 1`] = `
 .glamor-9,
 [data-glamor-9] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -209,7 +209,7 @@ exports[`Box demo examples basic 1`] = `
   margin-right: auto;
   width: 10em;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -344,15 +344,15 @@ exports[`Box demo examples height 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -389,11 +389,11 @@ exports[`Box demo examples height 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -403,7 +403,7 @@ exports[`Box demo examples height 1`] = `
   display: flex;
   height: 10em;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -424,11 +424,11 @@ exports[`Box demo examples height 1`] = `
 .glamor-3,
 [data-glamor-3] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -438,7 +438,7 @@ exports[`Box demo examples height 1`] = `
   display: flex;
   height: 100px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -459,11 +459,11 @@ exports[`Box demo examples height 1`] = `
 .glamor-6,
 [data-glamor-6] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -473,7 +473,7 @@ exports[`Box demo examples height 1`] = `
   display: flex;
   height: 33.33333333333333%;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -607,15 +607,15 @@ exports[`Box demo examples inline 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-inline-box;
   display: -moz-inline-box;
   display: -ms-inline-flexbox;
   display: -webkit-inline-flex;
   display: inline-flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -626,11 +626,11 @@ exports[`Box demo examples inline 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-inline-box;
@@ -639,7 +639,7 @@ exports[`Box demo examples inline 1`] = `
   display: -webkit-inline-flex;
   display: inline-flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -660,11 +660,11 @@ exports[`Box demo examples inline 1`] = `
 .glamor-3,
 [data-glamor-3] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-inline-box;
@@ -674,7 +674,7 @@ exports[`Box demo examples inline 1`] = `
   display: inline-flex;
   width: 100px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -792,15 +792,15 @@ exports[`Box demo examples precedence 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -811,11 +811,11 @@ exports[`Box demo examples precedence 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -828,7 +828,7 @@ exports[`Box demo examples precedence 1`] = `
   margin-right: 20px;
   margin-top: 10px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -849,11 +849,11 @@ exports[`Box demo examples precedence 1`] = `
 .glamor-3,
 [data-glamor-3] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -866,7 +866,7 @@ exports[`Box demo examples precedence 1`] = `
   margin-right: 30px;
   margin-top: 10px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -887,11 +887,11 @@ exports[`Box demo examples precedence 1`] = `
 .glamor-6,
 [data-glamor-6] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -904,7 +904,7 @@ exports[`Box demo examples precedence 1`] = `
   margin-right: 20px;
   margin-top: 10px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -925,11 +925,11 @@ exports[`Box demo examples precedence 1`] = `
 .glamor-9,
 [data-glamor-9] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -942,7 +942,7 @@ exports[`Box demo examples precedence 1`] = `
   margin-right: 40px;
   margin-top: 10px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -963,11 +963,11 @@ exports[`Box demo examples precedence 1`] = `
 .glamor-12,
 [data-glamor-12] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -980,7 +980,7 @@ exports[`Box demo examples precedence 1`] = `
   margin-right: 10px;
   margin-top: 40px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1001,11 +1001,11 @@ exports[`Box demo examples precedence 1`] = `
 .glamor-15,
 [data-glamor-15] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1018,7 +1018,7 @@ exports[`Box demo examples precedence 1`] = `
   margin-right: 10px;
   margin-top: 20px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1233,15 +1233,15 @@ exports[`Box demo examples responsive 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -1252,11 +1252,11 @@ exports[`Box demo examples responsive 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1266,7 +1266,7 @@ exports[`Box demo examples responsive 1`] = `
   display: flex;
   margin-right: 50px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1396,15 +1396,15 @@ exports[`Box demo examples rtl 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -1415,11 +1415,11 @@ exports[`Box demo examples rtl 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1429,7 +1429,7 @@ exports[`Box demo examples rtl 1`] = `
   display: flex;
   margin-left: 1.5em;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1450,11 +1450,11 @@ exports[`Box demo examples rtl 1`] = `
 .glamor-3,
 [data-glamor-3] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1464,7 +1464,7 @@ exports[`Box demo examples rtl 1`] = `
   display: flex;
   margin-right: 1.5em;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1602,15 +1602,15 @@ exports[`Box demo examples spacing 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -1621,11 +1621,11 @@ exports[`Box demo examples spacing 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1634,7 +1634,7 @@ exports[`Box demo examples spacing 1`] = `
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1655,11 +1655,11 @@ exports[`Box demo examples spacing 1`] = `
 .glamor-3,
 [data-glamor-3] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1669,7 +1669,7 @@ exports[`Box demo examples spacing 1`] = `
   display: flex;
   margin-right: 2em;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1690,11 +1690,11 @@ exports[`Box demo examples spacing 1`] = `
 .glamor-6,
 [data-glamor-6] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1704,7 +1704,7 @@ exports[`Box demo examples spacing 1`] = `
   display: flex;
   margin-right: 6em;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1725,11 +1725,11 @@ exports[`Box demo examples spacing 1`] = `
 .glamor-9,
 [data-glamor-9] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1739,7 +1739,7 @@ exports[`Box demo examples spacing 1`] = `
   display: flex;
   margin-right: 120px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1760,11 +1760,11 @@ exports[`Box demo examples spacing 1`] = `
 .glamor-12,
 [data-glamor-12] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1774,7 +1774,7 @@ exports[`Box demo examples spacing 1`] = `
   display: flex;
   margin-right: 33.33333333333333%;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1941,15 +1941,15 @@ exports[`Box demo examples width 1`] = `
 .glamor-1,
 [data-glamor-1] {
   align-items: center;
-  background-color: #e6eefc;
-  color: #1f5dc2;
+  background-color: #f0f5fc;
+  color: #1d5bbf;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
   justify-content: center;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   padding: 0.5em;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -1960,11 +1960,11 @@ exports[`Box demo examples width 1`] = `
 .glamor-0,
 [data-glamor-0] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -1974,7 +1974,7 @@ exports[`Box demo examples width 1`] = `
   display: flex;
   width: 10em;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -1995,11 +1995,11 @@ exports[`Box demo examples width 1`] = `
 .glamor-3,
 [data-glamor-3] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -2009,7 +2009,7 @@ exports[`Box demo examples width 1`] = `
   display: flex;
   width: 100px;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;
@@ -2030,11 +2030,11 @@ exports[`Box demo examples width 1`] = `
 .glamor-6,
 [data-glamor-6] {
   box-sizing: border-box;
-  color: #1f5dc2;
+  color: #1d5bbf;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
-  outline: 1px solid #c2dbfc;
+  outline: 1px solid #cfe0fc;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
   display: -webkit-box;
@@ -2044,7 +2044,7 @@ exports[`Box demo examples width 1`] = `
   display: flex;
   width: 33.33333333333333%;
   align-items: center;
-  background-color: #e6eefc;
+  background-color: #f0f5fc;
   justify-content: center;
   padding: 0.5em;
   -webkit-box-align: center;

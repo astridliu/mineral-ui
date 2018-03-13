@@ -110,7 +110,7 @@ exports[`FormField demo examples basic 1`] = `
 [data-glamor-3]:hover > div:last-child,
 .glamor-3[data-simulate-hover] > div:last-child,
 [data-glamor-3][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-3:focus > div:last-child,
@@ -118,7 +118,7 @@ exports[`FormField demo examples basic 1`] = `
 .glamor-3[data-simulate-focus] > div:last-child,
 [data-glamor-3][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3:active > div:last-child,
@@ -126,7 +126,7 @@ exports[`FormField demo examples basic 1`] = `
 .glamor-3[data-simulate-active] > div:last-child,
 [data-glamor-3][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3 [role="img"],
@@ -197,7 +197,7 @@ exports[`FormField demo examples basic 1`] = `
 .glamor-1[data-simulate-focus] ~ div:last-child,
 [data-glamor-1][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-2,
@@ -302,7 +302,7 @@ exports[`FormField demo examples basic 1`] = `
 [data-glamor-8]:hover ~ div,
 .glamor-8[data-simulate-hover] ~ div,
 [data-glamor-8][data-simulate-hover] ~ div {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-8:focus ~ div,
@@ -310,7 +310,7 @@ exports[`FormField demo examples basic 1`] = `
 .glamor-8[data-simulate-focus] ~ div,
 [data-glamor-8][data-simulate-focus] ~ div {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-8:active ~ div,
@@ -318,7 +318,7 @@ exports[`FormField demo examples basic 1`] = `
 .glamor-8[data-simulate-active] ~ div,
 [data-glamor-8][data-simulate-active] ~ div {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-8 ~ div,
@@ -705,7 +705,7 @@ exports[`FormField demo examples caption 1`] = `
 [data-glamor-3]:hover > div:last-child,
 .glamor-3[data-simulate-hover] > div:last-child,
 [data-glamor-3][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-3:focus > div:last-child,
@@ -713,7 +713,7 @@ exports[`FormField demo examples caption 1`] = `
 .glamor-3[data-simulate-focus] > div:last-child,
 [data-glamor-3][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3:active > div:last-child,
@@ -721,7 +721,7 @@ exports[`FormField demo examples caption 1`] = `
 .glamor-3[data-simulate-active] > div:last-child,
 [data-glamor-3][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3 [role="img"],
@@ -792,7 +792,7 @@ exports[`FormField demo examples caption 1`] = `
 .glamor-1[data-simulate-focus] ~ div:last-child,
 [data-glamor-1][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-2,
@@ -1118,7 +1118,7 @@ exports[`FormField demo examples hide-label 1`] = `
 [data-glamor-3]:hover > div:last-child,
 .glamor-3[data-simulate-hover] > div:last-child,
 [data-glamor-3][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-3:focus > div:last-child,
@@ -1126,7 +1126,7 @@ exports[`FormField demo examples hide-label 1`] = `
 .glamor-3[data-simulate-focus] > div:last-child,
 [data-glamor-3][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3:active > div:last-child,
@@ -1134,7 +1134,7 @@ exports[`FormField demo examples hide-label 1`] = `
 .glamor-3[data-simulate-active] > div:last-child,
 [data-glamor-3][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3 [role="img"],
@@ -1205,7 +1205,7 @@ exports[`FormField demo examples hide-label 1`] = `
 .glamor-1[data-simulate-focus] ~ div:last-child,
 [data-glamor-1][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-2,
@@ -1719,7 +1719,7 @@ exports[`FormField demo examples required 1`] = `
 [data-glamor-4]:hover > div:last-child,
 .glamor-4[data-simulate-hover] > div:last-child,
 [data-glamor-4][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-4:focus > div:last-child,
@@ -1727,7 +1727,7 @@ exports[`FormField demo examples required 1`] = `
 .glamor-4[data-simulate-focus] > div:last-child,
 [data-glamor-4][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-4:active > div:last-child,
@@ -1735,7 +1735,7 @@ exports[`FormField demo examples required 1`] = `
 .glamor-4[data-simulate-active] > div:last-child,
 [data-glamor-4][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-4 [role="img"],
@@ -1806,7 +1806,7 @@ exports[`FormField demo examples required 1`] = `
 .glamor-2[data-simulate-focus] ~ div:last-child,
 [data-glamor-2][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3,
@@ -1826,7 +1826,7 @@ exports[`FormField demo examples required 1`] = `
 
 .glamor-0,
 [data-glamor-0] {
-  color: #db2929;
+  color: #de1b1b;
   font-size: 0.6875em;
 }
 
@@ -2297,7 +2297,7 @@ exports[`FormField demo examples rtl 1`] = `
 [data-glamor-5]:hover > div:last-child,
 .glamor-5[data-simulate-hover] > div:last-child,
 [data-glamor-5][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-5:focus > div:last-child,
@@ -2305,7 +2305,7 @@ exports[`FormField demo examples rtl 1`] = `
 .glamor-5[data-simulate-focus] > div:last-child,
 [data-glamor-5][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-5:active > div:last-child,
@@ -2313,7 +2313,7 @@ exports[`FormField demo examples rtl 1`] = `
 .glamor-5[data-simulate-active] > div:last-child,
 [data-glamor-5][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-5 [role="img"],
@@ -2347,7 +2347,7 @@ exports[`FormField demo examples rtl 1`] = `
 
 .glamor-0,
 [data-glamor-0] {
-  color: #db2929;
+  color: #de1b1b;
   font-size: 0.6875em;
 }
 
@@ -2415,7 +2415,7 @@ exports[`FormField demo examples rtl 1`] = `
 .glamor-3[data-simulate-focus] ~ div:last-child,
 [data-glamor-3][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 <ThemeProvider>
@@ -2766,7 +2766,7 @@ exports[`FormField demo examples secondaryText 1`] = `
 [data-glamor-4]:hover > div:last-child,
 .glamor-4[data-simulate-hover] > div:last-child,
 [data-glamor-4][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-4:focus > div:last-child,
@@ -2774,7 +2774,7 @@ exports[`FormField demo examples secondaryText 1`] = `
 .glamor-4[data-simulate-focus] > div:last-child,
 [data-glamor-4][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-4:active > div:last-child,
@@ -2782,7 +2782,7 @@ exports[`FormField demo examples secondaryText 1`] = `
 .glamor-4[data-simulate-active] > div:last-child,
 [data-glamor-4][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-4 [role="img"],
@@ -2853,7 +2853,7 @@ exports[`FormField demo examples secondaryText 1`] = `
 .glamor-2[data-simulate-focus] ~ div:last-child,
 [data-glamor-2][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3,
@@ -3174,7 +3174,7 @@ exports[`FormField demo examples validation 1`] = `
 [data-glamor-4]:hover > div:last-child,
 .glamor-4[data-simulate-hover] > div:last-child,
 [data-glamor-4][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-4:focus > div:last-child,
@@ -3182,7 +3182,7 @@ exports[`FormField demo examples validation 1`] = `
 .glamor-4[data-simulate-focus] > div:last-child,
 [data-glamor-4][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-4:active > div:last-child,
@@ -3190,7 +3190,7 @@ exports[`FormField demo examples validation 1`] = `
 .glamor-4[data-simulate-active] > div:last-child,
 [data-glamor-4][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-4 [role="img"],
@@ -3261,7 +3261,7 @@ exports[`FormField demo examples validation 1`] = `
 .glamor-2[data-simulate-focus] ~ div:last-child,
 [data-glamor-2][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3,
@@ -3281,7 +3281,7 @@ exports[`FormField demo examples validation 1`] = `
 
 .glamor-0,
 [data-glamor-0] {
-  color: #db2929;
+  color: #de1b1b;
   font-size: 0.6875em;
 }
 
@@ -3325,7 +3325,7 @@ exports[`FormField demo examples validation 1`] = `
 [data-glamor-10][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -3357,7 +3357,7 @@ exports[`FormField demo examples validation 1`] = `
 .glamor-10 [role="img"],
 [data-glamor-10] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -3747,7 +3747,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-5 [role="img"]:last-of-type,
 [data-glamor-5] [role="img"]:last-of-type {
-  fill: #06783f;
+  fill: #038537;
 }
 
 .glamor-4,
@@ -3787,7 +3787,7 @@ exports[`FormField demo examples variants 1`] = `
 [data-glamor-4]:hover > div:last-child,
 .glamor-4[data-simulate-hover] > div:last-child,
 [data-glamor-4][data-simulate-hover] > div:last-child {
-  border-color: #0a8f4c;
+  border-color: #056b2e;
 }
 
 .glamor-4:focus > div:last-child,
@@ -3795,7 +3795,7 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-4[data-simulate-focus] > div:last-child,
 [data-glamor-4][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #10a35a;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #038537;
 }
 
 .glamor-4:active > div:last-child,
@@ -3803,7 +3803,7 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-4[data-simulate-active] > div:last-child,
 [data-glamor-4][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #10a35a;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #038537;
 }
 
 .glamor-4 [role="img"],
@@ -3817,7 +3817,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-4 [role="img"]:last-of-type,
 [data-glamor-4] [role="img"]:last-of-type {
-  fill: #06783f;
+  fill: #038537;
 }
 
 .glamor-1,
@@ -3874,7 +3874,7 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-1[data-simulate-focus] ~ div:last-child,
 [data-glamor-1][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #10a35a;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #038537;
 }
 
 .glamor-2,
@@ -3888,7 +3888,7 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-3,
 [data-glamor-3] {
   background-color: #fff;
-  border-color: #10a35a;
+  border-color: #038537;
   border-radius: 0.1875em;
   border-style: solid;
   border-width: 1px;
@@ -3902,7 +3902,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-7,
 [data-glamor-7] {
-  color: #06783f;
+  color: #038537;
   font-size: 0.6875em;
   margin-top: 0.18181818181818182em;
 }
@@ -3932,7 +3932,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-14 [role="img"]:last-of-type,
 [data-glamor-14] [role="img"]:last-of-type {
-  fill: #cf4615;
+  fill: #ad5f00;
 }
 
 .glamor-13,
@@ -3972,7 +3972,7 @@ exports[`FormField demo examples variants 1`] = `
 [data-glamor-13]:hover > div:last-child,
 .glamor-13[data-simulate-hover] > div:last-child,
 [data-glamor-13][data-simulate-hover] > div:last-child {
-  border-color: #cf4615;
+  border-color: #8a4d03;
 }
 
 .glamor-13:focus > div:last-child,
@@ -3980,7 +3980,7 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-13[data-simulate-focus] > div:last-child,
 [data-glamor-13][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #e05b2b;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #ad5f00;
 }
 
 .glamor-13:active > div:last-child,
@@ -3988,7 +3988,7 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-13[data-simulate-active] > div:last-child,
 [data-glamor-13][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #e05b2b;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #ad5f00;
 }
 
 .glamor-13 [role="img"],
@@ -4002,7 +4002,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-13 [role="img"]:last-of-type,
 [data-glamor-13] [role="img"]:last-of-type {
-  fill: #cf4615;
+  fill: #ad5f00;
 }
 
 .glamor-10,
@@ -4059,13 +4059,13 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-10[data-simulate-focus] ~ div:last-child,
 [data-glamor-10][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #e05b2b;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #ad5f00;
 }
 
 .glamor-12,
 [data-glamor-12] {
   background-color: #fff;
-  border-color: #e05b2b;
+  border-color: #ad5f00;
   border-radius: 0.1875em;
   border-style: solid;
   border-width: 1px;
@@ -4079,7 +4079,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-16,
 [data-glamor-16] {
-  color: #cf4615;
+  color: #ad5f00;
   font-size: 0.6875em;
   margin-top: 0.18181818181818182em;
 }
@@ -4109,7 +4109,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-23 [role="img"]:last-of-type,
 [data-glamor-23] [role="img"]:last-of-type {
-  fill: #db2929;
+  fill: #de1b1b;
 }
 
 .glamor-22,
@@ -4149,7 +4149,7 @@ exports[`FormField demo examples variants 1`] = `
 [data-glamor-22]:hover > div:last-child,
 .glamor-22[data-simulate-hover] > div:last-child,
 [data-glamor-22][data-simulate-hover] > div:last-child {
-  border-color: #c71818;
+  border-color: #b80d0d;
 }
 
 .glamor-22:focus > div:last-child,
@@ -4157,7 +4157,7 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-22[data-simulate-focus] > div:last-child,
 [data-glamor-22][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #db2929;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #de1b1b;
 }
 
 .glamor-22:active > div:last-child,
@@ -4165,7 +4165,7 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-22[data-simulate-active] > div:last-child,
 [data-glamor-22][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #db2929;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #de1b1b;
 }
 
 .glamor-22 [role="img"],
@@ -4179,7 +4179,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-22 [role="img"]:last-of-type,
 [data-glamor-22] [role="img"]:last-of-type {
-  fill: #db2929;
+  fill: #de1b1b;
 }
 
 .glamor-19,
@@ -4236,13 +4236,13 @@ exports[`FormField demo examples variants 1`] = `
 .glamor-19[data-simulate-focus] ~ div:last-child,
 [data-glamor-19][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #db2929;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #de1b1b;
 }
 
 .glamor-21,
 [data-glamor-21] {
   background-color: #fff;
-  border-color: #db2929;
+  border-color: #de1b1b;
   border-radius: 0.1875em;
   border-style: solid;
   border-width: 1px;
@@ -4256,7 +4256,7 @@ exports[`FormField demo examples variants 1`] = `
 
 .glamor-25,
 [data-glamor-25] {
-  color: #db2929;
+  color: #de1b1b;
   font-size: 0.6875em;
   margin-top: 0.18181818181818182em;
 }

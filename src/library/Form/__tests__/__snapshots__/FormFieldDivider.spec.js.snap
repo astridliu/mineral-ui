@@ -110,7 +110,7 @@ exports[`FormFieldDivider demo examples basic 1`] = `
 [data-glamor-3]:hover > div:last-child,
 .glamor-3[data-simulate-hover] > div:last-child,
 [data-glamor-3][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-3:focus > div:last-child,
@@ -118,7 +118,7 @@ exports[`FormFieldDivider demo examples basic 1`] = `
 .glamor-3[data-simulate-focus] > div:last-child,
 [data-glamor-3][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3:active > div:last-child,
@@ -126,7 +126,7 @@ exports[`FormFieldDivider demo examples basic 1`] = `
 .glamor-3[data-simulate-active] > div:last-child,
 [data-glamor-3][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3 [role="img"],
@@ -197,7 +197,7 @@ exports[`FormFieldDivider demo examples basic 1`] = `
 .glamor-1[data-simulate-focus] ~ div:last-child,
 [data-glamor-1][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-2,

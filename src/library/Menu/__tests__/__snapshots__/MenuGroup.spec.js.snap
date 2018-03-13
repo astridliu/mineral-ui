@@ -96,7 +96,7 @@ exports[`MenuGroup demo examples menu-group 1`] = `
 [data-glamor-5] [role="img"] {
   box-sizing: content-box;
   display: block;
-  fill: #2e6fd9;
+  fill: #3272d9;
   flex: 0 0 auto;
   -webkit-flex: 0 0 auto;
 }

@@ -144,7 +144,7 @@ exports[`FormFieldset demo examples basic 1`] = `
 [data-glamor-3]:hover > div:last-child,
 .glamor-3[data-simulate-hover] > div:last-child,
 [data-glamor-3][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-3:focus > div:last-child,
@@ -152,7 +152,7 @@ exports[`FormFieldset demo examples basic 1`] = `
 .glamor-3[data-simulate-focus] > div:last-child,
 [data-glamor-3][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3:active > div:last-child,
@@ -160,7 +160,7 @@ exports[`FormFieldset demo examples basic 1`] = `
 .glamor-3[data-simulate-active] > div:last-child,
 [data-glamor-3][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-3 [role="img"],
@@ -231,7 +231,7 @@ exports[`FormFieldset demo examples basic 1`] = `
 .glamor-1[data-simulate-focus] ~ div:last-child,
 [data-glamor-1][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-2,
@@ -816,7 +816,7 @@ exports[`FormFieldset demo examples disabled 1`] = `
 .glamor-1[data-simulate-focus] ~ div:last-child,
 [data-glamor-1][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-2,
@@ -1301,7 +1301,7 @@ exports[`FormFieldset demo examples rtl 1`] = `
 [data-glamor-4]:hover > div:last-child,
 .glamor-4[data-simulate-hover] > div:last-child,
 [data-glamor-4][data-simulate-hover] > div:last-child {
-  border-color: #2e6fd9;
+  border-color: #3272d9;
 }
 
 .glamor-4:focus > div:last-child,
@@ -1309,7 +1309,7 @@ exports[`FormFieldset demo examples rtl 1`] = `
 .glamor-4[data-simulate-focus] > div:last-child,
 [data-glamor-4][data-simulate-focus] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-4:active > div:last-child,
@@ -1317,7 +1317,7 @@ exports[`FormFieldset demo examples rtl 1`] = `
 .glamor-4[data-simulate-active] > div:last-child,
 [data-glamor-4][data-simulate-active] > div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 .glamor-4 [role="img"],
@@ -1447,7 +1447,7 @@ exports[`FormFieldset demo examples rtl 1`] = `
 .glamor-2[data-simulate-focus] ~ div:last-child,
 [data-glamor-2][data-simulate-focus] ~ div:last-child {
   border-color: #c8d1e0;
-  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #2e6fd9;
+  box-shadow: 0 0 0 1px #fff, 0 0 0 2px #3272d9;
 }
 
 <ThemeProvider>

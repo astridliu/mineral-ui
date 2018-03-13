@@ -80,7 +80,7 @@ exports[`Button demo examples circular 1`] = `
 [data-glamor-2][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -112,7 +112,7 @@ exports[`Button demo examples circular 1`] = `
 .glamor-2 [role="img"],
 [data-glamor-2] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -141,7 +141,7 @@ exports[`Button demo examples circular 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: transparent;
   border-radius: 1.25em;
   border-style: solid;
@@ -169,9 +169,9 @@ exports[`Button demo examples circular 1`] = `
 [data-glamor-5]:focus,
 .glamor-5[data-simulate-focus],
 [data-glamor-5][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #fff;
   text-decoration: none;
 }
@@ -180,7 +180,7 @@ exports[`Button demo examples circular 1`] = `
 [data-glamor-5]:hover,
 .glamor-5[data-simulate-hover],
 [data-glamor-5][data-simulate-hover] {
-  background-color: #4a89e8;
+  background-color: #5691f0;
   color: #fff;
   text-decoration: none;
 }
@@ -189,7 +189,7 @@ exports[`Button demo examples circular 1`] = `
 [data-glamor-5]:active,
 .glamor-5[data-simulate-active],
 [data-glamor-5][data-simulate-active] {
-  background-color: #1f5dc2;
+  background-color: #1d5bbf;
   color: #fff;
 }
 
@@ -225,7 +225,7 @@ exports[`Button demo examples circular 1`] = `
 .glamor-8,
 [data-glamor-8] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -261,8 +261,8 @@ exports[`Button demo examples circular 1`] = `
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -271,7 +271,7 @@ exports[`Button demo examples circular 1`] = `
 .glamor-8[data-simulate-hover],
 [data-glamor-8][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -280,7 +280,7 @@ exports[`Button demo examples circular 1`] = `
 .glamor-8[data-simulate-active],
 [data-glamor-8][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-8::-moz-focus-inner,
@@ -352,7 +352,7 @@ exports[`Button demo examples circular 1`] = `
 [data-glamor-11][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -384,7 +384,7 @@ exports[`Button demo examples circular 1`] = `
 .glamor-11 [role="img"],
 [data-glamor-11] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -443,7 +443,7 @@ exports[`Button demo examples circular 1`] = `
 [data-glamor-14][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -475,7 +475,7 @@ exports[`Button demo examples circular 1`] = `
 .glamor-14 [role="img"],
 [data-glamor-14] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -534,7 +534,7 @@ exports[`Button demo examples circular 1`] = `
 [data-glamor-17][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -566,7 +566,7 @@ exports[`Button demo examples circular 1`] = `
 .glamor-17 [role="img"],
 [data-glamor-17] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -1096,7 +1096,7 @@ exports[`Button demo examples default 1`] = `
 [data-glamor-2][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -1128,7 +1128,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-2 [role="img"],
 [data-glamor-2] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -1150,7 +1150,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-5,
 [data-glamor-5] {
   box-sizing: border-box;
-  color: #06783f;
+  color: #038537;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -1187,8 +1187,8 @@ exports[`Button demo examples default 1`] = `
 [data-glamor-5][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #0a8f4c;
-  color: #06783f;
+  box-shadow: 0 0 0 1px #056b2e;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -1197,7 +1197,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-5[data-simulate-hover],
 [data-glamor-5][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #06783f;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -1206,7 +1206,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-5[data-simulate-active],
 [data-glamor-5][data-simulate-active] {
   background-color: #dde3ed;
-  color: #06783f;
+  color: #038537;
 }
 
 .glamor-5::-moz-focus-inner,
@@ -1241,7 +1241,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-8,
 [data-glamor-8] {
   box-sizing: border-box;
-  color: #cf4615;
+  color: #ad5f00;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -1278,8 +1278,8 @@ exports[`Button demo examples default 1`] = `
 [data-glamor-8][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #cf4615;
-  color: #cf4615;
+  box-shadow: 0 0 0 1px #8a4d03;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -1288,7 +1288,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-8[data-simulate-hover],
 [data-glamor-8][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #cf4615;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -1297,7 +1297,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-8[data-simulate-active],
 [data-glamor-8][data-simulate-active] {
   background-color: #dde3ed;
-  color: #cf4615;
+  color: #ad5f00;
 }
 
 .glamor-8::-moz-focus-inner,
@@ -1332,7 +1332,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-11,
 [data-glamor-11] {
   box-sizing: border-box;
-  color: #db2929;
+  color: #de1b1b;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -1369,8 +1369,8 @@ exports[`Button demo examples default 1`] = `
 [data-glamor-11][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
-  color: #db2929;
+  box-shadow: 0 0 0 1px #b80d0d;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -1379,7 +1379,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-11[data-simulate-hover],
 [data-glamor-11][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #db2929;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -1388,7 +1388,7 @@ exports[`Button demo examples default 1`] = `
 .glamor-11[data-simulate-active],
 [data-glamor-11][data-simulate-active] {
   background-color: #dde3ed;
-  color: #db2929;
+  color: #de1b1b;
 }
 
 .glamor-11::-moz-focus-inner,
@@ -1460,7 +1460,7 @@ exports[`Button demo examples default 1`] = `
 [data-glamor-14][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #afbacc;
   text-decoration: none;
 }
@@ -1797,7 +1797,7 @@ exports[`Button demo examples icon-only 1`] = `
 [data-glamor-2][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -1829,7 +1829,7 @@ exports[`Button demo examples icon-only 1`] = `
 .glamor-2 [role="img"],
 [data-glamor-2] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -1858,7 +1858,7 @@ exports[`Button demo examples icon-only 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -1886,9 +1886,9 @@ exports[`Button demo examples icon-only 1`] = `
 [data-glamor-5]:focus,
 .glamor-5[data-simulate-focus],
 [data-glamor-5][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #fff;
   text-decoration: none;
 }
@@ -1897,7 +1897,7 @@ exports[`Button demo examples icon-only 1`] = `
 [data-glamor-5]:hover,
 .glamor-5[data-simulate-hover],
 [data-glamor-5][data-simulate-hover] {
-  background-color: #4a89e8;
+  background-color: #5691f0;
   color: #fff;
   text-decoration: none;
 }
@@ -1906,7 +1906,7 @@ exports[`Button demo examples icon-only 1`] = `
 [data-glamor-5]:active,
 .glamor-5[data-simulate-active],
 [data-glamor-5][data-simulate-active] {
-  background-color: #1f5dc2;
+  background-color: #1d5bbf;
   color: #fff;
 }
 
@@ -1942,7 +1942,7 @@ exports[`Button demo examples icon-only 1`] = `
 .glamor-8,
 [data-glamor-8] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -1978,8 +1978,8 @@ exports[`Button demo examples icon-only 1`] = `
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -1988,7 +1988,7 @@ exports[`Button demo examples icon-only 1`] = `
 .glamor-8[data-simulate-hover],
 [data-glamor-8][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -1997,7 +1997,7 @@ exports[`Button demo examples icon-only 1`] = `
 .glamor-8[data-simulate-active],
 [data-glamor-8][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-8::-moz-focus-inner,
@@ -2069,7 +2069,7 @@ exports[`Button demo examples icon-only 1`] = `
 [data-glamor-11][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -2101,7 +2101,7 @@ exports[`Button demo examples icon-only 1`] = `
 .glamor-11 [role="img"],
 [data-glamor-11] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -2160,7 +2160,7 @@ exports[`Button demo examples icon-only 1`] = `
 [data-glamor-14][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -2192,7 +2192,7 @@ exports[`Button demo examples icon-only 1`] = `
 .glamor-14 [role="img"],
 [data-glamor-14] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -2251,7 +2251,7 @@ exports[`Button demo examples icon-only 1`] = `
 [data-glamor-17][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -2283,7 +2283,7 @@ exports[`Button demo examples icon-only 1`] = `
 .glamor-17 [role="img"],
 [data-glamor-17] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -2728,7 +2728,7 @@ exports[`Button demo examples icons 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -2756,9 +2756,9 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-16]:focus,
 .glamor-16[data-simulate-focus],
 [data-glamor-16][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #fff;
   text-decoration: none;
 }
@@ -2767,7 +2767,7 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-16]:hover,
 .glamor-16[data-simulate-hover],
 [data-glamor-16][data-simulate-hover] {
-  background-color: #4a89e8;
+  background-color: #5691f0;
   color: #fff;
   text-decoration: none;
 }
@@ -2776,7 +2776,7 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-16]:active,
 .glamor-16[data-simulate-active],
 [data-glamor-16][data-simulate-active] {
-  background-color: #1f5dc2;
+  background-color: #1d5bbf;
   color: #fff;
 }
 
@@ -2892,7 +2892,7 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-3][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -2924,7 +2924,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-3 [role="img"],
 [data-glamor-3] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -2946,7 +2946,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-28,
 [data-glamor-28] {
   box-sizing: border-box;
-  color: #06783f;
+  color: #038537;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -2983,8 +2983,8 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-28][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #0a8f4c;
-  color: #06783f;
+  box-shadow: 0 0 0 1px #056b2e;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -2993,7 +2993,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-28[data-simulate-hover],
 [data-glamor-28][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #06783f;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -3002,7 +3002,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-28[data-simulate-active],
 [data-glamor-28][data-simulate-active] {
   background-color: #dde3ed;
-  color: #06783f;
+  color: #038537;
 }
 
 .glamor-28::-moz-focus-inner,
@@ -3037,7 +3037,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-32,
 [data-glamor-32] {
   box-sizing: border-box;
-  color: #cf4615;
+  color: #ad5f00;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -3074,8 +3074,8 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-32][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #cf4615;
-  color: #cf4615;
+  box-shadow: 0 0 0 1px #8a4d03;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -3084,7 +3084,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-32[data-simulate-hover],
 [data-glamor-32][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #cf4615;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -3093,7 +3093,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-32[data-simulate-active],
 [data-glamor-32][data-simulate-active] {
   background-color: #dde3ed;
-  color: #cf4615;
+  color: #ad5f00;
 }
 
 .glamor-32::-moz-focus-inner,
@@ -3128,7 +3128,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-24,
 [data-glamor-24] {
   box-sizing: border-box;
-  color: #db2929;
+  color: #de1b1b;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -3165,8 +3165,8 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-24][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
-  color: #db2929;
+  box-shadow: 0 0 0 1px #b80d0d;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -3175,7 +3175,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-24[data-simulate-hover],
 [data-glamor-24][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #db2929;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -3184,7 +3184,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-24[data-simulate-active],
 [data-glamor-24][data-simulate-active] {
   background-color: #dde3ed;
-  color: #db2929;
+  color: #de1b1b;
 }
 
 .glamor-24::-moz-focus-inner,
@@ -3256,7 +3256,7 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-36][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #afbacc;
   text-decoration: none;
 }
@@ -3308,7 +3308,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-20,
 [data-glamor-20] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -3344,8 +3344,8 @@ exports[`Button demo examples icons 1`] = `
 .glamor-20[data-simulate-focus],
 [data-glamor-20][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -3354,7 +3354,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-20[data-simulate-hover],
 [data-glamor-20][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -3363,7 +3363,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-20[data-simulate-active],
 [data-glamor-20][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-20::-moz-focus-inner,
@@ -3435,7 +3435,7 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-40][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -3467,7 +3467,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-40 [role="img"],
 [data-glamor-40] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -3538,7 +3538,7 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-44][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -3570,7 +3570,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-44 [role="img"],
 [data-glamor-44] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -3641,7 +3641,7 @@ exports[`Button demo examples icons 1`] = `
 [data-glamor-52][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -3673,7 +3673,7 @@ exports[`Button demo examples icons 1`] = `
 .glamor-52 [role="img"],
 [data-glamor-52] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -4779,7 +4779,7 @@ exports[`Button demo examples link 1`] = `
 [data-glamor-2][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -4811,7 +4811,7 @@ exports[`Button demo examples link 1`] = `
 .glamor-2 [role="img"],
 [data-glamor-2] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -4943,7 +4943,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-2,
 [data-glamor-2] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -4979,8 +4979,8 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-2[data-simulate-focus],
 [data-glamor-2][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -4989,7 +4989,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-2[data-simulate-hover],
 [data-glamor-2][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -4998,7 +4998,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-2[data-simulate-active],
 [data-glamor-2][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-2::-moz-focus-inner,
@@ -5033,7 +5033,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-5,
 [data-glamor-5] {
   box-sizing: border-box;
-  color: #06783f;
+  color: #038537;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -5069,8 +5069,8 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-5[data-simulate-focus],
 [data-glamor-5][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #0a8f4c;
-  color: #06783f;
+  box-shadow: 0 0 0 1px #056b2e;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -5079,7 +5079,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-5[data-simulate-hover],
 [data-glamor-5][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #06783f;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -5088,7 +5088,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-5[data-simulate-active],
 [data-glamor-5][data-simulate-active] {
   background-color: #ebeff5;
-  color: #06783f;
+  color: #038537;
 }
 
 .glamor-5::-moz-focus-inner,
@@ -5123,7 +5123,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-8,
 [data-glamor-8] {
   box-sizing: border-box;
-  color: #cf4615;
+  color: #ad5f00;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -5159,8 +5159,8 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #cf4615;
-  color: #cf4615;
+  box-shadow: 0 0 0 1px #8a4d03;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -5169,7 +5169,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-8[data-simulate-hover],
 [data-glamor-8][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #cf4615;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -5178,7 +5178,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-8[data-simulate-active],
 [data-glamor-8][data-simulate-active] {
   background-color: #ebeff5;
-  color: #cf4615;
+  color: #ad5f00;
 }
 
 .glamor-8::-moz-focus-inner,
@@ -5213,7 +5213,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-11,
 [data-glamor-11] {
   box-sizing: border-box;
-  color: #db2929;
+  color: #de1b1b;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -5249,8 +5249,8 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-11[data-simulate-focus],
 [data-glamor-11][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
-  color: #db2929;
+  box-shadow: 0 0 0 1px #b80d0d;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -5259,7 +5259,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-11[data-simulate-hover],
 [data-glamor-11][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #db2929;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -5268,7 +5268,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-11[data-simulate-active],
 [data-glamor-11][data-simulate-active] {
   background-color: #ebeff5;
-  color: #db2929;
+  color: #de1b1b;
 }
 
 .glamor-11::-moz-focus-inner,
@@ -5339,7 +5339,7 @@ exports[`Button demo examples minimal 1`] = `
 .glamor-14[data-simulate-focus],
 [data-glamor-14][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #afbacc;
   text-decoration: none;
 }
@@ -5623,7 +5623,7 @@ exports[`Button demo examples primary 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -5651,9 +5651,9 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-2]:focus,
 .glamor-2[data-simulate-focus],
 [data-glamor-2][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #fff;
   text-decoration: none;
 }
@@ -5662,7 +5662,7 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-2]:hover,
 .glamor-2[data-simulate-hover],
 [data-glamor-2][data-simulate-hover] {
-  background-color: #4a89e8;
+  background-color: #5691f0;
   color: #fff;
   text-decoration: none;
 }
@@ -5671,7 +5671,7 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-2]:active,
 .glamor-2[data-simulate-active],
 [data-glamor-2][data-simulate-active] {
-  background-color: #1f5dc2;
+  background-color: #1d5bbf;
   color: #fff;
 }
 
@@ -5757,7 +5757,7 @@ exports[`Button demo examples primary 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #0a8f4c;
+  background-color: #038537;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -5785,9 +5785,9 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-5]:focus,
 .glamor-5[data-simulate-focus],
 [data-glamor-5][data-simulate-focus] {
-  background-color: #0a8f4c;
+  background-color: #038537;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #0a8f4c;
+  box-shadow: 0 0 0 1px #056b2e;
   color: #fff;
   text-decoration: none;
 }
@@ -5796,7 +5796,7 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-5]:hover,
 .glamor-5[data-simulate-hover],
 [data-glamor-5][data-simulate-hover] {
-  background-color: #10a35a;
+  background-color: #0aa648;
   color: #fff;
   text-decoration: none;
 }
@@ -5805,7 +5805,7 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-5]:active,
 .glamor-5[data-simulate-active],
 [data-glamor-5][data-simulate-active] {
-  background-color: #06783f;
+  background-color: #056b2e;
   color: #fff;
 }
 
@@ -5848,7 +5848,7 @@ exports[`Button demo examples primary 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #e05b2b;
+  background-color: #ad5f00;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -5876,9 +5876,9 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-8]:focus,
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
-  background-color: #e05b2b;
+  background-color: #ad5f00;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #cf4615;
+  box-shadow: 0 0 0 1px #8a4d03;
   color: #fff;
   text-decoration: none;
 }
@@ -5887,7 +5887,7 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-8]:hover,
 .glamor-8[data-simulate-hover],
 [data-glamor-8][data-simulate-hover] {
-  background-color: #ed774c;
+  background-color: #cf7911;
   color: #fff;
   text-decoration: none;
 }
@@ -5896,7 +5896,7 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-8]:active,
 .glamor-8[data-simulate-active],
 [data-glamor-8][data-simulate-active] {
-  background-color: #cf4615;
+  background-color: #8a4d03;
   color: #fff;
 }
 
@@ -5939,7 +5939,7 @@ exports[`Button demo examples primary 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #db2929;
+  background-color: #de1b1b;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -5967,9 +5967,9 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-11]:focus,
 .glamor-11[data-simulate-focus],
 [data-glamor-11][data-simulate-focus] {
-  background-color: #db2929;
+  background-color: #de1b1b;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
+  box-shadow: 0 0 0 1px #b80d0d;
   color: #fff;
   text-decoration: none;
 }
@@ -5978,7 +5978,7 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-11]:hover,
 .glamor-11[data-simulate-hover],
 [data-glamor-11][data-simulate-hover] {
-  background-color: #eb4d4d;
+  background-color: #f55353;
   color: #fff;
   text-decoration: none;
 }
@@ -5987,7 +5987,7 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-11]:active,
 .glamor-11[data-simulate-active],
 [data-glamor-11][data-simulate-active] {
-  background-color: #c71818;
+  background-color: #b80d0d;
   color: #fff;
 }
 
@@ -6058,9 +6058,9 @@ exports[`Button demo examples primary 1`] = `
 [data-glamor-14]:focus,
 .glamor-14[data-simulate-focus],
 [data-glamor-14][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #afbacc;
   text-decoration: none;
 }
@@ -6385,7 +6385,7 @@ exports[`Button demo examples rtl 1`] = `
 [data-glamor-3][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -6417,7 +6417,7 @@ exports[`Button demo examples rtl 1`] = `
 .glamor-3 [role="img"],
 [data-glamor-3] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -6663,7 +6663,7 @@ exports[`Button demo examples sizes 1`] = `
 [data-glamor-8][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -6695,7 +6695,7 @@ exports[`Button demo examples sizes 1`] = `
 .glamor-8 [role="img"],
 [data-glamor-8] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -6754,7 +6754,7 @@ exports[`Button demo examples sizes 1`] = `
 [data-glamor-2][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -6786,7 +6786,7 @@ exports[`Button demo examples sizes 1`] = `
 .glamor-2 [role="img"],
 [data-glamor-2] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -6857,7 +6857,7 @@ exports[`Button demo examples sizes 1`] = `
 [data-glamor-5][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -6889,7 +6889,7 @@ exports[`Button demo examples sizes 1`] = `
 .glamor-5 [role="img"],
 [data-glamor-5] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -6960,7 +6960,7 @@ exports[`Button demo examples sizes 1`] = `
 [data-glamor-11][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -6992,7 +6992,7 @@ exports[`Button demo examples sizes 1`] = `
 .glamor-11 [role="img"],
 [data-glamor-11] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -7078,7 +7078,7 @@ exports[`Button demo examples sizes 1`] = `
 [data-glamor-14][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -7110,7 +7110,7 @@ exports[`Button demo examples sizes 1`] = `
 .glamor-14 [role="img"],
 [data-glamor-14] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -7347,7 +7347,7 @@ exports[`Button demo examples states 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -7375,9 +7375,9 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-5]:focus,
 .glamor-5[data-simulate-focus],
 [data-glamor-5][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #fff;
   text-decoration: none;
 }
@@ -7386,7 +7386,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-5]:hover,
 .glamor-5[data-simulate-hover],
 [data-glamor-5][data-simulate-hover] {
-  background-color: #4a89e8;
+  background-color: #5691f0;
   color: #fff;
   text-decoration: none;
 }
@@ -7395,7 +7395,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-5]:active,
 .glamor-5[data-simulate-active],
 [data-glamor-5][data-simulate-active] {
-  background-color: #1f5dc2;
+  background-color: #1d5bbf;
   color: #fff;
 }
 
@@ -7481,7 +7481,7 @@ exports[`Button demo examples states 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #0a8f4c;
+  background-color: #038537;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -7509,9 +7509,9 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-131]:focus,
 .glamor-131[data-simulate-focus],
 [data-glamor-131][data-simulate-focus] {
-  background-color: #0a8f4c;
+  background-color: #038537;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #0a8f4c;
+  box-shadow: 0 0 0 1px #056b2e;
   color: #fff;
   text-decoration: none;
 }
@@ -7520,7 +7520,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-131]:hover,
 .glamor-131[data-simulate-hover],
 [data-glamor-131][data-simulate-hover] {
-  background-color: #10a35a;
+  background-color: #0aa648;
   color: #fff;
   text-decoration: none;
 }
@@ -7529,7 +7529,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-131]:active,
 .glamor-131[data-simulate-active],
 [data-glamor-131][data-simulate-active] {
-  background-color: #06783f;
+  background-color: #056b2e;
   color: #fff;
 }
 
@@ -7572,7 +7572,7 @@ exports[`Button demo examples states 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #e05b2b;
+  background-color: #ad5f00;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -7600,9 +7600,9 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-194]:focus,
 .glamor-194[data-simulate-focus],
 [data-glamor-194][data-simulate-focus] {
-  background-color: #e05b2b;
+  background-color: #ad5f00;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #cf4615;
+  box-shadow: 0 0 0 1px #8a4d03;
   color: #fff;
   text-decoration: none;
 }
@@ -7611,7 +7611,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-194]:hover,
 .glamor-194[data-simulate-hover],
 [data-glamor-194][data-simulate-hover] {
-  background-color: #ed774c;
+  background-color: #cf7911;
   color: #fff;
   text-decoration: none;
 }
@@ -7620,7 +7620,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-194]:active,
 .glamor-194[data-simulate-active],
 [data-glamor-194][data-simulate-active] {
-  background-color: #cf4615;
+  background-color: #8a4d03;
   color: #fff;
 }
 
@@ -7663,7 +7663,7 @@ exports[`Button demo examples states 1`] = `
   outline: 0;
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: antialiased;
-  background-color: #db2929;
+  background-color: #de1b1b;
   border-color: transparent;
   border-radius: 0.1875em;
   border-style: solid;
@@ -7691,9 +7691,9 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-68]:focus,
 .glamor-68[data-simulate-focus],
 [data-glamor-68][data-simulate-focus] {
-  background-color: #db2929;
+  background-color: #de1b1b;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
+  box-shadow: 0 0 0 1px #b80d0d;
   color: #fff;
   text-decoration: none;
 }
@@ -7702,7 +7702,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-68]:hover,
 .glamor-68[data-simulate-hover],
 [data-glamor-68][data-simulate-hover] {
-  background-color: #eb4d4d;
+  background-color: #f55353;
   color: #fff;
   text-decoration: none;
 }
@@ -7711,7 +7711,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-68]:active,
 .glamor-68[data-simulate-active],
 [data-glamor-68][data-simulate-active] {
-  background-color: #c71818;
+  background-color: #b80d0d;
   color: #fff;
 }
 
@@ -7782,9 +7782,9 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-59]:focus,
 .glamor-59[data-simulate-focus],
 [data-glamor-59][data-simulate-focus] {
-  background-color: #2e6fd9;
+  background-color: #3272d9;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #afbacc;
   text-decoration: none;
 }
@@ -7873,7 +7873,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-2][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -7905,7 +7905,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-2 [role="img"],
 [data-glamor-2] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -7927,7 +7927,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-128,
 [data-glamor-128] {
   box-sizing: border-box;
-  color: #06783f;
+  color: #038537;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -7964,8 +7964,8 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-128][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #0a8f4c;
-  color: #06783f;
+  box-shadow: 0 0 0 1px #056b2e;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -7974,7 +7974,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-128[data-simulate-hover],
 [data-glamor-128][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #06783f;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -7983,7 +7983,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-128[data-simulate-active],
 [data-glamor-128][data-simulate-active] {
   background-color: #dde3ed;
-  color: #06783f;
+  color: #038537;
 }
 
 .glamor-128::-moz-focus-inner,
@@ -8018,7 +8018,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-191,
 [data-glamor-191] {
   box-sizing: border-box;
-  color: #cf4615;
+  color: #ad5f00;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -8055,8 +8055,8 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-191][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #cf4615;
-  color: #cf4615;
+  box-shadow: 0 0 0 1px #8a4d03;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -8065,7 +8065,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-191[data-simulate-hover],
 [data-glamor-191][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #cf4615;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -8074,7 +8074,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-191[data-simulate-active],
 [data-glamor-191][data-simulate-active] {
   background-color: #dde3ed;
-  color: #cf4615;
+  color: #ad5f00;
 }
 
 .glamor-191::-moz-focus-inner,
@@ -8109,7 +8109,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-65,
 [data-glamor-65] {
   box-sizing: border-box;
-  color: #db2929;
+  color: #de1b1b;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -8146,8 +8146,8 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-65][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
-  color: #db2929;
+  box-shadow: 0 0 0 1px #b80d0d;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -8156,7 +8156,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-65[data-simulate-hover],
 [data-glamor-65][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #db2929;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -8165,7 +8165,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-65[data-simulate-active],
 [data-glamor-65][data-simulate-active] {
   background-color: #dde3ed;
-  color: #db2929;
+  color: #de1b1b;
 }
 
 .glamor-65::-moz-focus-inner,
@@ -8237,7 +8237,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-56][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #afbacc;
   text-decoration: none;
 }
@@ -8289,7 +8289,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-8,
 [data-glamor-8] {
   box-sizing: border-box;
-  color: #2e6fd9;
+  color: #3272d9;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -8325,8 +8325,8 @@ exports[`Button demo examples states 1`] = `
 .glamor-8[data-simulate-focus],
 [data-glamor-8][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
-  color: #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -8335,7 +8335,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-8[data-simulate-hover],
 [data-glamor-8][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -8344,7 +8344,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-8[data-simulate-active],
 [data-glamor-8][data-simulate-active] {
   background-color: #ebeff5;
-  color: #2e6fd9;
+  color: #3272d9;
 }
 
 .glamor-8::-moz-focus-inner,
@@ -8379,7 +8379,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-134,
 [data-glamor-134] {
   box-sizing: border-box;
-  color: #06783f;
+  color: #038537;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -8415,8 +8415,8 @@ exports[`Button demo examples states 1`] = `
 .glamor-134[data-simulate-focus],
 [data-glamor-134][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #0a8f4c;
-  color: #06783f;
+  box-shadow: 0 0 0 1px #056b2e;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -8425,7 +8425,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-134[data-simulate-hover],
 [data-glamor-134][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #06783f;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -8434,7 +8434,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-134[data-simulate-active],
 [data-glamor-134][data-simulate-active] {
   background-color: #ebeff5;
-  color: #06783f;
+  color: #038537;
 }
 
 .glamor-134::-moz-focus-inner,
@@ -8469,7 +8469,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-197,
 [data-glamor-197] {
   box-sizing: border-box;
-  color: #cf4615;
+  color: #ad5f00;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -8505,8 +8505,8 @@ exports[`Button demo examples states 1`] = `
 .glamor-197[data-simulate-focus],
 [data-glamor-197][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #cf4615;
-  color: #cf4615;
+  box-shadow: 0 0 0 1px #8a4d03;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -8515,7 +8515,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-197[data-simulate-hover],
 [data-glamor-197][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #cf4615;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -8524,7 +8524,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-197[data-simulate-active],
 [data-glamor-197][data-simulate-active] {
   background-color: #ebeff5;
-  color: #cf4615;
+  color: #ad5f00;
 }
 
 .glamor-197::-moz-focus-inner,
@@ -8559,7 +8559,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-71,
 [data-glamor-71] {
   box-sizing: border-box;
-  color: #db2929;
+  color: #de1b1b;
   font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
   line-height: 1.25;
@@ -8595,8 +8595,8 @@ exports[`Button demo examples states 1`] = `
 .glamor-71[data-simulate-focus],
 [data-glamor-71][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
-  color: #db2929;
+  box-shadow: 0 0 0 1px #b80d0d;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -8605,7 +8605,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-71[data-simulate-hover],
 [data-glamor-71][data-simulate-hover] {
   background-color: #f5f7fa;
-  color: #db2929;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -8614,7 +8614,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-71[data-simulate-active],
 [data-glamor-71][data-simulate-active] {
   background-color: #ebeff5;
-  color: #db2929;
+  color: #de1b1b;
 }
 
 .glamor-71::-moz-focus-inner,
@@ -8685,7 +8685,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-62[data-simulate-focus],
 [data-glamor-62][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #afbacc;
   text-decoration: none;
 }
@@ -8780,7 +8780,7 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-119][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
+  box-shadow: 0 0 0 1px #b80d0d;
   color: #afbacc;
   text-decoration: none;
 }
@@ -8867,9 +8867,9 @@ exports[`Button demo examples states 1`] = `
 [data-glamor-122]:focus,
 .glamor-122[data-simulate-focus],
 [data-glamor-122][data-simulate-focus] {
-  background-color: #db2929;
+  background-color: #de1b1b;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
+  box-shadow: 0 0 0 1px #b80d0d;
   color: #afbacc;
   text-decoration: none;
 }
@@ -8957,7 +8957,7 @@ exports[`Button demo examples states 1`] = `
 .glamor-125[data-simulate-focus],
 [data-glamor-125][data-simulate-focus] {
   border-color: #fff;
-  box-shadow: 0 0 0 1px #c71818;
+  box-shadow: 0 0 0 1px #b80d0d;
   color: #afbacc;
   text-decoration: none;
 }
@@ -12520,7 +12520,7 @@ exports[`Button demo examples truncation 1`] = `
 [data-glamor-2][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -12552,7 +12552,7 @@ exports[`Button demo examples truncation 1`] = `
 .glamor-2 [role="img"],
 [data-glamor-2] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 

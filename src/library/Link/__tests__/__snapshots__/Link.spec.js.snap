@@ -13,7 +13,7 @@ exports[`Link demo examples basic 1`] = `
 
 .glamor-0,
 [data-glamor-0] {
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -21,7 +21,7 @@ exports[`Link demo examples basic 1`] = `
 [data-glamor-0]:hover,
 .glamor-0[data-simulate-hover],
 [data-glamor-0][data-simulate-hover] {
-  color: #4a89e8;
+  color: #5691f0;
   text-decoration: underline;
 }
 
@@ -29,8 +29,8 @@ exports[`Link demo examples basic 1`] = `
 [data-glamor-0]:focus,
 .glamor-0[data-simulate-focus],
 [data-glamor-0][data-simulate-focus] {
-  color: #2e6fd9;
-  outline: 1px solid #2e6fd9;
+  color: #3272d9;
+  outline: 1px solid #3272d9;
   outline-offset: 2px;
 }
 
@@ -38,7 +38,7 @@ exports[`Link demo examples basic 1`] = `
 [data-glamor-0]:active,
 .glamor-0[data-simulate-active],
 [data-glamor-0][data-simulate-active] {
-  color: #1f5dc2;
+  color: #1d5bbf;
 }
 
 .glamor-3,
@@ -251,7 +251,7 @@ exports[`Link demo examples button 1`] = `
 [data-glamor-2][data-simulate-focus] {
   background-color: #ebeff5;
   border-color: #fff;
-  box-shadow: 0 0 0 1px #2e6fd9;
+  box-shadow: 0 0 0 1px #3272d9;
   color: #333840;
   text-decoration: none;
 }
@@ -283,7 +283,7 @@ exports[`Link demo examples button 1`] = `
 .glamor-2 [role="img"],
 [data-glamor-2] [role="img"] {
   box-sizing: content-box;
-  fill: #2e6fd9;
+  fill: #3272d9;
   display: block;
 }
 
@@ -408,7 +408,7 @@ exports[`Link demo examples button 1`] = `
 exports[`Link demo examples children 1`] = `
 .glamor-0,
 [data-glamor-0] {
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -416,7 +416,7 @@ exports[`Link demo examples children 1`] = `
 [data-glamor-0]:hover,
 .glamor-0[data-simulate-hover],
 [data-glamor-0][data-simulate-hover] {
-  color: #4a89e8;
+  color: #5691f0;
   text-decoration: underline;
 }
 
@@ -424,8 +424,8 @@ exports[`Link demo examples children 1`] = `
 [data-glamor-0]:focus,
 .glamor-0[data-simulate-focus],
 [data-glamor-0][data-simulate-focus] {
-  color: #2e6fd9;
-  outline: 1px solid #2e6fd9;
+  color: #3272d9;
+  outline: 1px solid #3272d9;
   outline-offset: 2px;
 }
 
@@ -433,7 +433,7 @@ exports[`Link demo examples children 1`] = `
 [data-glamor-0]:active,
 .glamor-0[data-simulate-active],
 [data-glamor-0][data-simulate-active] {
-  color: #1f5dc2;
+  color: #1d5bbf;
 }
 
 <ThemeProvider>
@@ -492,7 +492,7 @@ exports[`Link demo examples other 1`] = `
 
 .glamor-0,
 [data-glamor-0] {
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -500,7 +500,7 @@ exports[`Link demo examples other 1`] = `
 [data-glamor-0]:hover,
 .glamor-0[data-simulate-hover],
 [data-glamor-0][data-simulate-hover] {
-  color: #4a89e8;
+  color: #5691f0;
   text-decoration: underline;
 }
 
@@ -508,8 +508,8 @@ exports[`Link demo examples other 1`] = `
 [data-glamor-0]:focus,
 .glamor-0[data-simulate-focus],
 [data-glamor-0][data-simulate-focus] {
-  color: #2e6fd9;
-  outline: 1px solid #2e6fd9;
+  color: #3272d9;
+  outline: 1px solid #3272d9;
   outline-offset: 2px;
 }
 
@@ -517,7 +517,7 @@ exports[`Link demo examples other 1`] = `
 [data-glamor-0]:active,
 .glamor-0[data-simulate-active],
 [data-glamor-0][data-simulate-active] {
-  color: #1f5dc2;
+  color: #1d5bbf;
 }
 
 <ThemeProvider>
@@ -603,7 +603,7 @@ exports[`Link demo examples other 1`] = `
 exports[`Link demo examples states 1`] = `
 .glamor-0,
 [data-glamor-0] {
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -611,7 +611,7 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-0]:hover,
 .glamor-0[data-simulate-hover],
 [data-glamor-0][data-simulate-hover] {
-  color: #4a89e8;
+  color: #5691f0;
   text-decoration: underline;
 }
 
@@ -619,8 +619,8 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-0]:focus,
 .glamor-0[data-simulate-focus],
 [data-glamor-0][data-simulate-focus] {
-  color: #2e6fd9;
-  outline: 1px solid #2e6fd9;
+  color: #3272d9;
+  outline: 1px solid #3272d9;
   outline-offset: 2px;
 }
 
@@ -628,7 +628,7 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-0]:active,
 .glamor-0[data-simulate-active],
 [data-glamor-0][data-simulate-active] {
-  color: #1f5dc2;
+  color: #1d5bbf;
 }
 
 .glamor-24,
@@ -643,7 +643,7 @@ exports[`Link demo examples states 1`] = `
 
 .glamor-6,
 [data-glamor-6] {
-  color: #db2929;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -651,7 +651,7 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-6]:hover,
 .glamor-6[data-simulate-hover],
 [data-glamor-6][data-simulate-hover] {
-  color: #eb4d4d;
+  color: #f55353;
   text-decoration: underline;
 }
 
@@ -659,8 +659,8 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-6]:focus,
 .glamor-6[data-simulate-focus],
 [data-glamor-6][data-simulate-focus] {
-  color: #db2929;
-  outline: 1px solid #c71818;
+  color: #de1b1b;
+  outline: 1px solid #b80d0d;
   outline-offset: 2px;
 }
 
@@ -668,12 +668,12 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-6]:active,
 .glamor-6[data-simulate-active],
 [data-glamor-6][data-simulate-active] {
-  color: #c71818;
+  color: #b80d0d;
 }
 
 .glamor-12,
 [data-glamor-12] {
-  color: #06783f;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -681,7 +681,7 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-12]:hover,
 .glamor-12[data-simulate-hover],
 [data-glamor-12][data-simulate-hover] {
-  color: #0a8f4c;
+  color: #0aa648;
   text-decoration: underline;
 }
 
@@ -689,8 +689,8 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-12]:focus,
 .glamor-12[data-simulate-focus],
 [data-glamor-12][data-simulate-focus] {
-  color: #06783f;
-  outline: 1px solid #0a8f4c;
+  color: #038537;
+  outline: 1px solid #056b2e;
   outline-offset: 2px;
 }
 
@@ -698,12 +698,12 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-12]:active,
 .glamor-12[data-simulate-active],
 [data-glamor-12][data-simulate-active] {
-  color: #046132;
+  color: #056b2e;
 }
 
 .glamor-18,
 [data-glamor-18] {
-  color: #cf4615;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -711,7 +711,7 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-18]:hover,
 .glamor-18[data-simulate-hover],
 [data-glamor-18][data-simulate-hover] {
-  color: #e05b2b;
+  color: #cf7911;
   text-decoration: underline;
 }
 
@@ -719,8 +719,8 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-18]:focus,
 .glamor-18[data-simulate-focus],
 [data-glamor-18][data-simulate-focus] {
-  color: #cf4615;
-  outline: 1px solid #cf4615;
+  color: #ad5f00;
+  outline: 1px solid #8a4d03;
   outline-offset: 2px;
 }
 
@@ -728,7 +728,7 @@ exports[`Link demo examples states 1`] = `
 [data-glamor-18]:active,
 .glamor-18[data-simulate-active],
 [data-glamor-18][data-simulate-active] {
-  color: #bd3909;
+  color: #8a4d03;
 }
 
 <ThemeProvider>
@@ -1447,7 +1447,7 @@ exports[`Link demo examples states 1`] = `
 exports[`Link demo examples variants 1`] = `
 .glamor-0,
 [data-glamor-0] {
-  color: #2e6fd9;
+  color: #3272d9;
   text-decoration: none;
 }
 
@@ -1455,7 +1455,7 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-0]:hover,
 .glamor-0[data-simulate-hover],
 [data-glamor-0][data-simulate-hover] {
-  color: #4a89e8;
+  color: #5691f0;
   text-decoration: underline;
 }
 
@@ -1463,8 +1463,8 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-0]:focus,
 .glamor-0[data-simulate-focus],
 [data-glamor-0][data-simulate-focus] {
-  color: #2e6fd9;
-  outline: 1px solid #2e6fd9;
+  color: #3272d9;
+  outline: 1px solid #3272d9;
   outline-offset: 2px;
 }
 
@@ -1472,7 +1472,7 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-0]:active,
 .glamor-0[data-simulate-active],
 [data-glamor-0][data-simulate-active] {
-  color: #1f5dc2;
+  color: #1d5bbf;
 }
 
 .glamor-4,
@@ -1487,7 +1487,7 @@ exports[`Link demo examples variants 1`] = `
 
 .glamor-1,
 [data-glamor-1] {
-  color: #db2929;
+  color: #de1b1b;
   text-decoration: none;
 }
 
@@ -1495,7 +1495,7 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-1]:hover,
 .glamor-1[data-simulate-hover],
 [data-glamor-1][data-simulate-hover] {
-  color: #eb4d4d;
+  color: #f55353;
   text-decoration: underline;
 }
 
@@ -1503,8 +1503,8 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-1]:focus,
 .glamor-1[data-simulate-focus],
 [data-glamor-1][data-simulate-focus] {
-  color: #db2929;
-  outline: 1px solid #c71818;
+  color: #de1b1b;
+  outline: 1px solid #b80d0d;
   outline-offset: 2px;
 }
 
@@ -1512,12 +1512,12 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-1]:active,
 .glamor-1[data-simulate-active],
 [data-glamor-1][data-simulate-active] {
-  color: #c71818;
+  color: #b80d0d;
 }
 
 .glamor-2,
 [data-glamor-2] {
-  color: #06783f;
+  color: #038537;
   text-decoration: none;
 }
 
@@ -1525,7 +1525,7 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-2]:hover,
 .glamor-2[data-simulate-hover],
 [data-glamor-2][data-simulate-hover] {
-  color: #0a8f4c;
+  color: #0aa648;
   text-decoration: underline;
 }
 
@@ -1533,8 +1533,8 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-2]:focus,
 .glamor-2[data-simulate-focus],
 [data-glamor-2][data-simulate-focus] {
-  color: #06783f;
-  outline: 1px solid #0a8f4c;
+  color: #038537;
+  outline: 1px solid #056b2e;
   outline-offset: 2px;
 }
 
@@ -1542,12 +1542,12 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-2]:active,
 .glamor-2[data-simulate-active],
 [data-glamor-2][data-simulate-active] {
-  color: #046132;
+  color: #056b2e;
 }
 
 .glamor-3,
 [data-glamor-3] {
-  color: #cf4615;
+  color: #ad5f00;
   text-decoration: none;
 }
 
@@ -1555,7 +1555,7 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-3]:hover,
 .glamor-3[data-simulate-hover],
 [data-glamor-3][data-simulate-hover] {
-  color: #e05b2b;
+  color: #cf7911;
   text-decoration: underline;
 }
 
@@ -1563,8 +1563,8 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-3]:focus,
 .glamor-3[data-simulate-focus],
 [data-glamor-3][data-simulate-focus] {
-  color: #cf4615;
-  outline: 1px solid #cf4615;
+  color: #ad5f00;
+  outline: 1px solid #8a4d03;
   outline-offset: 2px;
 }
 
@@ -1572,7 +1572,7 @@ exports[`Link demo examples variants 1`] = `
 [data-glamor-3]:active,
 .glamor-3[data-simulate-active],
 [data-glamor-3][data-simulate-active] {
-  color: #bd3909;
+  color: #8a4d03;
 }
 
 <ThemeProvider>
