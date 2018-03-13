@@ -6,19 +6,17 @@ import pxToEm from '../styles/pxToEm';
 
 type Colors =
   | 'blue'
+  | 'bronze'
   | 'dusk'
   | 'gray'
   | 'green'
   | 'indigo'
-  | 'lime'
   | 'magenta'
-  | 'orange'
   | 'purple'
   | 'red'
   | 'sky'
   | 'slate'
-  | 'teal'
-  | 'yellow';
+  | 'teal';
 
 const spacing_quarter = pxToEm(2);
 const spacing_half = pxToEm(4);
@@ -57,18 +55,18 @@ export default function createTheme(
     backgroundColor_danger_activeMuted: color.red_30,
     backgroundColor_danger_focus: color.red_60,
     backgroundColor_danger_hover: color.red_50,
-    backgroundColor_success: color.green_80,
+    backgroundColor_success: color.green_60,
     backgroundColor_success_muted: color.green_20,
-    backgroundColor_success_active: color.green_90,
+    backgroundColor_success_active: color.green_70,
     backgroundColor_success_activeMuted: color.green_30,
-    backgroundColor_success_focus: color.green_80,
-    backgroundColor_success_hover: color.green_70,
-    backgroundColor_warning: color.orange_60,
-    backgroundColor_warning_muted: color.orange_20,
-    backgroundColor_warning_active: color.orange_70,
-    backgroundColor_warning_activeMuted: color.orange_30,
-    backgroundColor_warning_focus: color.orange_60,
-    backgroundColor_warning_hover: color.orange_50,
+    backgroundColor_success_focus: color.green_60,
+    backgroundColor_success_hover: color.green_50,
+    backgroundColor_warning: color.bronze_60,
+    backgroundColor_warning_muted: color.bronze_20,
+    backgroundColor_warning_active: color.bronze_70,
+    backgroundColor_warning_activeMuted: color.bronze_30,
+    backgroundColor_warning_focus: color.bronze_60,
+    backgroundColor_warning_hover: color.bronze_50,
 
     backgroundColor_input: color.white,
 
@@ -83,16 +81,16 @@ export default function createTheme(
     borderColor_danger_focus: color.red_70,
     borderColor_danger_hover: color.red_70,
     borderColor_danger_muted: color.red_40,
-    borderColor_success: color.green_70,
-    borderColor_success_active: color.green_80,
-    borderColor_success_focus: color.green_80,
-    borderColor_success_hover: color.green_80,
+    borderColor_success: color.green_60,
+    borderColor_success_active: color.green_70,
+    borderColor_success_focus: color.green_70,
+    borderColor_success_hover: color.green_70,
     borderColor_success_muted: color.green_40,
-    borderColor_warning: color.orange_60,
-    borderColor_warning_active: color.orange_70,
-    borderColor_warning_focus: color.orange_70,
-    borderColor_warning_hover: color.orange_70,
-    borderColor_warning_muted: color.orange_40,
+    borderColor_warning: color.bronze_60,
+    borderColor_warning_active: color.bronze_70,
+    borderColor_warning_focus: color.bronze_70,
+    borderColor_warning_hover: color.bronze_70,
+    borderColor_warning_muted: color.bronze_40,
 
     borderRadius_1: pxToEm(3),
 
@@ -116,22 +114,19 @@ export default function createTheme(
     color_text_danger_active: color.red_70,
     color_text_danger_focus: color.red_60,
     color_text_danger_hover: color.red_50,
-    color_text_ondanger: color.white,
     color_text_primary: primaries.color_theme_60,
     color_text_primary_active: primaries.color_theme_70,
     color_text_primary_focus: primaries.color_theme_60,
     color_text_primary_hover: primaries.color_theme_50,
     color_text_onprimary: color.white,
-    color_text_success: color.green_90,
-    color_text_success_active: color.green_100,
-    color_text_success_focus: color.green_90,
-    color_text_success_hover: color.green_80,
-    color_text_onsuccess: color.white,
-    color_text_warning: color.orange_70,
-    color_text_warning_active: color.orange_80,
-    color_text_warning_focus: color.orange_70,
-    color_text_warning_hover: color.orange_60,
-    color_text_onwarning: color.white,
+    color_text_success: color.green_60,
+    color_text_success_active: color.green_70,
+    color_text_success_focus: color.green_60,
+    color_text_success_hover: color.green_50,
+    color_text_warning: color.bronze_60,
+    color_text_warning_active: color.bronze_70,
+    color_text_warning_focus: color.bronze_60,
+    color_text_warning_hover: color.bronze_50,
 
     color_white: color.white,
 
