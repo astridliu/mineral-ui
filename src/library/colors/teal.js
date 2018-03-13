@@ -1,15 +1,13 @@
 /* @flow */
 export default {
-  teal_10: '#e6faf7',
-  teal_20: '#bcf7ee',
-  teal_30: '#8df0de',
-  teal_40: '#5ee6cd',
-  teal_50: '#34d1b7',
-  teal_60: '#20baa3',
-  teal_70: '#15a18e',
-  teal_80: '#0f8c7c',
-  teal_90: '#0c7567',
-  teal_100: '#0a6358',
-
-  a11y_text_light: [90, 100]
+  teal_10: '#d7faf8',
+  teal_20: '#83f2eb',
+  teal_30: '#43ded3',
+  teal_40: '#21c2b7',
+  teal_50: '#0ea197',
+  teal_60: '#08827a',
+  teal_70: '#086962',
+  teal_80: '#09524d',
+  teal_90: '#0a3d3a',
+  teal_100: '#0a2b29'
 };
