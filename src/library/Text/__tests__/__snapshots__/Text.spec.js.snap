@@ -1,0 +1,1666 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text demo examples alignment 1`] = `
+.glamor-0,
+[data-glamor-0] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: right;
+}
+
+.glamor-0 *,
+[data-glamor-0] *,
+.glamor-0 *::before,
+[data-glamor-0] *::before,
+.glamor-0 *::after,
+[data-glamor-0] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-0::selection,
+[data-glamor-0]::selection,
+.glamor-0[data-simulate-selection],
+[data-glamor-0][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: center;
+}
+
+.glamor-1 *,
+[data-glamor-1] *,
+.glamor-1 *::before,
+[data-glamor-1] *::before,
+.glamor-1 *::after,
+[data-glamor-1] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-1::selection,
+[data-glamor-1]::selection,
+.glamor-1[data-simulate-selection],
+[data-glamor-1][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: justify;
+}
+
+.glamor-2 *,
+[data-glamor-2] *,
+.glamor-2 *::before,
+[data-glamor-2] *::before,
+.glamor-2 *::after,
+[data-glamor-2] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-2::selection,
+[data-glamor-2]::selection,
+.glamor-2[data-simulate-selection],
+[data-glamor-2][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+<ThemeProvider>
+  <ThemeProvider>
+    <LiveProvider>
+      <div
+        className="react-live"
+        scope={
+          Object {
+            "Text": [Function],
+            "ThemeProvider": [Function],
+          }
+        }
+      >
+        <LivePreview>
+          <div
+            className="react-live-preview"
+          >
+            <div>
+              <Text
+                align="end"
+                element="p"
+              >
+                <glamorous(p)
+                  align="end"
+                  element="p"
+                >
+                  <p
+                    className="glamor-0"
+                  >
+                    Align End
+                  </p>
+                </glamorous(p)>
+              </Text>
+              <Text
+                align="center"
+                element="p"
+              >
+                <glamorous(p)
+                  align="center"
+                  element="p"
+                >
+                  <p
+                    className="glamor-1"
+                  >
+                    Align Center
+                  </p>
+                </glamorous(p)>
+              </Text>
+              <Text
+                align="justify"
+                element="p"
+              >
+                <glamorous(p)
+                  align="justify"
+                  element="p"
+                >
+                  <p
+                    className="glamor-2"
+                  >
+                    Align Justify: justified text should stretch the width of the container for each separate line. This example contains words of many lengths to display that lines are justified correctly. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis luctus nunc, in posuere odio viverra et. Quisque aliquam tincidunt ante ac mollis. Vestibulum et massa eget velit ultricies feugiat non non augue. Nulla nisl augue, ullamcorper ac dui.
+                  </p>
+                </glamorous(p)>
+              </Text>
+            </div>
+          </div>
+        </LivePreview>
+      </div>
+    </LiveProvider>
+  </ThemeProvider>
+</ThemeProvider>
+`;
+
+exports[`Text demo examples appearance 1`] = `
+.glamor-0,
+[data-glamor-0] {
+  box-sizing: border-box;
+  color: #58606e;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1.375em;
+  line-height: 1.25;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-0 *,
+[data-glamor-0] *,
+.glamor-0 *::before,
+[data-glamor-0] *::before,
+.glamor-0 *::after,
+[data-glamor-0] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-0::selection,
+[data-glamor-0]::selection,
+.glamor-0[data-simulate-selection],
+[data-glamor-0][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-1 *,
+[data-glamor-1] *,
+.glamor-1 *::before,
+[data-glamor-1] *::before,
+.glamor-1 *::after,
+[data-glamor-1] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-1::selection,
+[data-glamor-1]::selection,
+.glamor-1[data-simulate-selection],
+[data-glamor-1][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.6875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-2 *,
+[data-glamor-2] *,
+.glamor-2 *::before,
+[data-glamor-2] *::before,
+.glamor-2 *::after,
+[data-glamor-2] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-2::selection,
+[data-glamor-2]::selection,
+.glamor-2[data-simulate-selection],
+[data-glamor-2][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+<ThemeProvider>
+  <ThemeProvider>
+    <LiveProvider>
+      <div
+        className="react-live"
+        scope={
+          Object {
+            "Text": [Function],
+          }
+        }
+      >
+        <LivePreview>
+          <div
+            className="react-live-preview"
+          >
+            <div>
+              <Text
+                align="start"
+                appearance="h3"
+                element="h1"
+              >
+                <glamorous(h1)
+                  align="start"
+                  appearance="h3"
+                  element="h1"
+                >
+                  <h1
+                    className="glamor-0"
+                  >
+                    Heading 1 which looks like a Heading 3
+                  </h1>
+                </glamorous(h1)>
+              </Text>
+              <Text
+                align="start"
+                appearance="prose"
+                element="p"
+              >
+                <glamorous(p)
+                  align="start"
+                  appearance="prose"
+                  element="p"
+                >
+                  <p
+                    className="glamor-1"
+                  >
+                    Prose (Long Form) Paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie eros at nisl rhoncus, et condimentum dui elementum. Praesent gravida metus at scelerisque ultrices.
+                  </p>
+                </glamorous(p)>
+              </Text>
+              <Text
+                align="start"
+                appearance="mouse"
+                element="p"
+              >
+                <glamorous(p)
+                  align="start"
+                  appearance="mouse"
+                  element="p"
+                >
+                  <p
+                    className="glamor-2"
+                  >
+                    Mousetype Paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie eros at nisl rhoncus, et condimentum dui elementum. Praesent gravida metus at scelerisque ultrices. Suspendisse at facilisis massa. Integer eleifend eleifend nibh posuere interdum.
+                  </p>
+                </glamorous(p)>
+              </Text>
+            </div>
+          </div>
+        </LivePreview>
+      </div>
+    </LiveProvider>
+  </ThemeProvider>
+</ThemeProvider>
+`;
+
+exports[`Text demo examples basic 1`] = `
+.glamor-1,
+[data-glamor-1] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-1 *,
+[data-glamor-1] *,
+.glamor-1 *::before,
+[data-glamor-1] *::before,
+.glamor-1 *::after,
+[data-glamor-1] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-1::selection,
+[data-glamor-1]::selection,
+.glamor-1[data-simulate-selection],
+[data-glamor-1][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-0,
+[data-glamor-0] {
+  fill: #8e99ab;
+  font-size: 16px;
+  height: 1.25em;
+  width: 1.25em;
+}
+
+<ThemeProvider>
+  <ThemeProvider>
+    <LiveProvider>
+      <div
+        className="react-live"
+        scope={
+          Object {
+            "IconCloud": [Function],
+            "Text": [Function],
+          }
+        }
+      >
+        <LivePreview>
+          <div
+            className="react-live-preview"
+          >
+            <Text
+              align="start"
+              element="p"
+            >
+              <glamorous(p)
+                align="start"
+                element="p"
+              >
+                <p
+                  className="glamor-1"
+                >
+                  Lorem ipsum 
+                  <IconCloud
+                    size="large"
+                  >
+                    <Icon
+                      rtl={false}
+                      size="large"
+                    >
+                      <glamorous(svg)
+                        aria-hidden={true}
+                        aria-labelledby={undefined}
+                        role="img"
+                        rtl={false}
+                        size="large"
+                        viewBox="0 0 24 24"
+                      >
+                        <svg
+                          aria-hidden={true}
+                          aria-labelledby={undefined}
+                          className="glamor-0"
+                          role="img"
+                          viewBox="0 0 24 24"
+                        >
+                          <g>
+                            <path
+                              d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"
+                            />
+                          </g>
+                        </svg>
+                      </glamorous(svg)>
+                    </Icon>
+                  </IconCloud>
+                   dolor sit amet, consectetur adipiscing elit. Sed non purus id dolor maximus eleifend nec in nunc. Integer quis lacinia leo, in suscipit orci. Donec enim augue, vehicula vel enim a, vestibulum tempus nunc.
+                </p>
+              </glamorous(p)>
+            </Text>
+          </div>
+        </LivePreview>
+      </div>
+    </LiveProvider>
+  </ThemeProvider>
+</ThemeProvider>
+`;
+
+exports[`Text demo examples color 1`] = `
+.glamor-0,
+[data-glamor-0] {
+  box-sizing: border-box;
+  color: #06783f;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-0 *,
+[data-glamor-0] *,
+.glamor-0 *::before,
+[data-glamor-0] *::before,
+.glamor-0 *::after,
+[data-glamor-0] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-0::selection,
+[data-glamor-0]::selection,
+.glamor-0[data-simulate-selection],
+[data-glamor-0][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  box-sizing: border-box;
+  color: #d92762;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-1 *,
+[data-glamor-1] *,
+.glamor-1 *::before,
+[data-glamor-1] *::before,
+.glamor-1 *::after,
+[data-glamor-1] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-1::selection,
+[data-glamor-1]::selection,
+.glamor-1[data-simulate-selection],
+[data-glamor-1][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-3,
+[data-glamor-3] {
+  background-color: #421429;
+  padding: 0.5em;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  box-sizing: border-box;
+  color: #bfe7d4;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-2 *,
+[data-glamor-2] *,
+.glamor-2 *::before,
+[data-glamor-2] *::before,
+.glamor-2 *::after,
+[data-glamor-2] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-2::selection,
+[data-glamor-2]::selection,
+.glamor-2[data-simulate-selection],
+[data-glamor-2][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+<ThemeProvider>
+  <ThemeProvider>
+    <LiveProvider>
+      <div
+        className="react-live"
+        scope={
+          Object {
+            "DemoPanel": [Function],
+            "Text": [Function],
+            "palette": Object {
+              "a11y_text_light": Array [
+                100,
+              ],
+              "black": "#1d1f24",
+              "blue_10": "#e6eefc",
+              "blue_100": "#0f397d",
+              "blue_20": "#c2dbfc",
+              "blue_30": "#9dc2fa",
+              "blue_40": "#72a5f2",
+              "blue_50": "#4a89e8",
+              "blue_60": "#2e6fd9",
+              "blue_70": "#1f5dc2",
+              "blue_80": "#164ea8",
+              "blue_90": "#114091",
+              "dusk_10": "#eff1f8",
+              "dusk_100": "#24293b",
+              "dusk_20": "#d8dced",
+              "dusk_30": "#bdc4de",
+              "dusk_40": "#99a3c4",
+              "dusk_50": "#7680a6",
+              "dusk_60": "#596387",
+              "dusk_70": "#454e6e",
+              "dusk_80": "#373f59",
+              "dusk_90": "#2c3247",
+              "gray_10": "#f5f7fa",
+              "gray_100": "#333840",
+              "gray_20": "#ebeff5",
+              "gray_30": "#dde3ed",
+              "gray_40": "#c8d1e0",
+              "gray_50": "#afbacc",
+              "gray_60": "#8e99ab",
+              "gray_70": "#707a8a",
+              "gray_80": "#58606e",
+              "gray_90": "#434a54",
+              "green_10": "#e8fcf2",
+              "green_100": "#046132",
+              "green_20": "#c0fadc",
+              "green_30": "#95f5c3",
+              "green_40": "#67eba7",
+              "green_50": "#40db8d",
+              "green_60": "#1fc06f",
+              "green_70": "#10a35a",
+              "green_80": "#0a8f4c",
+              "green_90": "#06783f",
+              "indigo_10": "#e3e3fa",
+              "indigo_100": "#201d8f",
+              "indigo_20": "#cacafa",
+              "indigo_30": "#adadf7",
+              "indigo_40": "#8d8df2",
+              "indigo_50": "#6c6ceb",
+              "indigo_60": "#4c4ce0",
+              "indigo_70": "#3737d3",
+              "indigo_80": "#2c2abd",
+              "indigo_90": "#2621a6",
+              "lime_10": "#f1fae6",
+              "lime_100": "#3d7307",
+              "lime_20": "#e7facf",
+              "lime_30": "#d2f7a8",
+              "lime_40": "#b5f07a",
+              "lime_50": "#9be650",
+              "lime_60": "#81d42f",
+              "lime_70": "#6cbf19",
+              "lime_80": "#5aa60d",
+              "lime_90": "#4a8c08",
+              "magenta_10": "#f7dae3",
+              "magenta_100": "#8d0633",
+              "magenta_20": "#f7bacd",
+              "magenta_30": "#f590b0",
+              "magenta_40": "#f06591",
+              "magenta_50": "#e63e73",
+              "magenta_60": "#d92762",
+              "magenta_70": "#c91451",
+              "magenta_80": "#b30b43",
+              "magenta_90": "#a1083b",
+              "orange_10": "#fce8e1",
+              "orange_100": "#942c06",
+              "orange_20": "#fcd0c0",
+              "orange_30": "#fab69d",
+              "orange_40": "#f59776",
+              "orange_50": "#ed774c",
+              "orange_60": "#e05b2b",
+              "orange_70": "#cf4615",
+              "orange_80": "#bd3909",
+              "orange_90": "#a83207",
+              "purple_10": "#eedefa",
+              "purple_100": "#511f7a",
+              "purple_20": "#e1c5fa",
+              "purple_30": "#d5a7fa",
+              "purple_40": "#c588f7",
+              "purple_50": "#af64ed",
+              "purple_60": "#9545d8",
+              "purple_70": "#8136bf",
+              "purple_80": "#6d2aa3",
+              "purple_90": "#5f248f",
+              "red_10": "#fce3e3",
+              "red_100": "#7d0606",
+              "red_20": "#fabebe",
+              "red_30": "#f79999",
+              "red_40": "#f27474",
+              "red_50": "#eb4d4d",
+              "red_60": "#db2929",
+              "red_70": "#c71818",
+              "red_80": "#ad0e0e",
+              "red_90": "#940909",
+              "sky_10": "#e1f3fc",
+              "sky_100": "#084d75",
+              "sky_20": "#c0e5fc",
+              "sky_30": "#9fd9fc",
+              "sky_40": "#79c7f7",
+              "sky_50": "#51b3f0",
+              "sky_60": "#2f9fe0",
+              "sky_70": "#1b8bcc",
+              "sky_80": "#0f75b0",
+              "sky_90": "#0a6091",
+              "slate_10": "#ebf3f7",
+              "slate_100": "#253740",
+              "slate_20": "#d3e4ed",
+              "slate_30": "#b1cfde",
+              "slate_40": "#8fb6c9",
+              "slate_50": "#709cb3",
+              "slate_60": "#598296",
+              "slate_70": "#47697a",
+              "slate_80": "#3a5663",
+              "slate_90": "#2e444f",
+              "teal_10": "#e6faf7",
+              "teal_100": "#0a6358",
+              "teal_20": "#bcf7ee",
+              "teal_30": "#8df0de",
+              "teal_40": "#5ee6cd",
+              "teal_50": "#34d1b7",
+              "teal_60": "#20baa3",
+              "teal_70": "#15a18e",
+              "teal_80": "#0f8c7c",
+              "teal_90": "#0c7567",
+              "white": "#fff",
+              "yellow_10": "#fcf1dc",
+              "yellow_100": "#916504",
+              "yellow_20": "#fce4b6",
+              "yellow_30": "#fad48e",
+              "yellow_40": "#f7c868",
+              "yellow_50": "#f0b241",
+              "yellow_60": "#e3a322",
+              "yellow_70": "#d19411",
+              "yellow_80": "#bd8308",
+              "yellow_90": "#a67305",
+            },
+            "theme": Object {
+              "backgroundColor_danger": "#db2929",
+              "backgroundColor_danger_active": "#c71818",
+              "backgroundColor_danger_activeMuted": "#f79999",
+              "backgroundColor_danger_focus": "#db2929",
+              "backgroundColor_danger_hover": "#eb4d4d",
+              "backgroundColor_danger_muted": "#fabebe",
+              "backgroundColor_disabled": "#ebeff5",
+              "backgroundColor_input": "#fff",
+              "backgroundColor_link_focus": "#dde3ed",
+              "backgroundColor_success": "#0a8f4c",
+              "backgroundColor_success_active": "#06783f",
+              "backgroundColor_success_activeMuted": "#95f5c3",
+              "backgroundColor_success_focus": "#0a8f4c",
+              "backgroundColor_success_hover": "#10a35a",
+              "backgroundColor_success_muted": "#c0fadc",
+              "backgroundColor_warning": "#e05b2b",
+              "backgroundColor_warning_active": "#cf4615",
+              "backgroundColor_warning_activeMuted": "#fab69d",
+              "backgroundColor_warning_focus": "#e05b2b",
+              "backgroundColor_warning_hover": "#ed774c",
+              "backgroundColor_warning_muted": "#fcd0c0",
+              "borderColor": "#c8d1e0",
+              "borderColor_active": "#2e6fd9",
+              "borderColor_danger": "#db2929",
+              "borderColor_danger_active": "#c71818",
+              "borderColor_danger_focus": "#c71818",
+              "borderColor_danger_hover": "#c71818",
+              "borderColor_danger_muted": "#f27474",
+              "borderColor_focus": "#2e6fd9",
+              "borderColor_hover": "#2e6fd9",
+              "borderColor_success": "#10a35a",
+              "borderColor_success_active": "#0a8f4c",
+              "borderColor_success_focus": "#0a8f4c",
+              "borderColor_success_hover": "#0a8f4c",
+              "borderColor_success_muted": "#67eba7",
+              "borderColor_warning": "#e05b2b",
+              "borderColor_warning_active": "#cf4615",
+              "borderColor_warning_focus": "#cf4615",
+              "borderColor_warning_hover": "#cf4615",
+              "borderColor_warning_muted": "#f59776",
+              "borderRadius_1": "0.1875em",
+              "breakpoint_medium": 768,
+              "breakpoint_narrow": 512,
+              "breakpoint_wide": 1024,
+              "color_black": "#1d1f24",
+              "color_caption": "#58606e",
+              "color_gray_10": "#f5f7fa",
+              "color_gray_100": "#333840",
+              "color_gray_20": "#ebeff5",
+              "color_gray_30": "#dde3ed",
+              "color_gray_40": "#c8d1e0",
+              "color_gray_50": "#afbacc",
+              "color_gray_60": "#8e99ab",
+              "color_gray_70": "#707a8a",
+              "color_gray_80": "#58606e",
+              "color_gray_90": "#434a54",
+              "color_placeholder": "#8e99ab",
+              "color_text": "#333840",
+              "color_text_danger": "#db2929",
+              "color_text_danger_active": "#c71818",
+              "color_text_danger_focus": "#db2929",
+              "color_text_danger_hover": "#eb4d4d",
+              "color_text_disabled": "#afbacc",
+              "color_text_ondanger": "#fff",
+              "color_text_onprimary": "#fff",
+              "color_text_onsuccess": "#fff",
+              "color_text_onwarning": "#fff",
+              "color_text_primary": "#2e6fd9",
+              "color_text_primary_active": "#1f5dc2",
+              "color_text_primary_focus": "#2e6fd9",
+              "color_text_primary_hover": "#4a89e8",
+              "color_text_success": "#06783f",
+              "color_text_success_active": "#046132",
+              "color_text_success_focus": "#06783f",
+              "color_text_success_hover": "#0a8f4c",
+              "color_text_warning": "#cf4615",
+              "color_text_warning_active": "#bd3909",
+              "color_text_warning_focus": "#cf4615",
+              "color_text_warning_hover": "#e05b2b",
+              "color_theme_10": "#e6eefc",
+              "color_theme_100": "#0f397d",
+              "color_theme_20": "#c2dbfc",
+              "color_theme_30": "#9dc2fa",
+              "color_theme_40": "#72a5f2",
+              "color_theme_50": "#4a89e8",
+              "color_theme_60": "#2e6fd9",
+              "color_theme_70": "#1f5dc2",
+              "color_theme_80": "#164ea8",
+              "color_theme_90": "#114091",
+              "color_white": "#fff",
+              "direction": "ltr",
+              "fontFamily": "Open Sans",
+              "fontFamily_monospace": "\\"SF Mono\\", \\"Droid Sans Mono\\", \\"Source Code Pro\\", Monaco, Consolas, \\"Courier New\\", Courier, monospace",
+              "fontFamily_system": "-apple-system, system-ui, BlinkMacSystemFont, \\"Segoe UI\\", Roboto, Helvetica, Arial, sans-serif, \\"Apple Color Emoji\\", \\"Segoe UI Emoji\\", \\"Segoe UI Symbol\\"",
+              "fontSize_base": 16,
+              "fontSize_h1": "2.125em",
+              "fontSize_h2": "1.75em",
+              "fontSize_h3": "1.375em",
+              "fontSize_h4": "1.125em",
+              "fontSize_h5": "0.875em",
+              "fontSize_h6": "0.875em",
+              "fontSize_mouse": "0.6875em",
+              "fontSize_prose": "1em",
+              "fontSize_ui": "0.875em",
+              "fontWeight_bold": 700,
+              "fontWeight_extraBold": 800,
+              "fontWeight_regular": 400,
+              "fontWeight_semiBold": 600,
+              "lineHeight": 1.25,
+              "lineHeight_prose": 1.5,
+              "shadow_1": "0 1px 2px 0 rgba(0,0,0,0.2), 0 2px 4px 0 rgba(0,0,0,0.2)",
+              "shadow_2": "0 2px 4px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(0,0,0,0.2)",
+              "shadow_3": "0 4px 8px 0 rgba(0,0,0,0.2), 0 8px 16px 0 rgba(0,0,0,0.2)",
+              "shadow_4": "0 8px 16px 0 rgba(0,0,0,0.2), 0 20px 16px -8px rgba(0,0,0,0.2)",
+              "shadow_5": "0 16px 24px 0 rgba(0,0,0,0.2), 0 32px 24px -16px rgba(0,0,0,0.2)",
+              "size_jumbo": "3.25em",
+              "size_large": "2.5em",
+              "size_medium": "2em",
+              "size_small": "1.5em",
+              "space_inline_lg": "1.5em",
+              "space_inline_md": "1em",
+              "space_inline_sm": "0.5em",
+              "space_inline_xl": "2em",
+              "space_inline_xs": "0.25em",
+              "space_inline_xxl": "4em",
+              "space_inline_xxs": "0.125em",
+              "space_inset_lg": "1.5em",
+              "space_inset_md": "1em",
+              "space_inset_sm": "0.5em",
+              "space_stack_lg": "1.5em",
+              "space_stack_md": "1em",
+              "space_stack_sm": "0.5em",
+              "space_stack_xl": "2em",
+              "space_stack_xs": "0.25em",
+              "space_stack_xxl": "4em",
+              "space_stack_xxs": "0.125em",
+              "zIndex_100": 100,
+              "zIndex_1600": 1600,
+              "zIndex_200": 200,
+              "zIndex_400": 400,
+              "zIndex_800": 800,
+            },
+          }
+        }
+      >
+        <LivePreview>
+          <div
+            className="react-live-preview"
+          >
+            <div>
+              <Text
+                align="start"
+                color="#06783f"
+                element="p"
+              >
+                <glamorous(p)
+                  align="start"
+                  color="#06783f"
+                  element="p"
+                >
+                  <p
+                    className="glamor-0"
+                  >
+                    Success Text
+                  </p>
+                </glamorous(p)>
+              </Text>
+              <Text
+                align="start"
+                color="#d92762"
+                element="p"
+              >
+                <glamorous(p)
+                  align="start"
+                  color="#d92762"
+                  element="p"
+                >
+                  <p
+                    className="glamor-1"
+                  >
+                    Magenta Text
+                  </p>
+                </glamorous(p)>
+              </Text>
+              <glamorous(div)
+                backgroundColor="#421429"
+              >
+                <div
+                  className="glamor-3"
+                >
+                  <Text
+                    align="start"
+                    color="#bfe7d4"
+                    element="p"
+                    noMargins={true}
+                  >
+                    <glamorous(p)
+                      align="start"
+                      color="#bfe7d4"
+                      element="p"
+                      noMargins={true}
+                    >
+                      <p
+                        className="glamor-2"
+                      >
+                        Custom Text
+                      </p>
+                    </glamorous(p)>
+                  </Text>
+                </div>
+              </glamorous(div)>
+            </div>
+          </div>
+        </LivePreview>
+      </div>
+    </LiveProvider>
+  </ThemeProvider>
+</ThemeProvider>
+`;
+
+exports[`Text demo examples font-weight 1`] = `
+.glamor-0,
+[data-glamor-0] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 600;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-0 *,
+[data-glamor-0] *,
+.glamor-0 *::before,
+[data-glamor-0] *::before,
+.glamor-0 *::after,
+[data-glamor-0] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-0::selection,
+[data-glamor-0]::selection,
+.glamor-0[data-simulate-selection],
+[data-glamor-0][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-1 *,
+[data-glamor-1] *,
+.glamor-1 *::before,
+[data-glamor-1] *::before,
+.glamor-1 *::after,
+[data-glamor-1] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-1::selection,
+[data-glamor-1]::selection,
+.glamor-1[data-simulate-selection],
+[data-glamor-1][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 800;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-2 *,
+[data-glamor-2] *,
+.glamor-2 *::before,
+[data-glamor-2] *::before,
+.glamor-2 *::after,
+[data-glamor-2] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-2::selection,
+[data-glamor-2]::selection,
+.glamor-2[data-simulate-selection],
+[data-glamor-2][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-3,
+[data-glamor-3] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 300;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-3 *,
+[data-glamor-3] *,
+.glamor-3 *::before,
+[data-glamor-3] *::before,
+.glamor-3 *::after,
+[data-glamor-3] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-3::selection,
+[data-glamor-3]::selection,
+.glamor-3[data-simulate-selection],
+[data-glamor-3][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+<ThemeProvider>
+  <ThemeProvider>
+    <LiveProvider>
+      <div
+        className="react-live"
+        scope={
+          Object {
+            "Text": [Function],
+          }
+        }
+      >
+        <LivePreview>
+          <div
+            className="react-live-preview"
+          >
+            <div>
+              <Text
+                align="start"
+                element="p"
+                fontWeight="semiBold"
+              >
+                <glamorous(p)
+                  align="start"
+                  element="p"
+                  fontWeight="semiBold"
+                >
+                  <p
+                    className="glamor-0"
+                  >
+                    Semi-bold Text
+                  </p>
+                </glamorous(p)>
+              </Text>
+              <Text
+                align="start"
+                element="p"
+                fontWeight="bold"
+              >
+                <glamorous(p)
+                  align="start"
+                  element="p"
+                  fontWeight="bold"
+                >
+                  <p
+                    className="glamor-1"
+                  >
+                    Bold Text
+                  </p>
+                </glamorous(p)>
+              </Text>
+              <Text
+                align="start"
+                element="p"
+                fontWeight="extraBold"
+              >
+                <glamorous(p)
+                  align="start"
+                  element="p"
+                  fontWeight="extraBold"
+                >
+                  <p
+                    className="glamor-2"
+                  >
+                    Extra-bold Text
+                  </p>
+                </glamorous(p)>
+              </Text>
+              <Text
+                align="start"
+                element="p"
+                fontWeight={300}
+              >
+                <glamorous(p)
+                  align="start"
+                  element="p"
+                  fontWeight={300}
+                >
+                  <p
+                    className="glamor-3"
+                  >
+                    Light Text
+                  </p>
+                </glamorous(p)>
+              </Text>
+            </div>
+          </div>
+        </LivePreview>
+      </div>
+    </LiveProvider>
+  </ThemeProvider>
+</ThemeProvider>
+`;
+
+exports[`Text demo examples headings 1`] = `
+.glamor-0,
+[data-glamor-0] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 2.125em;
+  line-height: 1.25;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 800;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-0 *,
+[data-glamor-0] *,
+.glamor-0 *::before,
+[data-glamor-0] *::before,
+.glamor-0 *::after,
+[data-glamor-0] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-0::selection,
+[data-glamor-0]::selection,
+.glamor-0[data-simulate-selection],
+[data-glamor-0][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-1,
+[data-glamor-1] {
+  box-sizing: border-box;
+  color: #58606e;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1.75em;
+  line-height: 1.25;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-1 *,
+[data-glamor-1] *,
+.glamor-1 *::before,
+[data-glamor-1] *::before,
+.glamor-1 *::after,
+[data-glamor-1] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-1::selection,
+[data-glamor-1]::selection,
+.glamor-1[data-simulate-selection],
+[data-glamor-1][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-2,
+[data-glamor-2] {
+  box-sizing: border-box;
+  color: #58606e;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1.375em;
+  line-height: 1.25;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-2 *,
+[data-glamor-2] *,
+.glamor-2 *::before,
+[data-glamor-2] *::before,
+.glamor-2 *::after,
+[data-glamor-2] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-2::selection,
+[data-glamor-2]::selection,
+.glamor-2[data-simulate-selection],
+[data-glamor-2][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-3,
+[data-glamor-3] {
+  box-sizing: border-box;
+  color: #58606e;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1.125em;
+  line-height: 1.25;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-3 *,
+[data-glamor-3] *,
+.glamor-3 *::before,
+[data-glamor-3] *::before,
+.glamor-3 *::after,
+[data-glamor-3] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-3::selection,
+[data-glamor-3]::selection,
+.glamor-3[data-simulate-selection],
+[data-glamor-3][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-4,
+[data-glamor-4] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-4 *,
+[data-glamor-4] *,
+.glamor-4 *::before,
+[data-glamor-4] *::before,
+.glamor-4 *::after,
+[data-glamor-4] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-4::selection,
+[data-glamor-4]::selection,
+.glamor-4[data-simulate-selection],
+[data-glamor-4][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-5,
+[data-glamor-5] {
+  box-sizing: border-box;
+  color: #58606e;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-5 *,
+[data-glamor-5] *,
+.glamor-5 *::before,
+[data-glamor-5] *::before,
+.glamor-5 *::after,
+[data-glamor-5] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-5::selection,
+[data-glamor-5]::selection,
+.glamor-5[data-simulate-selection],
+[data-glamor-5][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+<ThemeProvider>
+  <ThemeProvider>
+    <LiveProvider>
+      <div
+        className="react-live"
+        scope={
+          Object {
+            "Text": [Function],
+          }
+        }
+      >
+        <LivePreview>
+          <div
+            className="react-live-preview"
+          >
+            <div>
+              <Text
+                align="start"
+                element="h1"
+              >
+                <glamorous(h1)
+                  align="start"
+                  element="h1"
+                >
+                  <h1
+                    className="glamor-0"
+                  >
+                    Heading 1
+                  </h1>
+                </glamorous(h1)>
+              </Text>
+              <Text
+                align="start"
+                element="h2"
+              >
+                <glamorous(h2)
+                  align="start"
+                  element="h2"
+                >
+                  <h2
+                    className="glamor-1"
+                  >
+                    Heading 2
+                  </h2>
+                </glamorous(h2)>
+              </Text>
+              <Text
+                align="start"
+                element="h3"
+              >
+                <glamorous(h3)
+                  align="start"
+                  element="h3"
+                >
+                  <h3
+                    className="glamor-2"
+                  >
+                    Heading 3
+                  </h3>
+                </glamorous(h3)>
+              </Text>
+              <Text
+                align="start"
+                element="h4"
+              >
+                <glamorous(h4)
+                  align="start"
+                  element="h4"
+                >
+                  <h4
+                    className="glamor-3"
+                  >
+                    Heading 4
+                  </h4>
+                </glamorous(h4)>
+              </Text>
+              <Text
+                align="start"
+                element="h5"
+              >
+                <glamorous(h5)
+                  align="start"
+                  element="h5"
+                >
+                  <h5
+                    className="glamor-4"
+                  >
+                    Heading 5
+                  </h5>
+                </glamorous(h5)>
+              </Text>
+              <Text
+                align="start"
+                element="h6"
+              >
+                <glamorous(h6)
+                  align="start"
+                  element="h6"
+                >
+                  <h6
+                    className="glamor-5"
+                  >
+                    Heading 6
+                  </h6>
+                </glamorous(h6)>
+              </Text>
+            </div>
+          </div>
+        </LivePreview>
+      </div>
+    </LiveProvider>
+  </ThemeProvider>
+</ThemeProvider>
+`;
+
+exports[`Text demo examples margin 1`] = `
+.glamor-0,
+[data-glamor-0] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 2.125em;
+  line-height: 1.25;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 800;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-0 *,
+[data-glamor-0] *,
+.glamor-0 *::before,
+[data-glamor-0] *::before,
+.glamor-0 *::after,
+[data-glamor-0] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-0::selection,
+[data-glamor-0]::selection,
+.glamor-0[data-simulate-selection],
+[data-glamor-0][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+<ThemeProvider>
+  <ThemeProvider>
+    <LiveProvider>
+      <div
+        className="react-live"
+        scope={
+          Object {
+            "Text": [Function],
+          }
+        }
+      >
+        <LivePreview>
+          <div
+            className="react-live-preview"
+          >
+            <Text
+              align="start"
+              element="h1"
+              noMargins={true}
+            >
+              <glamorous(h1)
+                align="start"
+                element="h1"
+                noMargins={true}
+              >
+                <h1
+                  className="glamor-0"
+                >
+                  Heading 1
+                </h1>
+              </glamorous(h1)>
+            </Text>
+          </div>
+        </LivePreview>
+      </div>
+    </LiveProvider>
+  </ThemeProvider>
+</ThemeProvider>
+`;
+
+exports[`Text demo examples rtl 1`] = `
+.glamor-1,
+[data-glamor-1] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.glamor-1 *,
+[data-glamor-1] *,
+.glamor-1 *::before,
+[data-glamor-1] *::before,
+.glamor-1 *::after,
+[data-glamor-1] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-1::selection,
+[data-glamor-1]::selection,
+.glamor-1[data-simulate-selection],
+[data-glamor-1][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+.glamor-0,
+[data-glamor-0] {
+  box-sizing: border-box;
+  color: #333840;
+  font-family: Open Sans, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875em;
+  line-height: 1.5;
+  outline: 0;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  margin-bottom: 1em;
+  margin-top: 0;
+  text-align: right;
+}
+
+.glamor-0 *,
+[data-glamor-0] *,
+.glamor-0 *::before,
+[data-glamor-0] *::before,
+.glamor-0 *::after,
+[data-glamor-0] *::after {
+  box-sizing: inherit;
+}
+
+.glamor-0::selection,
+[data-glamor-0]::selection,
+.glamor-0[data-simulate-selection],
+[data-glamor-0][data-simulate-selection] {
+  background-color: #72a5f2;
+}
+
+<ThemeProvider>
+  <ThemeProvider>
+    <LiveProvider>
+      <div
+        className="react-live"
+        scope={
+          Object {
+            "Text": [Function],
+            "ThemeProvider": [Function],
+          }
+        }
+      >
+        <LivePreview>
+          <div
+            className="react-live-preview"
+          >
+            <div
+              dir="rtl"
+            >
+              <ThemeProvider>
+                <ThemeProvider>
+                  <div>
+                    <Text
+                      align="start"
+                      element="p"
+                    >
+                      <glamorous(p)
+                        align="start"
+                        element="p"
+                      >
+                        <p
+                          className="glamor-0"
+                        >
+                          محاذاة البداية
+                        </p>
+                      </glamorous(p)>
+                    </Text>
+                    <Text
+                      align="end"
+                      element="p"
+                    >
+                      <glamorous(p)
+                        align="end"
+                        element="p"
+                      >
+                        <p
+                          className="glamor-1"
+                        >
+                          محاذاة النهاية
+                        </p>
+                      </glamorous(p)>
+                    </Text>
+                  </div>
+                </ThemeProvider>
+              </ThemeProvider>
+            </div>
+          </div>
+        </LivePreview>
+      </div>
+    </LiveProvider>
+  </ThemeProvider>
+</ThemeProvider>
+`;
