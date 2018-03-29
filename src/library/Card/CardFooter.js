@@ -1,10 +1,11 @@
 /* @flow */
 import React, { Component } from 'react';
 import { createStyledComponent, pxToEm } from '../styles';
-import { createThemedComponent } from '../themes';
+import { createThemedComponent, mapComponentThemes } from '../themes';
 import Button from '../Button';
 import IconExpandLess from '../Icon/IconExpandLess';
 import IconExpandMore from '../Icon/IconExpandMore';
+import Text, { componentTheme as textComponentTheme } from '../Text/Text';
 import { componentTheme as cardComponentTheme } from './Card';
 
 type Props = {
@@ -32,18 +33,48 @@ type State = {
   isOpen?: boolean
 };
 
-export const componentTheme = (baseTheme: Object) => ({
-  CardFooter_backgroundColor: baseTheme.color_gray_20,
-  CardFooter_borderColor: baseTheme.color_gray_40,
+export const componentTheme = (baseTheme: Object) => {
+  const textTheme = textComponentTheme(baseTheme);
+  const {
+    Text_color_h5,
+    Text_fontSize_h5,
+    Text_fontWeight_h5,
+    ...rest
+  } = textTheme;
+  const ignoreRest = { ...rest };
 
-  CardFooterRow_marginVertical: baseTheme.space_stack_sm,
-  CardFooterRow_marginVerticalLast: baseTheme.space_stack_md,
+  return {
+    CardFooter_backgroundColor: baseTheme.color_gray_20,
+    CardFooter_borderColor: baseTheme.color_gray_40,
 
-  CardFooterTitle_color: baseTheme.color_text,
-  CardFooterTitle_fontSize: baseTheme.fontSize_h5,
-  CardFooterTitle_fontWeight: baseTheme.fontWeight_bold,
+    CardFooterRow_marginVertical: baseTheme.space_stack_sm,
+    CardFooterRow_marginVerticalLast: baseTheme.space_stack_md,
 
-  ...baseTheme
+    CardFooterTitle_color: Text_color_h5,
+    CardFooterTitle_fontSize: Text_fontSize_h5,
+    CardFooterTitle_fontWeight: Text_fontWeight_h5,
+
+    ...baseTheme
+  };
+};
+
+const ThemedText = createThemedComponent(Text, ({ theme: baseTheme }) => {
+  const cardFooterTheme = componentTheme(baseTheme);
+  return {
+    ...mapComponentThemes(
+      {
+        name: 'CardFooterTitle',
+        theme: cardFooterTheme
+      },
+      {
+        name: 'Text',
+        theme: {
+          Text_color_h5: cardFooterTheme.CardFooterTitle_color
+        }
+      },
+      baseTheme
+    )
+  };
 });
 
 /*
@@ -85,10 +116,10 @@ const styles = {
       paddingTop: '0.01em' // Necessary to prevent margin collapse of first-child
     };
   },
-  title: props => {
+  title: ({ theme: baseTheme }) => {
     const theme = {
-      ...componentTheme(props.theme),
-      ...cardComponentTheme(props.theme)
+      ...componentTheme(baseTheme),
+      ...cardComponentTheme(baseTheme)
     };
     return {
       alignItems: 'flex-start',
@@ -99,16 +130,8 @@ const styles = {
       paddingRight: theme.CardRow_paddingHorizontal
     };
   },
-  titleContent: props => {
-    const theme = componentTheme(props.theme);
-
-    return {
-      color: theme.CardFooterTitle_color,
-      flex: '1 1 auto',
-      fontSize: theme.CardFooterTitle_fontSize,
-      fontWeight: theme.CardFooterTitle_fontWeight,
-      margin: 0
-    };
+  titleContent: {
+    flex: '1 1 auto'
   },
   /*
    * A large Button, even with zero'd padding, is still a bit too large in this
@@ -121,7 +144,7 @@ const styles = {
     minWidth: 0,
     overflow: 'hidden',
     padding: 0,
-    transform: `translateY(-${pxToEm(1)})`, // Optical alignment
+    transform: `translateY(${pxToEm(2)})`, // Optical alignment
 
     // Inner
     '& > span': {
@@ -146,7 +169,10 @@ const Root = createStyledComponent('div', styles.root, {
  */
 const Content = createThemedComponent(props => <div {...props} />, footerTheme);
 const Title = createStyledComponent('div', styles.title);
-const TitleContent = createStyledComponent('h4', styles.titleContent);
+const TitleContent = createStyledComponent(
+  ThemedText,
+  styles.titleContent
+).withProps({ element: 'h4', appearance: 'h5', noMargins: true });
 const ToggleButton = createStyledComponent(Button, styles.toggleButton);
 
 /**

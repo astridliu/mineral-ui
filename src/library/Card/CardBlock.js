@@ -1,6 +1,8 @@
 /* @flow */
 import React from 'react';
 import { createStyledComponent } from '../styles';
+import { createThemedComponent, mapComponentThemes } from '../themes';
+import Text, { componentTheme as textComponentTheme } from '../Text/Text';
 import { componentTheme as cardComponentTheme } from './Card';
 import CardRow from './CardRow';
 
@@ -9,22 +11,46 @@ type Props = {
   children: React$Node
 };
 
-export const componentTheme = (baseTheme: Object) => ({
-  CardBlock_fontSize: baseTheme.fontSize_ui,
-  CardBlock_lineHeight: baseTheme.lineHeight_prose,
+export const componentTheme = (baseTheme: Object) => {
+  const textTheme = textComponentTheme(baseTheme);
+  const { Text_fontSize, Text_lineHeight, ...rest } = textTheme;
+  const ignoreRest = { ...rest };
 
-  ...baseTheme
+  return {
+    ...mapComponentThemes(
+      {
+        name: 'Text',
+        theme: {
+          Text_fontSize,
+          Text_lineHeight
+        }
+      },
+      {
+        name: 'CardBlock',
+        theme: {}
+      },
+      baseTheme
+    )
+  };
+};
+
+const ThemedText = createThemedComponent(Text, ({ theme: baseTheme }) => {
+  return {
+    ...mapComponentThemes(
+      {
+        name: 'CardBlock',
+        theme: componentTheme(baseTheme)
+      },
+      {
+        name: 'Text',
+        theme: {}
+      },
+      baseTheme
+    )
+  };
 });
 
 const styles = {
-  inner: props => {
-    const theme = componentTheme(props.theme);
-
-    return {
-      fontSize: theme.CardBlock_fontSize,
-      lineHeight: theme.CardBlock_lineHeight
-    };
-  },
   root: props => {
     const theme = cardComponentTheme(props.theme);
 
@@ -39,7 +65,6 @@ const styles = {
 const Root = createStyledComponent(CardRow, styles.root, {
   displayName: 'CardBlock'
 });
-const Inner = createStyledComponent('div', styles.inner);
 
 /**
  * CardBlock is used to normalize font sizes for content and to provide
@@ -48,7 +73,9 @@ const Inner = createStyledComponent('div', styles.inner);
 export default function CardBlock({ children, ...restProps }: Props) {
   return (
     <Root {...restProps}>
-      <Inner>{children}</Inner>
+      <ThemedText color="inherit" element="div" noMargins>
+        {children}
+      </ThemedText>
     </Root>
   );
 }
