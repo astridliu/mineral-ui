@@ -36,6 +36,24 @@ type Props = {
   truncate?: boolean | number | string
 };
 
+const customStringType = (
+  props: {},
+  propName: string,
+  componentName: ?string
+) => {
+  componentName = componentName || 'ANONYMOUS';
+
+  if (props[propName]) {
+    let value = props[propName];
+    return typeof value === 'string'
+      ? null
+      : new Error(propName + ' in ' + componentName + ' must be a string');
+  }
+
+  // assume all ok
+  return null;
+};
+
 export const componentTheme = (baseTheme: Object) => ({
   Text_color: baseTheme.color_text,
   Text_color_h1: baseTheme.color_h1,
@@ -209,8 +227,7 @@ export default class Text extends Component<Props> {
   };
 
   static contextTypes = {
-    // $FlowFixMe
-    parentElement: PropTypes.string // eslint-disable-line no-undef
+    parentElement: customStringType
   };
 
   render() {

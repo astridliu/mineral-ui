@@ -1,6 +1,5 @@
 /* @flow */
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
 import { createRootNode } from './Text';
 
 type Props = {
@@ -35,10 +34,27 @@ type Props = {
   truncate?: boolean | number | string
 };
 
-export default class ContextualText extends Component<Props> {
+const customStringType = (
+  props: {},
+  propName: string,
+  componentName: ?string
+) => {
+  componentName = componentName || 'ANONYMOUS';
+
+  if (props[propName]) {
+    let value = props[propName];
+    return typeof value === 'string'
+      ? null
+      : new Error(propName + ' in ' + componentName + ' must be a string');
+  }
+
+  // assume all ok
+  return null;
+};
+
+export default class TextProvider extends Component<Props> {
   static childContextTypes = {
-    // $FlowFixMe
-    parentElement: PropTypes.string // eslint-disable-line no-undef
+    parentElement: customStringType
   };
 
   getChildContext() {
